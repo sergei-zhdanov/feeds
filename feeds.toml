@@ -4,6 +4,6 @@ timeout = 30
 [defacto]
 title = "De Facto Воронеж"
 url = "https://facto.ru"
-entrySelector = "div.item"
+entrySelector = "div.item .text"
 titleSelector = "div.name"
 linkSelector = "a"
