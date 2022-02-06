@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://sergei-zhdanov.github.io/feeds/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2022-02-06T14:51:18.862Z</updated>
+    <id>https://facto.ru</id>
+    <title>De Facto Воронеж</title>
+    <updated>2022-02-06T14:51:18.854Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://facto.ru/bitrix/templates/cz_facto_2016/favicons/favicon-16x16.png</icon>
     <entry>
-        <title type="html"><![CDATA[undefined (De Facto Воронеж)]]></title>
+        <title type="html"><![CDATA[0]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2022/02/kinoteatry_voronezhskoy_oblasti_za_nedelyu_prostoya_mogut_ne_doschitatsya_do_320_tysyach_rubley_vyru/</id>
         <link href="https://facto.ru/glavnaya_lenta_novostej/2022/02/kinoteatry_voronezhskoy_oblasti_za_nedelyu_prostoya_mogut_ne_doschitatsya_do_320_tysyach_rubley_vyru/"/>
         <updated>2022-02-06T14:51:17.945Z</updated>
@@ -21,7 +22,7 @@
                                             </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (De Facto Воронеж)]]></title>
+        <title type="html"><![CDATA[1]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2022/02/v_instagram_de_facto_sostoitsya_pryamoy_efir_o_rezhime_samozanyatosti_/</id>
         <link href="https://facto.ru/glavnaya_lenta_novostej/2022/02/v_instagram_de_facto_sostoitsya_pryamoy_efir_o_rezhime_samozanyatosti_/"/>
         <updated>2022-02-06T14:51:17.950Z</updated>
@@ -37,7 +38,7 @@
                                             </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (De Facto Воронеж)]]></title>
+        <title type="html"><![CDATA[2]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2022/01/mozhno_li_prodavat_dorogie_tovary_i_uslugi_cherez_tiktok_analiziruet_smm_agentstvo_de_facto/</id>
         <link href="https://facto.ru/glavnaya_lenta_novostej/2022/01/mozhno_li_prodavat_dorogie_tovary_i_uslugi_cherez_tiktok_analiziruet_smm_agentstvo_de_facto/"/>
         <updated>2022-02-06T14:51:17.956Z</updated>
@@ -53,7 +54,7 @@
                                             </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (De Facto Воронеж)]]></title>
+        <title type="html"><![CDATA[3]]></title>
         <id>https://facto.ru/test-2022-01-31/olimp5-vanni.html</id>
         <link href="https://facto.ru/test-2022-01-31/olimp5-vanni.html"/>
         <updated>2022-02-06T14:51:18.102Z</updated>
@@ -69,7 +70,7 @@
                                             </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (De Facto Воронеж)]]></title>
+        <title type="html"><![CDATA[4]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2022/01/v_voronezhe_kolichestvo_chastnykh_sportshkol_za_poslednie_mesyatsy_sokratilos/</id>
         <link href="https://facto.ru/glavnaya_lenta_novostej/2022/01/v_voronezhe_kolichestvo_chastnykh_sportshkol_za_poslednie_mesyatsy_sokratilos/"/>
         <updated>2022-02-06T14:51:18.103Z</updated>
@@ -85,7 +86,7 @@
                                             </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (De Facto Воронеж)]]></title>
+        <title type="html"><![CDATA[5]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2022/02/eks_direktora_voronezhskogo_oblkommunservisa_dyatlova_priznali_vinovnym_v_poluchenii_vzyatki/</id>
         <link href="https://facto.ru/glavnaya_lenta_novostej/2022/02/eks_direktora_voronezhskogo_oblkommunservisa_dyatlova_priznali_vinovnym_v_poluchenii_vzyatki/"/>
         <updated>2022-02-06T14:51:18.104Z</updated>
@@ -97,7 +98,7 @@
 	        </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (De Facto Воронеж)]]></title>
+        <title type="html"><![CDATA[6]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2022/02/nordstar_vozobnovit_aviareysy_iz_voronezha_v_sochi_i_norilsk_v_mae/</id>
         <link href="https://facto.ru/glavnaya_lenta_novostej/2022/02/nordstar_vozobnovit_aviareysy_iz_voronezha_v_sochi_i_norilsk_v_mae/"/>
         <updated>2022-02-06T14:51:18.106Z</updated>
@@ -109,7 +110,7 @@
 	        </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (De Facto Воронеж)]]></title>
+        <title type="html"><![CDATA[7]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2022/02/platonovskiy_festival_otkryl_priem_zayavok_na_uchastie_v_proekte_po_sozdaniyu_ulichnogo_teatra_v_vor/</id>
         <link href="https://facto.ru/glavnaya_lenta_novostej/2022/02/platonovskiy_festival_otkryl_priem_zayavok_na_uchastie_v_proekte_po_sozdaniyu_ulichnogo_teatra_v_vor/"/>
         <updated>2022-02-06T14:51:18.106Z</updated>
@@ -121,7 +122,7 @@
 	        </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (De Facto Воронеж)]]></title>
+        <title type="html"><![CDATA[8]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2022/02/v_4_rayonakh_voronezhskoy_oblasti_do_2024_goda_poyavyatsya_tsentry_onkologicheskoy_pomoshchi/</id>
         <link href="https://facto.ru/glavnaya_lenta_novostej/2022/02/v_4_rayonakh_voronezhskoy_oblasti_do_2024_goda_poyavyatsya_tsentry_onkologicheskoy_pomoshchi/"/>
         <updated>2022-02-06T14:51:18.107Z</updated>
@@ -133,7 +134,7 @@
 	        </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (De Facto Воронеж)]]></title>
+        <title type="html"><![CDATA[9]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2022/02/v_voronezhe_na_blagoustroystvo_7_dvorov_potratyat_do_28_mln_rubley/</id>
         <link href="https://facto.ru/glavnaya_lenta_novostej/2022/02/v_voronezhe_na_blagoustroystvo_7_dvorov_potratyat_do_28_mln_rubley/"/>
         <updated>2022-02-06T14:51:18.107Z</updated>
@@ -145,7 +146,7 @@
 	        </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (De Facto Воронеж)]]></title>
+        <title type="html"><![CDATA[10]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2022/02/v_zakaznike_voronezhskiy_nezakonno_vyrubili_derevya_na_15_mln_rubley/</id>
         <link href="https://facto.ru/glavnaya_lenta_novostej/2022/02/v_zakaznike_voronezhskiy_nezakonno_vyrubili_derevya_na_15_mln_rubley/"/>
         <updated>2022-02-06T14:51:18.109Z</updated>
@@ -157,7 +158,7 @@
 	        </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (De Facto Воронеж)]]></title>
+        <title type="html"><![CDATA[11]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2022/02/v_voronezhskoy_oez_tsentr_postroyat_administrativno_delovoy_korpus_za_130_mln_rubley/</id>
         <link href="https://facto.ru/glavnaya_lenta_novostej/2022/02/v_voronezhskoy_oez_tsentr_postroyat_administrativno_delovoy_korpus_za_130_mln_rubley/"/>
         <updated>2022-02-06T14:51:18.114Z</updated>
@@ -169,7 +170,7 @@
 	        </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (De Facto Воронеж)]]></title>
+        <title type="html"><![CDATA[12]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2022/02/v_voronezhskoy_oblasti_razvernuli_3022_kovid_koek/</id>
         <link href="https://facto.ru/glavnaya_lenta_novostej/2022/02/v_voronezhskoy_oblasti_razvernuli_3022_kovid_koek/"/>
         <updated>2022-02-06T14:51:18.115Z</updated>
@@ -181,7 +182,7 @@
 	        </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (De Facto Воронеж)]]></title>
+        <title type="html"><![CDATA[13]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2022/02/chislo_zabolevshikh_koronavirusom_voronezhtsev_za_sutki_pochti_4_tysyachi/</id>
         <link href="https://facto.ru/glavnaya_lenta_novostej/2022/02/chislo_zabolevshikh_koronavirusom_voronezhtsev_za_sutki_pochti_4_tysyachi/"/>
         <updated>2022-02-06T14:51:18.116Z</updated>
@@ -193,7 +194,7 @@
 	        </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (De Facto Воронеж)]]></title>
+        <title type="html"><![CDATA[14]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2022/02/polovina_musornykh_poligonov_voronezhskoy_oblasti_zapolneny_na_75/</id>
         <link href="https://facto.ru/glavnaya_lenta_novostej/2022/02/polovina_musornykh_poligonov_voronezhskoy_oblasti_zapolneny_na_75/"/>
         <updated>2022-02-06T14:51:18.116Z</updated>
@@ -205,7 +206,7 @@
 	        </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (De Facto Воронеж)]]></title>
+        <title type="html"><![CDATA[15]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2022/02/v_voronezhskoy_oblasti_na_opredelenie_normativov_nakopleniya_tko_potratyat_do_15_mln_rubley/</id>
         <link href="https://facto.ru/glavnaya_lenta_novostej/2022/02/v_voronezhskoy_oblasti_na_opredelenie_normativov_nakopleniya_tko_potratyat_do_15_mln_rubley/"/>
         <updated>2022-02-06T14:51:18.117Z</updated>
@@ -217,7 +218,7 @@
 	        </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (De Facto Воронеж)]]></title>
+        <title type="html"><![CDATA[16]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2022/02/ip_k_i_t_priobrela_v_2_3_ga_u_obankrotivshegosya_voronezhtruboprovodstroya_za_150_mln_rubley/</id>
         <link href="https://facto.ru/glavnaya_lenta_novostej/2022/02/ip_k_i_t_priobrela_v_2_3_ga_u_obankrotivshegosya_voronezhtruboprovodstroya_za_150_mln_rubley/"/>
         <updated>2022-02-06T14:51:18.119Z</updated>
@@ -229,7 +230,7 @@
 	        </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (De Facto Воронеж)]]></title>
+        <title type="html"><![CDATA[17]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2022/02/v_voronezhskoy_oblasti_zaregistrirovali_14_zarazhennykh_shtammom_omikron/</id>
         <link href="https://facto.ru/glavnaya_lenta_novostej/2022/02/v_voronezhskoy_oblasti_zaregistrirovali_14_zarazhennykh_shtammom_omikron/"/>
         <updated>2022-02-06T14:51:18.120Z</updated>
@@ -241,7 +242,7 @@
 	        </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (De Facto Воронеж)]]></title>
+        <title type="html"><![CDATA[18]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2022/02/byvshiy_vitse_mer_voronezha_priznal_vinu_v_poluchenii_vzyatki/</id>
         <link href="https://facto.ru/glavnaya_lenta_novostej/2022/02/byvshiy_vitse_mer_voronezha_priznal_vinu_v_poluchenii_vzyatki/"/>
         <updated>2022-02-06T14:51:18.121Z</updated>
@@ -253,7 +254,7 @@
 	        </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (De Facto Воронеж)]]></title>
+        <title type="html"><![CDATA[19]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2022/02/v_voronezhskoy_oblasti_potreblenie_elektroenergii_uvelichilos_na_4_3/</id>
         <link href="https://facto.ru/glavnaya_lenta_novostej/2022/02/v_voronezhskoy_oblasti_potreblenie_elektroenergii_uvelichilos_na_4_3/"/>
         <updated>2022-02-06T14:51:18.122Z</updated>
@@ -265,7 +266,7 @@
 	        </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (De Facto Воронеж)]]></title>
+        <title type="html"><![CDATA[20]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2022/02/v_voronezhe_sinema_park_prodolzhil_rabotu_nesmotrya_na_kovidnye_zaprety/</id>
         <link href="https://facto.ru/glavnaya_lenta_novostej/2022/02/v_voronezhe_sinema_park_prodolzhil_rabotu_nesmotrya_na_kovidnye_zaprety/"/>
         <updated>2022-02-06T14:51:18.126Z</updated>
@@ -277,7 +278,7 @@
 	        </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (De Facto Воронеж)]]></title>
+        <title type="html"><![CDATA[21]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2022/02/v_blagoustroystvo_lesa_pobedy_v_voronezhskom_raytsentre_vlozhat_do_11_mln_rubley/</id>
         <link href="https://facto.ru/glavnaya_lenta_novostej/2022/02/v_blagoustroystvo_lesa_pobedy_v_voronezhskom_raytsentre_vlozhat_do_11_mln_rubley/"/>
         <updated>2022-02-06T14:51:18.128Z</updated>
@@ -289,7 +290,7 @@
 	        </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (De Facto Воронеж)]]></title>
+        <title type="html"><![CDATA[22]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2022/02/s_1_marta_vkhod_v_voronezhskiy_zapovednik_stanet_platnym/</id>
         <link href="https://facto.ru/glavnaya_lenta_novostej/2022/02/s_1_marta_vkhod_v_voronezhskiy_zapovednik_stanet_platnym/"/>
         <updated>2022-02-06T14:51:18.131Z</updated>
@@ -301,7 +302,7 @@
 	        </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (De Facto Воронеж)]]></title>
+        <title type="html"><![CDATA[23]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2022/02/v_voronezhe_na_dve_nedeli_zakryli_klub_aura_za_kovid_narusheniya/</id>
         <link href="https://facto.ru/glavnaya_lenta_novostej/2022/02/v_voronezhe_na_dve_nedeli_zakryli_klub_aura_za_kovid_narusheniya/"/>
         <updated>2022-02-06T14:51:18.131Z</updated>
@@ -313,7 +314,7 @@
 	        </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (De Facto Воронеж)]]></title>
+        <title type="html"><![CDATA[24]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2022/02/dlya_bolnitsy_v_voronezhe_priobretut_generator_za_3_6_mln_rubley/</id>
         <link href="https://facto.ru/glavnaya_lenta_novostej/2022/02/dlya_bolnitsy_v_voronezhe_priobretut_generator_za_3_6_mln_rubley/"/>
         <updated>2022-02-06T14:51:18.139Z</updated>
@@ -325,7 +326,7 @@
 	        </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (De Facto Воронеж)]]></title>
+        <title type="html"><![CDATA[25]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2022/02/rost_promproizvodstva_v_voronezhskoy_oblasti_po_itogam_goda_sostavil_15_2/</id>
         <link href="https://facto.ru/glavnaya_lenta_novostej/2022/02/rost_promproizvodstva_v_voronezhskoy_oblasti_po_itogam_goda_sostavil_15_2/"/>
         <updated>2022-02-06T14:51:18.148Z</updated>
@@ -337,7 +338,7 @@
 	        </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (De Facto Воронеж)]]></title>
+        <title type="html"><![CDATA[26]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2022/02/v_ertile_voronezhskoy_oblasti_otkrylsya_vremennyy_tsentr_diagnostiki_koronavirusa/</id>
         <link href="https://facto.ru/glavnaya_lenta_novostej/2022/02/v_ertile_voronezhskoy_oblasti_otkrylsya_vremennyy_tsentr_diagnostiki_koronavirusa/"/>
         <updated>2022-02-06T14:51:18.149Z</updated>
@@ -349,7 +350,7 @@
 	        </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (De Facto Воронеж)]]></title>
+        <title type="html"><![CDATA[27]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2022/02/v_voronezhe_uvelichat_do_420_kolichestvo_kovid_koek_dlya_gospitalizatsii_detey/</id>
         <link href="https://facto.ru/glavnaya_lenta_novostej/2022/02/v_voronezhe_uvelichat_do_420_kolichestvo_kovid_koek_dlya_gospitalizatsii_detey/"/>
         <updated>2022-02-06T14:51:18.152Z</updated>
@@ -361,7 +362,7 @@
 	        </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (De Facto Воронеж)]]></title>
+        <title type="html"><![CDATA[28]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2022/02/na_kapremont_voronezhskikh_shkol_napravili_polmilliarda_rubley/</id>
         <link href="https://facto.ru/glavnaya_lenta_novostej/2022/02/na_kapremont_voronezhskikh_shkol_napravili_polmilliarda_rubley/"/>
         <updated>2022-02-06T14:51:18.152Z</updated>
@@ -373,7 +374,7 @@
 	        </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (De Facto Воронеж)]]></title>
+        <title type="html"><![CDATA[29]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2022/02/v_voronezhe_proshli_vserossiyskie_sorevnovaniya_po_sportivnoy_akrobatike/</id>
         <link href="https://facto.ru/glavnaya_lenta_novostej/2022/02/v_voronezhe_proshli_vserossiyskie_sorevnovaniya_po_sportivnoy_akrobatike/"/>
         <updated>2022-02-06T14:51:18.160Z</updated>
@@ -385,7 +386,7 @@
 	        </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (De Facto Воронеж)]]></title>
+        <title type="html"><![CDATA[30]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2022/02/nordwind_zapustit_aviareysy_iz_voronezha_v_krym_s_30_aprelya/</id>
         <link href="https://facto.ru/glavnaya_lenta_novostej/2022/02/nordwind_zapustit_aviareysy_iz_voronezha_v_krym_s_30_aprelya/"/>
         <updated>2022-02-06T14:51:18.165Z</updated>
@@ -397,7 +398,7 @@
 	        </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (De Facto Воронеж)]]></title>
+        <title type="html"><![CDATA[31]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2022/02/v_dvukh_uchebnykh_zavedeniyakh_voronezhskoy_oblasti_nashli_sanitarnye_narusheniya/</id>
         <link href="https://facto.ru/glavnaya_lenta_novostej/2022/02/v_dvukh_uchebnykh_zavedeniyakh_voronezhskoy_oblasti_nashli_sanitarnye_narusheniya/"/>
         <updated>2022-02-06T14:51:18.167Z</updated>
@@ -409,7 +410,7 @@
 	        </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (De Facto Воронеж)]]></title>
+        <title type="html"><![CDATA[32]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2022/02/v_raytsentre_pod_voronezhem_postroyat_tsentr_kulturnogo_razvitiya_za_125_6_mln_rubley/</id>
         <link href="https://facto.ru/glavnaya_lenta_novostej/2022/02/v_raytsentre_pod_voronezhem_postroyat_tsentr_kulturnogo_razvitiya_za_125_6_mln_rubley/"/>
         <updated>2022-02-06T14:51:18.167Z</updated>
@@ -421,7 +422,7 @@
 	        </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (De Facto Воронеж)]]></title>
+        <title type="html"><![CDATA[33]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2022/02/na_remont_mosta_v_voronezhskoy_oblasti_planiruyut_potratit_168_mln_rubley/</id>
         <link href="https://facto.ru/glavnaya_lenta_novostej/2022/02/na_remont_mosta_v_voronezhskoy_oblasti_planiruyut_potratit_168_mln_rubley/"/>
         <updated>2022-02-06T14:51:18.167Z</updated>
@@ -433,7 +434,7 @@
 	        </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (De Facto Воронеж)]]></title>
+        <title type="html"><![CDATA[34]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2022/02/v_voronezhe_iz_za_covid_19_i_orvi_zakrylis_124_nachalnykh_klassa/</id>
         <link href="https://facto.ru/glavnaya_lenta_novostej/2022/02/v_voronezhe_iz_za_covid_19_i_orvi_zakrylis_124_nachalnykh_klassa/"/>
         <updated>2022-02-06T14:51:18.168Z</updated>
