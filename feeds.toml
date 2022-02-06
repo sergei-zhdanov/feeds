@@ -4,6 +4,6 @@ timeout = 30
 [defacto]
 title = "defactovrn"
 url = "https://facto.ru"
-entrySelector = "text "
-titleSelector = "name"
-linkSelector = "name a"
+entrySelector = ".text "
+titleSelector = ".name"
+linkSelector = ".name a"
