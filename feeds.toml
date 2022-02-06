@@ -2,7 +2,7 @@
 timeout = 30
 
 [defacto]
-title = "De Facto Воронеж"
+title = "defactovrn"
 url = "https://facto.ru"
 entrySelector = ".news-list-main .item .text"
 titleSelector = "name"
