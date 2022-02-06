@@ -1,9 +1,9 @@
 [default]
 timeout = 30
 
-[defacto]
-title = "defactovrn"
-url = "https://facto.ru"
-entrySelector = ".text "
-titleSelector = ".name"
-linkSelector = ".name a"
+[wikivoyage]
+title = "Wikivoyage recommendations"
+url = "https://en.wikivoyage.org/wiki/Main_Page"
+entrySelector = ".jcarousel-wrapper .jcarousel-item"
+titleSelector = "h2"
+linkSelector = "h2 a"
