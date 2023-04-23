@@ -1,9 +1,9 @@
 [default]
 timeout = 30
 
-[defacto]
-title = "De Facto Воронеж"
+[DeFacto Vrn]
+title = "DeFacto Воронеж"
 url = "https://facto.ru"
-entrySelector = "div.main-content .text"
-titleSelector = "p.name"
-linkSelector = "a"
+entrySelector = "div.news-list-main div.item"
+titleSelector = "div.text p.name"
+linkSelector = "div.text p.name a"
