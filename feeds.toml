@@ -1,4 +1,4 @@
-[DeFacto Vrn]
+[defacto]
 title = "DeFacto Воронеж"
 url = "https://facto.ru"
 entrySelector = "div.news-list-main div.item"
