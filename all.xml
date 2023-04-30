@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sergei-zhdanov.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-30T05:34:52.464Z</updated>
+    <updated>2023-04-30T17:34:17.902Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Воронежский «Факел» объявил об уходе Пятибратова с поста главного тренера (DeFacto Воронеж)]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/04/voronezhskiy_fakel_obyavil_ob_ukhode_pyatibratova_s_posta_glavnogo_trenera/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/04/voronezhskiy_fakel_obyavil_ob_ukhode_pyatibratova_s_posta_glavnogo_trenera/"/>
+        <updated>2023-04-30T17:34:17.250Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/04/voronezhskiy_fakel_obyavil_ob_ukhode_pyatibratova_s_posta_glavnogo_trenera/"> Воронежский «Факел» объявил об уходе Пятибратова с поста главного тренера</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[В Острогожске под Воронежем утвердили зону охраны усадьбы XIX века (DeFacto Воронеж)]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/04/v_ostrogozhske_pod_voronezhem_utverdili_zonu_okhrany_usadby_xix_veka_p/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/04/v_ostrogozhske_pod_voronezhem_utverdili_zonu_okhrany_usadby_xix_veka_p/"/>
+        <updated>2023-04-30T17:34:17.250Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/04/v_ostrogozhske_pod_voronezhem_utverdili_zonu_okhrany_usadby_xix_veka_p/"> В Острогожске под Воронежем утвердили зону охраны усадьбы XIX века </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[В Воронеже на проспекте Революции появится скульптура «Сапоги Петра I» (DeFacto Воронеж)]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/04/v_voronezhe_na_prospekte_revolyutsii_poyavitsya_skulptura_sapogi_petra_i/</id>
@@ -199,19 +213,5 @@
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/04/ko_dnyu_pobedy_v_voronezhskoy_oblasti_otremontiruyut_6_memorialov_voinskoy_slavy_/"/>
         <updated>2023-04-28T06:03:11.533Z</updated>
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/04/ko_dnyu_pobedy_v_voronezhskoy_oblasti_otremontiruyut_6_memorialov_voinskoy_slavy_/">Ко Дню Победы в Воронежской области отремонтируют 6 мемориалов воинской славы </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Пенсию в 43 тысячи хотели бы получать жители Воронежа (DeFacto Воронеж)]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/04/stalo_izvestno_kakuyu_pensiyu_khoteli_by_poluchit_voronezhtsy/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/04/stalo_izvestno_kakuyu_pensiyu_khoteli_by_poluchit_voronezhtsy/"/>
-        <updated>2023-04-28T06:03:11.535Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/04/stalo_izvestno_kakuyu_pensiyu_khoteli_by_poluchit_voronezhtsy/">Пенсию в 43 тысячи хотели бы получать жители Воронежа</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[В Воронеже из тарифов на электричество исключили почти 400 млн рублей (DeFacto Воронеж)]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/04/voronezhenergo_za_2_goda_neobosnovanno_khotelo_poluchit_384_mln_rubley_/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/04/voronezhenergo_za_2_goda_neobosnovanno_khotelo_poluchit_384_mln_rubley_/"/>
-        <updated>2023-04-28T06:03:11.537Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/04/voronezhenergo_za_2_goda_neobosnovanno_khotelo_poluchit_384_mln_rubley_/">В Воронеже из тарифов на электричество исключили почти 400 млн рублей </a>]]></content>
     </entry>
 </feed>
