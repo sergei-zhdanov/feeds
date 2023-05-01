@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://facto.ru</id>
     <title>DeFacto Воронеж</title>
-    <updated>2023-05-01T05:34:17.685Z</updated>
+    <updated>2023-05-01T17:34:50.991Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://facto.ru/bitrix/templates/cz_facto_2016/favicons/favicon-16x16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[В Воронежской области под гаражи зарегистрировано 20 тыс. квадратных метров земли]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/04/v_voronezhskoy_oblasti_pod_garazhi_zaregistrirovano_20_tys_kvadratnykh_metrov_zemli/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/04/v_voronezhskoy_oblasti_pod_garazhi_zaregistrirovano_20_tys_kvadratnykh_metrov_zemli/"/>
+        <updated>2023-05-01T17:34:50.007Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/04/v_voronezhskoy_oblasti_pod_garazhi_zaregistrirovano_20_tys_kvadratnykh_metrov_zemli/">В Воронежской области под гаражи зарегистрировано 20 тыс. квадратных метров земли</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[На площадь у театра кукол в Воронеже вернули скульптуру Белого Бима]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/04/na_ploshchad_u_teatra_kukol_v_voronezhe_vernuli_skulpturu_belogo_bima/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/04/na_ploshchad_u_teatra_kukol_v_voronezhe_vernuli_skulpturu_belogo_bima/"/>
+        <updated>2023-05-01T17:34:50.010Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/04/na_ploshchad_u_teatra_kukol_v_voronezhe_vernuli_skulpturu_belogo_bima/">На площадь у театра кукол в Воронеже вернули скульптуру Белого Бима</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Воронежский «Факел» объявил об уходе Пятибратова с поста главного тренера]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/04/voronezhskiy_fakel_obyavil_ob_ukhode_pyatibratova_s_posta_glavnogo_trenera/</id>
@@ -200,19 +214,5 @@
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/04/voronezhskaya_meriya_eshche_raz_proveryat_dokumenty_na_stroitelstvo_mnogoetazhki_na_ulitse_kurchatov/"/>
         <updated>2023-04-28T06:03:11.528Z</updated>
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/04/voronezhskaya_meriya_eshche_raz_proveryat_dokumenty_na_stroitelstvo_mnogoetazhki_na_ulitse_kurchatov/">В воронежском Шилово обсудили строительство проблемной высотки</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Миграционный оборот в Воронежской области повысился на 5,6 тысячи человек]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/04/v_voronezhskuyu_oblast_v_2022_godu_perebralis_5_567_chelovek/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/04/v_voronezhskuyu_oblast_v_2022_godu_perebralis_5_567_chelovek/"/>
-        <updated>2023-04-28T06:03:11.531Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/04/v_voronezhskuyu_oblast_v_2022_godu_perebralis_5_567_chelovek/">Миграционный оборот в Воронежской области повысился на 5,6 тысячи человек</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ко Дню Победы в Воронежской области отремонтируют 6 мемориалов воинской славы]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/04/ko_dnyu_pobedy_v_voronezhskoy_oblasti_otremontiruyut_6_memorialov_voinskoy_slavy_/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/04/ko_dnyu_pobedy_v_voronezhskoy_oblasti_otremontiruyut_6_memorialov_voinskoy_slavy_/"/>
-        <updated>2023-04-28T06:03:11.533Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/04/ko_dnyu_pobedy_v_voronezhskoy_oblasti_otremontiruyut_6_memorialov_voinskoy_slavy_/">Ко Дню Победы в Воронежской области отремонтируют 6 мемориалов воинской славы </a>]]></content>
     </entry>
 </feed>
