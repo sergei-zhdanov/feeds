@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://facto.ru</id>
     <title>DeFacto Воронеж</title>
-    <updated>2023-05-06T05:34:21.765Z</updated>
+    <updated>2023-05-06T17:34:17.637Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://facto.ru/bitrix/templates/cz_facto_2016/favicons/favicon-16x16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Дирижер Гергиев выступит экспертом при реставрации Воронежского театра оперы и балета]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/dirizher_gergiev_vystupit_ekspertom_pri_restavratsii_voronezhskogo_teatra_opery_i_baleta/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/dirizher_gergiev_vystupit_ekspertom_pri_restavratsii_voronezhskogo_teatra_opery_i_baleta/"/>
+        <updated>2023-05-06T17:34:16.813Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/dirizher_gergiev_vystupit_ekspertom_pri_restavratsii_voronezhskogo_teatra_opery_i_baleta/">Дирижер Гергиев выступит экспертом при реставрации Воронежского театра оперы и балета</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Еще 28 воронежцев отправились на военную службу по контракту]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/eshche_28_voronezhtsev_otpravilis_na_voennuyu_sluzhbu_po_kontraktu/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/eshche_28_voronezhtsev_otpravilis_na_voennuyu_sluzhbu_po_kontraktu/"/>
+        <updated>2023-05-06T17:34:16.825Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/eshche_28_voronezhtsev_otpravilis_na_voennuyu_sluzhbu_po_kontraktu/">Еще 28 воронежцев отправились на военную службу по контракту</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Мэр Воронежа Вадим Кстенин рассказал, что в сквере у Дома офицеров появились саженцы черемухи]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/mer_voronezha_vadim_kstenin_rasskazal_chto_v_skvere_u_doma_ofitserov_poyavilis_sazhentsy_cheremukhi/</id>
@@ -200,19 +214,5 @@
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/voronezhskiy_gubernator_vydelil_sredstva_na_stroitelstvo_doma_kultury_v_kashirskom_rayone/"/>
         <updated>2023-05-04T17:34:23.413Z</updated>
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/voronezhskiy_gubernator_vydelil_sredstva_na_stroitelstvo_doma_kultury_v_kashirskom_rayone/">Воронежский губернатор выделил средства на строительство Дома культуры в Каширском районе</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Воронежский «Факел» призвал РФС объяснить замену судьи на предстоящий матч]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/voronezhskiy_fakel_prizval_rfs_obyasnit_zamenu_sudi_na_predstoyashchiy_match/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/voronezhskiy_fakel_prizval_rfs_obyasnit_zamenu_sudi_na_predstoyashchiy_match/"/>
-        <updated>2023-05-04T17:34:23.414Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/voronezhskiy_fakel_prizval_rfs_obyasnit_zamenu_sudi_na_predstoyashchiy_match/">Воронежский «Факел» призвал РФС объяснить замену судьи на предстоящий матч</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Губернатор Воронежской области Гусев сообщил о сбитом системой ПВО беспилотнике]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/gubernator_voronezhskoy_oblasti_gusev_soobshchil_o_sbitom_sistemoy_pvo_bespilotnike_/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/gubernator_voronezhskoy_oblasti_gusev_soobshchil_o_sbitom_sistemoy_pvo_bespilotnike_/"/>
-        <updated>2023-05-04T17:34:23.435Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/gubernator_voronezhskoy_oblasti_gusev_soobshchil_o_sbitom_sistemoy_pvo_bespilotnike_/">Губернатор Воронежской области Гусев сообщил о сбитом системой ПВО беспилотнике </a>]]></content>
     </entry>
 </feed>
