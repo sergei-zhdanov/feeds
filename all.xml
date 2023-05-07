@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sergei-zhdanov.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-07T05:34:29.205Z</updated>
+    <updated>2023-05-07T17:34:34.037Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Воронежскую юношескую библиотеку имени Кубанева отремонтирует местная компания «Регионстрой» (DeFacto Воронеж)]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/voronezhskuyu_yunosheskuyu_biblioteku_imeni_kubaneva_otremontiruet_mestnaya_kompaniya_regionstroy/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/voronezhskuyu_yunosheskuyu_biblioteku_imeni_kubaneva_otremontiruet_mestnaya_kompaniya_regionstroy/"/>
+        <updated>2023-05-07T17:34:32.455Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/voronezhskuyu_yunosheskuyu_biblioteku_imeni_kubaneva_otremontiruet_mestnaya_kompaniya_regionstroy/">Воронежскую юношескую библиотеку имени Кубанева отремонтирует местная компания «Регионстрой»</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Воронежский «Факел» обыграл «Ростов» в первом же матче после назначения Евсеева (DeFacto Воронеж)]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/voronezhskiy_fakel_obygral_rostov_v_pervom_zhe_matche_posle_naznacheniya_evseeva/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/voronezhskiy_fakel_obygral_rostov_v_pervom_zhe_matche_posle_naznacheniya_evseeva/"/>
+        <updated>2023-05-07T17:34:32.464Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/voronezhskiy_fakel_obygral_rostov_v_pervom_zhe_matche_posle_naznacheniya_evseeva/">Воронежский «Факел» обыграл «Ростов» в первом же матче после назначения Евсеева</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Дирижер Гергиев выступит экспертом при реставрации Воронежского театра оперы и балета (DeFacto Воронеж)]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/dirizher_gergiev_vystupit_ekspertom_pri_restavratsii_voronezhskogo_teatra_opery_i_baleta/</id>
@@ -199,19 +213,5 @@
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/voronezhskaya_oblast_zanyala_74_e_mesto_sredi_regionov_po_gotovnosti_soiskateley_otpravitsya_na_vakh/"/>
         <updated>2023-05-04T17:34:23.411Z</updated>
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/voronezhskaya_oblast_zanyala_74_e_mesto_sredi_regionov_po_gotovnosti_soiskateley_otpravitsya_na_vakh/">Воронежская область заняла 74-е место среди регионов по готовности соискателей отправиться на вахту</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Как себя вести в интернете в условиях спецоперации, напомнили воронежцам (DeFacto Воронеж)]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/kak_sebya_vesti_v_internete_v_usloviyakh_spetsoperatsii_napomnili_voronezhtsam_/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/kak_sebya_vesti_v_internete_v_usloviyakh_spetsoperatsii_napomnili_voronezhtsam_/"/>
-        <updated>2023-05-04T17:34:23.411Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/kak_sebya_vesti_v_internete_v_usloviyakh_spetsoperatsii_napomnili_voronezhtsam_/">Как себя вести в интернете в условиях спецоперации, напомнили воронежцам </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Воронежский губернатор выделил средства на строительство Дома культуры в Каширском районе (DeFacto Воронеж)]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/voronezhskiy_gubernator_vydelil_sredstva_na_stroitelstvo_doma_kultury_v_kashirskom_rayone/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/voronezhskiy_gubernator_vydelil_sredstva_na_stroitelstvo_doma_kultury_v_kashirskom_rayone/"/>
-        <updated>2023-05-04T17:34:23.413Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/voronezhskiy_gubernator_vydelil_sredstva_na_stroitelstvo_doma_kultury_v_kashirskom_rayone/">Воронежский губернатор выделил средства на строительство Дома культуры в Каширском районе</a>]]></content>
     </entry>
 </feed>
