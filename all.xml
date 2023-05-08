@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sergei-zhdanov.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-08T05:34:46.608Z</updated>
+    <updated>2023-05-08T17:34:47.955Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Проект благоустройства второй очереди Петровской набережной в Воронеже получил заключение госэкспертизы (DeFacto Воронеж)]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/proekt_blagoustroystva_vtoroy_ocheredi_petrovskoy_naberezhnoy_v_voronezhe_poluchil_zaklyuchenie_gose/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/proekt_blagoustroystva_vtoroy_ocheredi_petrovskoy_naberezhnoy_v_voronezhe_poluchil_zaklyuchenie_gose/"/>
+        <updated>2023-05-08T17:34:47.256Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/proekt_blagoustroystva_vtoroy_ocheredi_petrovskoy_naberezhnoy_v_voronezhe_poluchil_zaklyuchenie_gose/">Проект благоустройства второй очереди Петровской набережной в Воронеже получил заключение госэкспертизы</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Мэр Воронежа Кстенин пригрозил расторгнуть контракт с перевозчиком после ДТП с автобусом (DeFacto Воронеж)]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/mer_voronezha_kstenin_prigrozil_rastorgnut_kontrakt_s_perevozchikom_posle_dtp_s_avtobusom/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/mer_voronezha_kstenin_prigrozil_rastorgnut_kontrakt_s_perevozchikom_posle_dtp_s_avtobusom/"/>
+        <updated>2023-05-08T17:34:47.258Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/mer_voronezha_kstenin_prigrozil_rastorgnut_kontrakt_s_perevozchikom_posle_dtp_s_avtobusom/">Мэр Воронежа Кстенин пригрозил расторгнуть контракт с перевозчиком после ДТП с автобусом</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Губернатор Гусев рассказал Владимиру Путину о мерах поддержки участников СВО в Воронежской области (DeFacto Воронеж)]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/gubernator_gusev_rasskazal_vladimiru_putinu_o_merakh_podderzhki_uchastnikov_svo_v_voronezhskoy_oblas/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/gubernator_gusev_rasskazal_vladimiru_putinu_o_merakh_podderzhki_uchastnikov_svo_v_voronezhskoy_oblas/"/>
+        <updated>2023-05-08T17:34:47.262Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/gubernator_gusev_rasskazal_vladimiru_putinu_o_merakh_podderzhki_uchastnikov_svo_v_voronezhskoy_oblas/">Губернатор Гусев рассказал Владимиру Путину о мерах поддержки участников СВО в Воронежской области</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Воронежскую юношескую библиотеку имени Кубанева отремонтирует местная компания «Регионстрой» (DeFacto Воронеж)]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/voronezhskuyu_yunosheskuyu_biblioteku_imeni_kubaneva_otremontiruet_mestnaya_kompaniya_regionstroy/</id>
@@ -192,26 +213,5 @@
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/gigachat_sbera_dayet_sovety_kak_podgotovitsya_k_zelyenomu_marafonu/"/>
         <updated>2023-05-04T17:34:23.408Z</updated>
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/gigachat_sbera_dayet_sovety_kak_podgotovitsya_k_zelyenomu_marafonu/">GigaChat Сбера дает советы, как подготовиться к Зеленому Марафону</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Более 2600 заявок на обучение подали в воронежскую мегашколу (DeFacto Воронеж)]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/bolee_2600_zayavok_na_obuchenie_podali_v_voronezhskuyu_megashkolu/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/bolee_2600_zayavok_na_obuchenie_podali_v_voronezhskuyu_megashkolu/"/>
-        <updated>2023-05-04T17:34:23.408Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/bolee_2600_zayavok_na_obuchenie_podali_v_voronezhskuyu_megashkolu/">Более 2600 заявок на обучение подали в воронежскую мегашколу</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Движение и парковку транспорта 8 мая ограничат в центре Воронежа (DeFacto Воронеж)]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/8_maya_v_tsentre_voronezha_zapretyat_parkovki_i_dvizheniya_avtotransporta_/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/8_maya_v_tsentre_voronezha_zapretyat_parkovki_i_dvizheniya_avtotransporta_/"/>
-        <updated>2023-05-04T17:34:23.410Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/8_maya_v_tsentre_voronezha_zapretyat_parkovki_i_dvizheniya_avtotransporta_/">Движение и парковку транспорта 8 мая ограничат в центре Воронежа </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Воронежская область заняла 74-е место среди регионов по готовности соискателей отправиться на вахту (DeFacto Воронеж)]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/voronezhskaya_oblast_zanyala_74_e_mesto_sredi_regionov_po_gotovnosti_soiskateley_otpravitsya_na_vakh/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/voronezhskaya_oblast_zanyala_74_e_mesto_sredi_regionov_po_gotovnosti_soiskateley_otpravitsya_na_vakh/"/>
-        <updated>2023-05-04T17:34:23.411Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/voronezhskaya_oblast_zanyala_74_e_mesto_sredi_regionov_po_gotovnosti_soiskateley_otpravitsya_na_vakh/">Воронежская область заняла 74-е место среди регионов по готовности соискателей отправиться на вахту</a>]]></content>
     </entry>
 </feed>
