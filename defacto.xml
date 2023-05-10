@@ -2,15 +2,106 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://facto.ru</id>
     <title>DeFacto Воронеж</title>
-    <updated>2023-05-10T05:34:24.833Z</updated>
+    <updated>2023-05-10T17:36:51.888Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://facto.ru/bitrix/templates/cz_facto_2016/favicons/favicon-16x16.png</icon>
     <entry>
-        <title type="html"><![CDATA[В Воронежской области за 6 лет собираются расселить сотню аварийных домов]]></title>
+        <title type="html"><![CDATA[Ушел из жизни бывший главврач воронежского диспансера Вячеслав Куравкин]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/ushel_iz_zhizni_byvshiy_glavvrach_voronezhskogo_dispansera_vyacheslav_kuravkin/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/ushel_iz_zhizni_byvshiy_glavvrach_voronezhskogo_dispansera_vyacheslav_kuravkin/"/>
+        <updated>2023-05-10T17:36:51.183Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/ushel_iz_zhizni_byvshiy_glavvrach_voronezhskogo_dispansera_vyacheslav_kuravkin/">Ушел из жизни бывший главврач воронежского диспансера Вячеслав Куравкин</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[В рабочем поселке под Воронежем построят детский сад за 352 млн рублей]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/v_rabochem_poselke_pod_voronezhem_postroyat_detskiy_sad_za_352_mln_rubley/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/v_rabochem_poselke_pod_voronezhem_postroyat_detskiy_sad_za_352_mln_rubley/"/>
+        <updated>2023-05-10T17:36:51.191Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/v_rabochem_poselke_pod_voronezhem_postroyat_detskiy_sad_za_352_mln_rubley/">В рабочем поселке под Воронежем построят детский сад за 352 млн рублей</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Воронежские сельхозпредприятия произвели более 300 тысяч тонн молока с начала 2023 года]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/voronezhskie_selkhozpredpriyatiya_proizveli_bolee_300_tysyach_tonn_moloka_s_nachala_2023_goda/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/voronezhskie_selkhozpredpriyatiya_proizveli_bolee_300_tysyach_tonn_moloka_s_nachala_2023_goda/"/>
+        <updated>2023-05-10T17:36:51.192Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/voronezhskie_selkhozpredpriyatiya_proizveli_bolee_300_tysyach_tonn_moloka_s_nachala_2023_goda/">Воронежские сельхозпредприятия произвели более 300 тысяч тонн молока с начала 2023 года</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Воронежские власти введут ограничения скорости для электросамокатов]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/voronezhskie_vlasti_prorabatyvayut_vvedut_ogranicheniya_skorosti_dlya_elektrosamokatov/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/voronezhskie_vlasti_prorabatyvayut_vvedut_ogranicheniya_skorosti_dlya_elektrosamokatov/"/>
+        <updated>2023-05-10T17:36:51.193Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/voronezhskie_vlasti_prorabatyvayut_vvedut_ogranicheniya_skorosti_dlya_elektrosamokatov/">Воронежские власти введут ограничения скорости для электросамокатов</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Губернатор Воронежской области Александр Гусев согласовал создание города-спутника «Солнечный»]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/gubernator_voronezhskoy_oblasti_aleksandr_gusev_soglasoval_sozdanie_goroda_sputnika_solnechnyy/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/gubernator_voronezhskoy_oblasti_aleksandr_gusev_soglasoval_sozdanie_goroda_sputnika_solnechnyy/"/>
+        <updated>2023-05-10T17:36:51.195Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/gubernator_voronezhskoy_oblasti_aleksandr_gusev_soglasoval_sozdanie_goroda_sputnika_solnechnyy/">Губернатор Воронежской области Александр Гусев согласовал создание города-спутника «Солнечный»</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[На «Музыке мира» в Белом колодце под Воронежем выступят группы из ЮАР, Грузии, Турции и России]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/na_muzyke_mira_v_belom_kolodtse_pod_voronezhem_vystupyat_gruppy_iz_yuar_gruzii_turtsii_i_rossii_/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/na_muzyke_mira_v_belom_kolodtse_pod_voronezhem_vystupyat_gruppy_iz_yuar_gruzii_turtsii_i_rossii_/"/>
+        <updated>2023-05-10T17:36:51.196Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/na_muzyke_mira_v_belom_kolodtse_pod_voronezhem_vystupyat_gruppy_iz_yuar_gruzii_turtsii_i_rossii_/">На «Музыке мира» в Белом колодце под Воронежем выступят группы из ЮАР, Грузии, Турции и России </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Жителям Воронежа назвали топ-10 самых высокооплачиваемых  вакансий мая с зарплатой до 500 тысяч]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/zhitelyam_voronezha_nazvali_top_10_samykh_vysokooplachivaemykh_vakansiy_maya_s_zarplatoy_do_500_tysya/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/zhitelyam_voronezha_nazvali_top_10_samykh_vysokooplachivaemykh_vakansiy_maya_s_zarplatoy_do_500_tysya/"/>
+        <updated>2023-05-10T17:36:51.196Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/zhitelyam_voronezha_nazvali_top_10_samykh_vysokooplachivaemykh_vakansiy_maya_s_zarplatoy_do_500_tysya/">Жителям Воронежа назвали топ-10 самых высокооплачиваемых  вакансий мая с зарплатой до 500 тысяч</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Жители Воронежа стали больше внимания уделять своему здоровью]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/zhiteli_voronezha_stali_bolshe_vnimaniya_udelyat_svoemu_zdorovyu/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/zhiteli_voronezha_stali_bolshe_vnimaniya_udelyat_svoemu_zdorovyu/"/>
+        <updated>2023-05-10T17:36:51.197Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/zhiteli_voronezha_stali_bolshe_vnimaniya_udelyat_svoemu_zdorovyu/">Жители Воронежа стали больше внимания уделять своему здоровью</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Бывший топ-менеджер ДСК Дмитрий Гладких стал вице-мэром Воронежа по градостроительству]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/byvshiy_top_menedzher_dsk_dmitriy_gladkikh_stal_vitse_merom_voronezha_po_gradostroitelstvu/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/byvshiy_top_menedzher_dsk_dmitriy_gladkikh_stal_vitse_merom_voronezha_po_gradostroitelstvu/"/>
+        <updated>2023-05-10T17:36:51.206Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/byvshiy_top_menedzher_dsk_dmitriy_gladkikh_stal_vitse_merom_voronezha_po_gradostroitelstvu/">Бывший топ-менеджер ДСК Дмитрий Гладких стал вице-мэром Воронежа по градостроительству</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[В Воронеже до конца июня перестанет работать троллейбус №11]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/v_voronezhe_do_kontsa_iyunya_perestanet_rabotat_trolleybus_11_/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/v_voronezhe_do_kontsa_iyunya_perestanet_rabotat_trolleybus_11_/"/>
+        <updated>2023-05-10T17:36:51.209Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/v_voronezhe_do_kontsa_iyunya_perestanet_rabotat_trolleybus_11_/">В Воронеже до конца июня перестанет работать троллейбус №11 </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Воронежский губернатор Александр Гусев: на военном объекте в регионе пресекли атаку двух дронов]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/gubernator_voronezhskoy_oblasti_gusev_soobshchil_o_sbitykh_sistemoy_pvo_dvukh_bespilotnikakh/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/gubernator_voronezhskoy_oblasti_gusev_soobshchil_o_sbitykh_sistemoy_pvo_dvukh_bespilotnikakh/"/>
+        <updated>2023-05-10T17:36:51.213Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/gubernator_voronezhskoy_oblasti_gusev_soobshchil_o_sbitykh_sistemoy_pvo_dvukh_bespilotnikakh/">Воронежский губернатор Александр Гусев: на военном объекте в регионе пресекли атаку двух дронов</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Возможной вырубкой в Северном лесу Воронежа заинтересовался глава СК Александр Бастрыкин]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/vozmozhnoy_vyrubkoy_v_severnom_lesu_voronezha_zainteresovalsya_glava_sk_aleksandr_bastrykin_/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/vozmozhnoy_vyrubkoy_v_severnom_lesu_voronezha_zainteresovalsya_glava_sk_aleksandr_bastrykin_/"/>
+        <updated>2023-05-10T17:36:51.218Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/vozmozhnoy_vyrubkoy_v_severnom_lesu_voronezha_zainteresovalsya_glava_sk_aleksandr_bastrykin_/">Возможной вырубкой в Северном лесу Воронежа заинтересовался глава СК Александр Бастрыкин </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Воронежские футболисты Сергей Божин и Хызыр Аппаев попали в символическую сборную тура]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/v_simvolicheskuyu_sbornuyu_tura_popali_dva_voronezhskikh_futbolista/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/v_simvolicheskuyu_sbornuyu_tura_popali_dva_voronezhskikh_futbolista/"/>
+        <updated>2023-05-10T17:36:51.219Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/v_simvolicheskuyu_sbornuyu_tura_popali_dva_voronezhskikh_futbolista/">Воронежские футболисты Сергей Божин и Хызыр Аппаев попали в символическую сборную тура </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[В Воронежской области за 5 лет хотят расселить 100 аварийных домов]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/v_voronezhskoy_oblasti_za_6_let_sobirayutsya_rasselit_sotnyu_avariynykh_domov/</id>
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/v_voronezhskoy_oblasti_za_6_let_sobirayutsya_rasselit_sotnyu_avariynykh_domov/"/>
         <updated>2023-05-10T05:34:24.091Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/v_voronezhskoy_oblasti_za_6_let_sobirayutsya_rasselit_sotnyu_avariynykh_domov/">В Воронежской области за 6 лет собираются расселить сотню аварийных домов</a>]]></content>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/v_voronezhskoy_oblasti_za_6_let_sobirayutsya_rasselit_sotnyu_avariynykh_domov/">В Воронежской области за 5 лет хотят расселить 100 аварийных домов </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[На проект дренажной системы Центрального парка Воронежа выделят до 1,2 млн рублей]]></title>
@@ -27,11 +118,11 @@
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/v_prazdnichnom_shestvii_v_chest_dnya_pobedy_v_voronezhe_uchastvovalo_bolee_2_tysyach_chelovek/">В праздничном шествии в честь Дня Победы в Воронеже участвовало более 2 тысяч человек</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Проект благоустройства второй очереди Петровской набережной в Воронеже получил заключение госэкспертизы]]></title>
+        <title type="html"><![CDATA[В Воронеже заключение госэкспертизы  получил  проект благоустройства второй очереди Петровской набережной]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/proekt_blagoustroystva_vtoroy_ocheredi_petrovskoy_naberezhnoy_v_voronezhe_poluchil_zaklyuchenie_gose/</id>
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/proekt_blagoustroystva_vtoroy_ocheredi_petrovskoy_naberezhnoy_v_voronezhe_poluchil_zaklyuchenie_gose/"/>
         <updated>2023-05-08T17:34:47.256Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/proekt_blagoustroystva_vtoroy_ocheredi_petrovskoy_naberezhnoy_v_voronezhe_poluchil_zaklyuchenie_gose/">Проект благоустройства второй очереди Петровской набережной в Воронеже получил заключение госэкспертизы</a>]]></content>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/proekt_blagoustroystva_vtoroy_ocheredi_petrovskoy_naberezhnoy_v_voronezhe_poluchil_zaklyuchenie_gose/">В Воронеже заключение госэкспертизы  получил  проект благоустройства второй очереди Петровской набережной </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Мэр Воронежа Кстенин пригрозил расторгнуть контракт с перевозчиком после ДТП с автобусом]]></title>
@@ -123,96 +214,5 @@
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/9_maya_v_voronezhe_ne_budut_prodavat_alkogol/"/>
         <updated>2023-05-05T17:34:21.160Z</updated>
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/9_maya_v_voronezhe_ne_budut_prodavat_alkogol/">9 мая в Воронеже не будут продавать алкоголь</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Уже пятый случай кори выявлен в Воронежской области]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/uzhe_pyatyy_sluchay_kori_vyyavlen_v_voronezhskoy_oblasti/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/uzhe_pyatyy_sluchay_kori_vyyavlen_v_voronezhskoy_oblasti/"/>
-        <updated>2023-05-05T17:34:21.160Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/uzhe_pyatyy_sluchay_kori_vyyavlen_v_voronezhskoy_oblasti/">Уже пятый случай кори выявлен в Воронежской области</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[За взятки в 180 тысяч рублей экс-начальника воронежской пожарной части приговорили к 3 годам колонии]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/za_vzyatki_v_180_tysyach_rubley_eks_nachalnika_voronezhskoy_pozharnoy_chasti_prigovorili_k_3_godam_k/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/za_vzyatki_v_180_tysyach_rubley_eks_nachalnika_voronezhskoy_pozharnoy_chasti_prigovorili_k_3_godam_k/"/>
-        <updated>2023-05-05T17:34:21.160Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/za_vzyatki_v_180_tysyach_rubley_eks_nachalnika_voronezhskoy_pozharnoy_chasti_prigovorili_k_3_godam_k/">За взятки в 180 тысяч рублей экс-начальника воронежской пожарной части приговорили к 3 годам колонии </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[40% воронежцев не заинтересованы в ипотеке от предприятия]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/40_voronezhtsev_ne_zainteresovany_v_ipoteke_ot_predpriyatiya/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/40_voronezhtsev_ne_zainteresovany_v_ipoteke_ot_predpriyatiya/"/>
-        <updated>2023-05-05T17:34:21.161Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/40_voronezhtsev_ne_zainteresovany_v_ipoteke_ot_predpriyatiya/">40% воронежцев не заинтересованы в ипотеке от предприятия</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ресторан в Воронеже временно закрыли из-за нарушения санитарных норм]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/restoran_v_voronezhe_vremenno_zakryli_iz_za_narusheniya_sanitarnykh_norm_/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/restoran_v_voronezhe_vremenno_zakryli_iz_za_narusheniya_sanitarnykh_norm_/"/>
-        <updated>2023-05-05T17:34:21.163Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/restoran_v_voronezhe_vremenno_zakryli_iz_za_narusheniya_sanitarnykh_norm_/">Ресторан в Воронеже временно закрыли из-за нарушения санитарных норм </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Воронежский губернатор Александр Гусев посетил будущий пункт отбора на военную службу по контракту]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/voronezhskiy_gubernator_aleksandr_gusev_posetil_budushchiy_punkt_otbora_na_voennuyu_sluzhbu_po_kontr/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/voronezhskiy_gubernator_aleksandr_gusev_posetil_budushchiy_punkt_otbora_na_voennuyu_sluzhbu_po_kontr/"/>
-        <updated>2023-05-05T17:34:21.164Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/voronezhskiy_gubernator_aleksandr_gusev_posetil_budushchiy_punkt_otbora_na_voennuyu_sluzhbu_po_kontr/">Воронежский губернатор Александр Гусев посетил будущий пункт отбора на военную службу по контракту </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ко Дню Победы в Воронеже обновят пограничный боевой вертолет возле музея-диорамы]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/ko_dnyu_pobedy_v_voronezhe_obnovyat_pogranichnyy_boevoy_vertolet_vozle_muzeya_dioramy_/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/ko_dnyu_pobedy_v_voronezhe_obnovyat_pogranichnyy_boevoy_vertolet_vozle_muzeya_dioramy_/"/>
-        <updated>2023-05-05T17:34:21.166Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/ko_dnyu_pobedy_v_voronezhe_obnovyat_pogranichnyy_boevoy_vertolet_vozle_muzeya_dioramy_/">Ко Дню Победы в Воронеже обновят пограничный боевой вертолет возле музея-диорамы </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Выручка воронежского «Борхиммаша» в 2022 году сократилась на полмиллиарда рублей]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/vyruchka_voronezhskogo_borkhimmasha_v_2022_godu_sokratilas_na_polmilliarda_rubley/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/vyruchka_voronezhskogo_borkhimmasha_v_2022_godu_sokratilas_na_polmilliarda_rubley/"/>
-        <updated>2023-05-05T17:34:21.167Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/vyruchka_voronezhskogo_borkhimmasha_v_2022_godu_sokratilas_na_polmilliarda_rubley/">Выручка воронежского «Борхиммаша» в 2022 году сократилась на полмиллиарда рублей</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Воронежская область по продажам е-ОСАГО в 2022 году заняла 10 место]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/voronezhskaya_oblast_po_prodazham_e_osago_v_2022_godu_zanyala_10_mesto/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/voronezhskaya_oblast_po_prodazham_e_osago_v_2022_godu_zanyala_10_mesto/"/>
-        <updated>2023-05-05T17:34:21.168Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/voronezhskaya_oblast_po_prodazham_e_osago_v_2022_godu_zanyala_10_mesto/">Воронежская область по продажам е-ОСАГО в 2022 году заняла 10 место</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[За объекты благоустройства в Воронеже уже проголосовали свыше 21 тысячи жителей]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/za_obekty_blagoustroystva_v_voronezhe_uzhe_progolosovali_svyshe_21_tysyachi_zhiteley/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/za_obekty_blagoustroystva_v_voronezhe_uzhe_progolosovali_svyshe_21_tysyachi_zhiteley/"/>
-        <updated>2023-05-05T17:34:21.170Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/za_obekty_blagoustroystva_v_voronezhe_uzhe_progolosovali_svyshe_21_tysyachi_zhiteley/">За объекты благоустройства в Воронеже уже проголосовали свыше 21 тысячи жителей</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Массовые мероприятия в честь Дня Победы отменили еще в четырех районах Воронежской области]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/massovye_meropriyatiya_v_chest_dnya_pobedy_otmenili_eshche_v_chetyrekh_rayonakh_voronezhskoy_oblasti/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/massovye_meropriyatiya_v_chest_dnya_pobedy_otmenili_eshche_v_chetyrekh_rayonakh_voronezhskoy_oblasti/"/>
-        <updated>2023-05-05T17:34:21.170Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/massovye_meropriyatiya_v_chest_dnya_pobedy_otmenili_eshche_v_chetyrekh_rayonakh_voronezhskoy_oblasti/">Массовые мероприятия в честь Дня Победы отменили еще в четырех районах Воронежской области  </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Зарубежные санкции не повлияли на работу Эртильского завода под Воронежем]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/zarubezhnye_sanktsii_ne_povliyali_na_rabotu_ertilskogo_zavoda_pod_voronezhem/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/zarubezhnye_sanktsii_ne_povliyali_na_rabotu_ertilskogo_zavoda_pod_voronezhem/"/>
-        <updated>2023-05-04T17:34:23.402Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/zarubezhnye_sanktsii_ne_povliyali_na_rabotu_ertilskogo_zavoda_pod_voronezhem/">Зарубежные санкции не повлияли на работу Эртильского завода под Воронежем</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[У школьников из Воронежа есть шанс стать успешными предпринимателями и агрохимиками]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/u_shkolnikov_iz_voronezha_est_shans_stat_uspeshnymi_predprinimatelyami_i_agrokhimikami/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/u_shkolnikov_iz_voronezha_est_shans_stat_uspeshnymi_predprinimatelyami_i_agrokhimikami/"/>
-        <updated>2023-05-04T17:34:23.403Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/u_shkolnikov_iz_voronezha_est_shans_stat_uspeshnymi_predprinimatelyami_i_agrokhimikami/">У школьников из Воронежа есть шанс стать успешными предпринимателями и агрохимиками</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Воронежская анимационная студия разрабатывает софт для мультфильмов]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/voronezhskaya_animatsionnaya_studiya_razrabatyvaet_soft_dlya_multfilmov/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/voronezhskaya_animatsionnaya_studiya_razrabatyvaet_soft_dlya_multfilmov/"/>
-        <updated>2023-05-04T17:34:23.404Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/voronezhskaya_animatsionnaya_studiya_razrabatyvaet_soft_dlya_multfilmov/">Воронежская анимационная студия разрабатывает софт для мультфильмов</a>]]></content>
     </entry>
 </feed>
