@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sergei-zhdanov.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-09T17:34:20.454Z</updated>
+    <updated>2023-05-10T05:34:24.864Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[В Воронежской области за 6 лет собираются расселить сотню аварийных домов (DeFacto Воронеж)]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/v_voronezhskoy_oblasti_za_6_let_sobirayutsya_rasselit_sotnyu_avariynykh_domov/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/v_voronezhskoy_oblasti_za_6_let_sobirayutsya_rasselit_sotnyu_avariynykh_domov/"/>
+        <updated>2023-05-10T05:34:24.091Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/v_voronezhskoy_oblasti_za_6_let_sobirayutsya_rasselit_sotnyu_avariynykh_domov/">В Воронежской области за 6 лет собираются расселить сотню аварийных домов</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[На проект дренажной системы Центрального парка Воронежа выделят до 1,2 млн рублей (DeFacto Воронеж)]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/na_proekt_drenazhnoy_sistemy_tsentralnogo_parka_voronezha_vydelyat_do_1_2_mln_rubley/</id>
@@ -206,12 +213,5 @@
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/voronezhskaya_animatsionnaya_studiya_razrabatyvaet_soft_dlya_multfilmov/"/>
         <updated>2023-05-04T17:34:23.404Z</updated>
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/voronezhskaya_animatsionnaya_studiya_razrabatyvaet_soft_dlya_multfilmov/">Воронежская анимационная студия разрабатывает софт для мультфильмов</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Губернатор Воронежской области Александр Гусев проинспектировал военкомат Новоусманского и Каширского районов (DeFacto Воронеж)]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/gubernator_voronezhskoy_oblasti_aleksandr_gusev_proinspektiroval_voenkomaty_novousmanskogo_i_kashirs/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/gubernator_voronezhskoy_oblasti_aleksandr_gusev_proinspektiroval_voenkomaty_novousmanskogo_i_kashirs/"/>
-        <updated>2023-05-04T17:34:23.405Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/gubernator_voronezhskoy_oblasti_aleksandr_gusev_proinspektiroval_voenkomaty_novousmanskogo_i_kashirs/">Губернатор Воронежской области Александр Гусев проинспектировал военкомат Новоусманского и Каширского районов</a>]]></content>
     </entry>
 </feed>
