@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://facto.ru</id>
     <title>DeFacto Воронеж</title>
-    <updated>2023-05-14T05:34:30.640Z</updated>
+    <updated>2023-05-14T17:34:17.198Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://facto.ru/bitrix/templates/cz_facto_2016/favicons/favicon-16x16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[На 68 процентов выросла заболеваемость сальмонеллезом в Воронежской области]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/na_68_protsentov_vyrosla_zabolevaemost_salmonellezom_v_voronezhskoy_oblasti/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/na_68_protsentov_vyrosla_zabolevaemost_salmonellezom_v_voronezhskoy_oblasti/"/>
+        <updated>2023-05-14T17:34:16.409Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/na_68_protsentov_vyrosla_zabolevaemost_salmonellezom_v_voronezhskoy_oblasti/">На 68 процентов выросла заболеваемость сальмонеллезом в Воронежской области</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Президент Путин присвоил звание заслуженного врача России воронежскому медику Карташову]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/prezident_putin_prisvoil_zvanie_zasluzhennogo_vracha_rossii_voronezhskomu_mediku_kartashovu/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/prezident_putin_prisvoil_zvanie_zasluzhennogo_vracha_rossii_voronezhskomu_mediku_kartashovu/"/>
+        <updated>2023-05-14T17:34:16.411Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/prezident_putin_prisvoil_zvanie_zasluzhennogo_vracha_rossii_voronezhskomu_mediku_kartashovu/">Президент Путин присвоил звание заслуженного врача России воронежскому медику Карташову</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Памятник графине Ростопчиной появился в воронежской Анне]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/pamyatnik_grafine_rostopchinoy_poyavilsya_v_voronezhskoy_anne/</id>
@@ -200,19 +214,5 @@
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/voronezhskiy_gosudarstvennyy_universitet_planiruet_postroit_pravoslavnyy_khram_/"/>
         <updated>2023-05-12T17:34:31.955Z</updated>
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/voronezhskiy_gosudarstvennyy_universitet_planiruet_postroit_pravoslavnyy_khram_/">У главного корпуса ВГУ построят университетский храм</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Губернатор Александр Гусев сообщил о создании в Воронеже ПВР для кандидатов на военную службу по контракту]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/gubernator_aleksandr_gusev_soobshchil_o_sozdanii_v_voronezhe_pvr_dlya_kandidatov_na_voennuyu_sluzhbu/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/gubernator_aleksandr_gusev_soobshchil_o_sozdanii_v_voronezhe_pvr_dlya_kandidatov_na_voennuyu_sluzhbu/"/>
-        <updated>2023-05-12T17:34:31.959Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/gubernator_aleksandr_gusev_soobshchil_o_sozdanii_v_voronezhe_pvr_dlya_kandidatov_na_voennuyu_sluzhbu/">Губернатор Александр Гусев сообщил о создании в Воронеже ПВР для кандидатов на военную службу по контракту</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Новую особо охраняемую природную территорию создадут в Воронежской области]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/novaya_osobo_okhranyaemaya_prirodnaya_territoriya_sozdadut_v_voronezhskoy_oblasti_/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/novaya_osobo_okhranyaemaya_prirodnaya_territoriya_sozdadut_v_voronezhskoy_oblasti_/"/>
-        <updated>2023-05-12T17:34:31.961Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/novaya_osobo_okhranyaemaya_prirodnaya_territoriya_sozdadut_v_voronezhskoy_oblasti_/">Новую особо охраняемую природную территорию создадут в Воронежской области </a>]]></content>
     </entry>
 </feed>
