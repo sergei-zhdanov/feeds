@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://facto.ru</id>
     <title>DeFacto Воронеж</title>
-    <updated>2023-05-14T17:34:17.198Z</updated>
+    <updated>2023-05-15T05:34:41.159Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://facto.ru/bitrix/templates/cz_facto_2016/favicons/favicon-16x16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[В домашней игре РПЛ воронежский «Факел» победил «Пари Нижний Новгород»]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/v_domashney_igre_rpl_voronezhskiy_fakel_pobedil_pari_nizhniy_novgorod/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/v_domashney_igre_rpl_voronezhskiy_fakel_pobedil_pari_nizhniy_novgorod/"/>
+        <updated>2023-05-15T05:34:40.218Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/v_domashney_igre_rpl_voronezhskiy_fakel_pobedil_pari_nizhniy_novgorod/"> В домашней игре РПЛ воронежский «Факел» победил «Пари Нижний Новгород»</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[На 68 процентов выросла заболеваемость сальмонеллезом в Воронежской области]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/na_68_protsentov_vyrosla_zabolevaemost_salmonellezom_v_voronezhskoy_oblasti/</id>
@@ -207,12 +214,5 @@
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/v_voronezhe_za_2_7_mlrd_rubley_moderniziruyut_levoberezhnye_ochistnye_sooruzheniya/"/>
         <updated>2023-05-12T17:34:31.955Z</updated>
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/v_voronezhe_za_2_7_mlrd_rubley_moderniziruyut_levoberezhnye_ochistnye_sooruzheniya/">На модернизацию Левобережных очистных сооружений в Воронеже будет направлено 2,7 миллиарда рублей</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[У главного корпуса ВГУ построят университетский храм]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/voronezhskiy_gosudarstvennyy_universitet_planiruet_postroit_pravoslavnyy_khram_/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/voronezhskiy_gosudarstvennyy_universitet_planiruet_postroit_pravoslavnyy_khram_/"/>
-        <updated>2023-05-12T17:34:31.955Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/voronezhskiy_gosudarstvennyy_universitet_planiruet_postroit_pravoslavnyy_khram_/">У главного корпуса ВГУ построят университетский храм</a>]]></content>
     </entry>
 </feed>
