@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sergei-zhdanov.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-15T17:35:35.015Z</updated>
+    <updated>2023-05-16T05:34:48.809Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Судья Ольга Сидоренко может возглавить Нижнедевицкий районный суд Воронежской области (DeFacto Воронеж)]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/sudya_olga_sidorenko_mozhet_vozglavit_nizhnedevitskiy_rayonnyy_sud_voronezhskoy_oblasti/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/sudya_olga_sidorenko_mozhet_vozglavit_nizhnedevitskiy_rayonnyy_sud_voronezhskoy_oblasti/"/>
+        <updated>2023-05-16T05:34:47.903Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/sudya_olga_sidorenko_mozhet_vozglavit_nizhnedevitskiy_rayonnyy_sud_voronezhskoy_oblasti/">Судья Ольга Сидоренко может возглавить Нижнедевицкий районный суд Воронежской области</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Под уголовное дело попала экс-заместитель главы Воронежа Марина Плиева (DeFacto Воронеж)]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/pod_ugolovnoe_delo_popala_eks_zamestitel_glavy_voronezha_marina_plieva/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/pod_ugolovnoe_delo_popala_eks_zamestitel_glavy_voronezha_marina_plieva/"/>
+        <updated>2023-05-16T05:34:47.921Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/pod_ugolovnoe_delo_popala_eks_zamestitel_glavy_voronezha_marina_plieva/"> Под уголовное дело попала экс-заместитель главы Воронежа Марина Плиева</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Более 50 ФАПов и амбулаторий возвели в воронежских селах за пять лет (DeFacto Воронеж)]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/bolee_50_fapov_i_ambulatoriy_vozveli_v_voronezhskikh_selakh_za_pyat_let/</id>
@@ -199,19 +213,5 @@
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/voronezhtsam_napomnili_ob_izmenenii_marshrutov_2_avtobusov_v_letniy_period/"/>
         <updated>2023-05-13T05:34:16.688Z</updated>
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/voronezhtsam_napomnili_ob_izmenenii_marshrutov_2_avtobusov_v_letniy_period/">Воронежцам напомнили об изменении маршрутов 2 автобусов в летний период</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Воронежцев предупредили о массовых проверках общественного транспорта (DeFacto Воронеж)]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/voronezhtsev_predupredili_o_massovykh_proverkakh_obshchestvennogo_transporta/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/voronezhtsev_predupredili_o_massovykh_proverkakh_obshchestvennogo_transporta/"/>
-        <updated>2023-05-13T05:34:16.691Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/voronezhtsev_predupredili_o_massovykh_proverkakh_obshchestvennogo_transporta/">Воронежцев предупредили о массовых проверках общественного транспорта</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Воронежские медики получат более 120 млн рублей специальных соцвыплат от Путина (DeFacto Воронеж)]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/voronezhskie_mediki_poluchat_bolee_120_mln_rubley_spetsialnykh_sotsvyplat_ot_putina/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/voronezhskie_mediki_poluchat_bolee_120_mln_rubley_spetsialnykh_sotsvyplat_ot_putina/"/>
-        <updated>2023-05-13T05:34:16.692Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/voronezhskie_mediki_poluchat_bolee_120_mln_rubley_spetsialnykh_sotsvyplat_ot_putina/">Воронежские медики получат более 120 млн рублей специальных соцвыплат от Путина</a>]]></content>
     </entry>
 </feed>
