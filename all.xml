@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sergei-zhdanov.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-16T17:34:31.615Z</updated>
+    <updated>2023-05-17T05:34:13.937Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Парковку у «Орленка» в Воронеже запретят в связи с проведением анимационного фестиваля (DeFacto Воронеж)]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/parkovku_u_orlenka_v_voronezhe_zapretyat_v_svyazi_s_provedeniem_animatsionnogo_festivalya/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/parkovku_u_orlenka_v_voronezhe_zapretyat_v_svyazi_s_provedeniem_animatsionnogo_festivalya/"/>
+        <updated>2023-05-17T05:34:13.228Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/parkovku_u_orlenka_v_voronezhe_zapretyat_v_svyazi_s_provedeniem_animatsionnogo_festivalya/">Парковку у «Орленка» в Воронеже запретят в связи с проведением анимационного фестиваля</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[В связи со строительством дублера Московского проспекта в Воронеже закроют Птичий рынок (DeFacto Воронеж)]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/v_svyazi_so_stroitelstvom_dublera_moskovskogo_prospekta_v_voronezhe_zakroyut_ptichiy_rynok/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/v_svyazi_so_stroitelstvom_dublera_moskovskogo_prospekta_v_voronezhe_zakroyut_ptichiy_rynok/"/>
+        <updated>2023-05-17T05:34:13.228Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/v_svyazi_so_stroitelstvom_dublera_moskovskogo_prospekta_v_voronezhe_zakroyut_ptichiy_rynok/"> В связи со строительством дублера Московского проспекта в Воронеже закроют Птичий рынок</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Объявлена программа Форума Столля-2023 (DeFacto Воронеж)]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/obyavlena_programma_foruma_stollya_2023/</id>
@@ -199,19 +213,5 @@
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/v_voronezhe_na_ploshchadi_lenina_razmestili_mobilnyy_punkt_otbora_na_voennuyu_sluzhbu/"/>
         <updated>2023-05-15T17:35:34.247Z</updated>
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/v_voronezhe_na_ploshchadi_lenina_razmestili_mobilnyy_punkt_otbora_na_voennuyu_sluzhbu/">В Воронеже на площади Ленина разместили мобильный пункт отбора на военную службу</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[За 22 миллиона в Новосильском под Воронежем построят амбулаторию (DeFacto Воронеж)]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/za_22_milliona_v_novosilskom_pod_voronezhem_postroyat_ambulatoriyu_/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/za_22_milliona_v_novosilskom_pod_voronezhem_postroyat_ambulatoriyu_/"/>
-        <updated>2023-05-15T17:35:34.251Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/za_22_milliona_v_novosilskom_pod_voronezhem_postroyat_ambulatoriyu_/">За 22 миллиона в Новосильском под Воронежем построят амбулаторию </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Фигуру «Волна» демонтировали у театра кукол в Воронеже (DeFacto Воронеж)]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/figuru_volna_demontirovali_u_teatra_kukol_v_voronezhe_/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/figuru_volna_demontirovali_u_teatra_kukol_v_voronezhe_/"/>
-        <updated>2023-05-15T17:35:34.253Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/figuru_volna_demontirovali_u_teatra_kukol_v_voronezhe_/"> Фигуру «Волна» демонтировали у театра кукол в Воронеже </a>]]></content>
     </entry>
 </feed>
