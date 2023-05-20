@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://facto.ru</id>
     <title>DeFacto Воронеж</title>
-    <updated>2023-05-20T05:34:31.500Z</updated>
+    <updated>2023-05-20T17:34:33.028Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://facto.ru/bitrix/templates/cz_facto_2016/favicons/favicon-16x16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Капремонт музыкального колледжа имени Ростроповичей в Воронеже выполнит ярославская компания «Легион»]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/kapremont_muzykalnogo_kolledzha_imeni_rostropovichey_v_voronezhe_vypolnit_yaroslavskaya_kompaniya_le/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/kapremont_muzykalnogo_kolledzha_imeni_rostropovichey_v_voronezhe_vypolnit_yaroslavskaya_kompaniya_le/"/>
+        <updated>2023-05-20T17:34:32.264Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/kapremont_muzykalnogo_kolledzha_imeni_rostropovichey_v_voronezhe_vypolnit_yaroslavskaya_kompaniya_le/">Капремонт музыкального колледжа имени Ростроповичей в Воронеже выполнит ярославская компания «Легион»</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[В Воронеж со станции «Графская» запустят дополнительную вечернюю электричку с 1 июня]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/v_voronezh_so_stantsii_grafskaya_zapustyat_dopolnitelnuyu_vechernyuyu_elektrichku_s_1_iyunya/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/v_voronezh_so_stantsii_grafskaya_zapustyat_dopolnitelnuyu_vechernyuyu_elektrichku_s_1_iyunya/"/>
+        <updated>2023-05-20T17:34:32.266Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/v_voronezh_so_stantsii_grafskaya_zapustyat_dopolnitelnuyu_vechernyuyu_elektrichku_s_1_iyunya/">В Воронеж со станции «Графская» запустят дополнительную вечернюю электричку с 1 июня</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Клиенты из всех регионов России могут приобрести «Москвич»]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/klienty_iz_vsekh_regionov_rossii_mogut_priobresti_moskvich_/</id>
@@ -200,19 +214,5 @@
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/igru_stolichnogo_lokomotiva_i_voronezhskogo_fakela_rassudit_aleksey_amelin_iz_tuly_/"/>
         <updated>2023-05-18T17:34:34.129Z</updated>
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/igru_stolichnogo_lokomotiva_i_voronezhskogo_fakela_rassudit_aleksey_amelin_iz_tuly_/">Игру столичного «Локомотива» и воронежского «Факела» рассудит Алексей Амелин из Тулы </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Из соображений безопасности в Воронежской области отменили День поля]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/iz_soobrazheniy_bezopasnosti_v_voronezhskoy_oblasti_otmenili_den_polya/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/iz_soobrazheniy_bezopasnosti_v_voronezhskoy_oblasti_otmenili_den_polya/"/>
-        <updated>2023-05-18T17:34:34.137Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/iz_soobrazheniy_bezopasnosti_v_voronezhskoy_oblasti_otmenili_den_polya/">Из соображений безопасности в Воронежской области отменили День поля</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Губернатор Гусев обсудил продвижение семейных ценностей с участниками Всероссийского социального форума в Воронеже]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/gubernator_gusev_obsudil_prodvizhenie_semeynykh_tsennostey_s_uchastnikami_vserossiyskogo_sotsialnogo/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/gubernator_gusev_obsudil_prodvizhenie_semeynykh_tsennostey_s_uchastnikami_vserossiyskogo_sotsialnogo/"/>
-        <updated>2023-05-18T17:34:34.137Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/gubernator_gusev_obsudil_prodvizhenie_semeynykh_tsennostey_s_uchastnikami_vserossiyskogo_sotsialnogo/">Губернатор Гусев обсудил продвижение семейных ценностей с участниками Всероссийского социального форума в Воронеже</a>]]></content>
     </entry>
 </feed>
