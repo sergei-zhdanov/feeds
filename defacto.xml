@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://facto.ru</id>
     <title>DeFacto Воронеж</title>
-    <updated>2023-05-21T05:35:03.158Z</updated>
+    <updated>2023-05-21T17:34:28.106Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://facto.ru/bitrix/templates/cz_facto_2016/favicons/favicon-16x16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Бывший прокурор Воронежа Лащ возглавил надзорное ведомство в Чебоксарах]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/byvshiy_prokuror_voronezha_lashch_vozglavil_nadzornoe_vedomstvo_v_cheboksarakh/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/byvshiy_prokuror_voronezha_lashch_vozglavil_nadzornoe_vedomstvo_v_cheboksarakh/"/>
+        <updated>2023-05-21T17:34:27.212Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/byvshiy_prokuror_voronezha_lashch_vozglavil_nadzornoe_vedomstvo_v_cheboksarakh/">Бывший прокурор Воронежа Лащ возглавил надзорное ведомство в Чебоксарах</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Мэрия Воронежа ответила на петицию против вырубки деревьев ради дублера Московского проспекта]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/meriya_voronezha_otvetila_na_petitsiyu_protiv_vyrubki_derevev_radi_dublera_moskovskogo_prospekta/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/meriya_voronezha_otvetila_na_petitsiyu_protiv_vyrubki_derevev_radi_dublera_moskovskogo_prospekta/"/>
+        <updated>2023-05-21T17:34:27.215Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/meriya_voronezha_otvetila_na_petitsiyu_protiv_vyrubki_derevev_radi_dublera_moskovskogo_prospekta/">Мэрия Воронежа ответила на петицию против вырубки деревьев ради дублера Московского проспекта</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Капремонт музыкального колледжа имени Ростроповичей в Воронеже выполнит ярославская компания «Легион»]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/kapremont_muzykalnogo_kolledzha_imeni_rostropovichey_v_voronezhe_vypolnit_yaroslavskaya_kompaniya_le/</id>
@@ -18,6 +32,13 @@
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/v_voronezh_so_stantsii_grafskaya_zapustyat_dopolnitelnuyu_vechernyuyu_elektrichku_s_1_iyunya/"/>
         <updated>2023-05-20T17:34:32.266Z</updated>
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/v_voronezh_so_stantsii_grafskaya_zapustyat_dopolnitelnuyu_vechernyuyu_elektrichku_s_1_iyunya/">В Воронеж со станции «Графская» запустят дополнительную вечернюю электричку с 1 июня</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Более 7,5 тысяч жителей Черноземья приняли участие в Зеленом Марафоне Сбера]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/bolee_7_5_tysyach_zhiteley_chernozemya_prinyali_uchastie_v_zelenom_marafone_sbera/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/bolee_7_5_tysyach_zhiteley_chernozemya_prinyali_uchastie_v_zelenom_marafone_sbera/"/>
+        <updated>2023-05-21T17:34:27.264Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/bolee_7_5_tysyach_zhiteley_chernozemya_prinyali_uchastie_v_zelenom_marafone_sbera/"> Более 7,5 тысяч жителей Черноземья приняли участие в Зеленом Марафоне Сбера</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Клиенты из всех регионов России могут приобрести «Москвич»]]></title>
@@ -193,26 +214,5 @@
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/voronezh_prinyal_avtomobilnuyu_ekspeditsiyu_prezidentskoy_platformy_rossiya_strana_vozmozhnostey_/"/>
         <updated>2023-05-18T17:34:34.123Z</updated>
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/voronezh_prinyal_avtomobilnuyu_ekspeditsiyu_prezidentskoy_platformy_rossiya_strana_vozmozhnostey_/">Воронеж принял автомобильную экспедицию президентской платформы «Россия – страна возможностей» </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[В Воронежской области  выручка «Бутурлиновского ликеро-водочного завода» сократилась  на 95%]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/v_voronezhskoy_oblasti_vyruchka_buturlinovskogo_likero_vodochnogo_zavoda_sokratilas_na_95/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/v_voronezhskoy_oblasti_vyruchka_buturlinovskogo_likero_vodochnogo_zavoda_sokratilas_na_95/"/>
-        <updated>2023-05-18T17:34:34.124Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/v_voronezhskoy_oblasti_vyruchka_buturlinovskogo_likero_vodochnogo_zavoda_sokratilas_na_95/">В Воронежской области  выручка «Бутурлиновского ликеро-водочного завода» сократилась  на 95%</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Компания «Агро-Спутник» представила безглютеновые продукты с пользой для здоровья]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/kompaniya_agro_sputnik_predstavila_bezglyutenovye_produkty_s_polzoy_o_zdorove_/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/kompaniya_agro_sputnik_predstavila_bezglyutenovye_produkty_s_polzoy_o_zdorove_/"/>
-        <updated>2023-05-18T17:34:34.127Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/kompaniya_agro_sputnik_predstavila_bezglyutenovye_produkty_s_polzoy_o_zdorove_/">Компания «Агро-Спутник» представила безглютеновые продукты с пользой для здоровья </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Игру столичного «Локомотива» и воронежского «Факела» рассудит Алексей Амелин из Тулы]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/igru_stolichnogo_lokomotiva_i_voronezhskogo_fakela_rassudit_aleksey_amelin_iz_tuly_/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/igru_stolichnogo_lokomotiva_i_voronezhskogo_fakela_rassudit_aleksey_amelin_iz_tuly_/"/>
-        <updated>2023-05-18T17:34:34.129Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/igru_stolichnogo_lokomotiva_i_voronezhskogo_fakela_rassudit_aleksey_amelin_iz_tuly_/">Игру столичного «Локомотива» и воронежского «Факела» рассудит Алексей Амелин из Тулы </a>]]></content>
     </entry>
 </feed>
