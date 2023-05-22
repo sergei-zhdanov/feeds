@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://facto.ru</id>
     <title>DeFacto Воронеж</title>
-    <updated>2023-05-21T17:34:28.106Z</updated>
+    <updated>2023-05-22T05:34:57.849Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://facto.ru/bitrix/templates/cz_facto_2016/favicons/favicon-16x16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[О массовом отключении горячей воды с 21 мая предупредили жителей Воронежа]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/o_massovom_otklyuchenii_goryachey_vody_s_21_maya_predupredili_zhiteley_voronezha/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/o_massovom_otklyuchenii_goryachey_vody_s_21_maya_predupredili_zhiteley_voronezha/"/>
+        <updated>2023-05-22T05:34:56.936Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/o_massovom_otklyuchenii_goryachey_vody_s_21_maya_predupredili_zhiteley_voronezha/"> О массовом отключении горячей воды с 21 мая предупредили жителей Воронежа</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Воронежские специалисты начали ремонтировать разбитую дорогу в Луганской Народной Республике]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/voronezhskie_spetsialisty_nachali_remontirovat_razbituyu_dorogu_v_luganskoy_narodnoy_respublike/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/voronezhskie_spetsialisty_nachali_remontirovat_razbituyu_dorogu_v_luganskoy_narodnoy_respublike/"/>
+        <updated>2023-05-22T05:34:56.936Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/voronezhskie_spetsialisty_nachali_remontirovat_razbituyu_dorogu_v_luganskoy_narodnoy_respublike/"> Воронежские специалисты начали ремонтировать разбитую дорогу в Луганской Народной Республике</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Бывший прокурор Воронежа Лащ возглавил надзорное ведомство в Чебоксарах]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/byvshiy_prokuror_voronezha_lashch_vozglavil_nadzornoe_vedomstvo_v_cheboksarakh/</id>
@@ -200,19 +214,5 @@
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/stalo_izvestno_skolko_za_2022_god_zarabatyvali_rektory_voronezhskikh_vuzov/"/>
         <updated>2023-05-18T17:34:34.076Z</updated>
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/stalo_izvestno_skolko_za_2022_god_zarabatyvali_rektory_voronezhskikh_vuzov/">Руководитель лестеха Михаил Драпалюк стал самым высокооплачиваемым ректором в Воронеже </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[81% воронежцев планирует поменять работу в этом году]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/81_voronezhtsev_planiruet_pomenyat_rabotu_v_etom_godu/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/81_voronezhtsev_planiruet_pomenyat_rabotu_v_etom_godu/"/>
-        <updated>2023-05-18T17:34:34.078Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/81_voronezhtsev_planiruet_pomenyat_rabotu_v_etom_godu/">81% воронежцев планирует поменять работу в этом году</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Воронеж принял автомобильную экспедицию президентской платформы «Россия – страна возможностей»]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/voronezh_prinyal_avtomobilnuyu_ekspeditsiyu_prezidentskoy_platformy_rossiya_strana_vozmozhnostey_/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/voronezh_prinyal_avtomobilnuyu_ekspeditsiyu_prezidentskoy_platformy_rossiya_strana_vozmozhnostey_/"/>
-        <updated>2023-05-18T17:34:34.123Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/voronezh_prinyal_avtomobilnuyu_ekspeditsiyu_prezidentskoy_platformy_rossiya_strana_vozmozhnostey_/">Воронеж принял автомобильную экспедицию президентской платформы «Россия – страна возможностей» </a>]]></content>
     </entry>
 </feed>
