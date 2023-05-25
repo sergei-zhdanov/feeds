@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sergei-zhdanov.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-24T17:34:14.399Z</updated>
+    <updated>2023-05-25T05:34:14.222Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[По поручению губернатора Гусева делегация Воронежской области посетила Чеченскую Республику (DeFacto Воронеж)]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/po_porucheniyu_gubernatora_guseva_delegatsiya_voronezhskoy_oblasti_posetila_chechenskuyu_respubliku/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/po_porucheniyu_gubernatora_guseva_delegatsiya_voronezhskoy_oblasti_posetila_chechenskuyu_respubliku/"/>
+        <updated>2023-05-25T05:34:13.483Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/po_porucheniyu_gubernatora_guseva_delegatsiya_voronezhskoy_oblasti_posetila_chechenskuyu_respubliku/">По поручению губернатора Гусева делегация Воронежской области посетила Чеченскую Республику</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Губернатор Воронежской области объявил о повышении зарплат бюджетников с июля 2023 года (DeFacto Воронеж)]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/gubernator_voronezhskoy_oblasti_obyavil_o_povyshenii_zarplat_byudzhetnikov_s_iyulya_2023_goda/</id>
@@ -206,12 +213,5 @@
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/stalo_izvestno_v_kakikh_sferakh_voronezhtsy_stali_menshe_iskat_rabotu/"/>
         <updated>2023-05-23T17:35:09.279Z</updated>
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/stalo_izvestno_v_kakikh_sferakh_voronezhtsy_stali_menshe_iskat_rabotu/">Стало известно, в каких сферах воронежцы стали меньше искать работу</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[На воронежском карбоновом полигоне высадили миллионное дерево (DeFacto Воронеж)]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/na_voronezhskom_karbonovom_poligone_vysadili_millionnoe_derevo/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/na_voronezhskom_karbonovom_poligone_vysadili_millionnoe_derevo/"/>
-        <updated>2023-05-23T17:35:09.280Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/na_voronezhskom_karbonovom_poligone_vysadili_millionnoe_derevo/">На воронежском карбоновом полигоне высадили миллионное дерево</a>]]></content>
     </entry>
 </feed>
