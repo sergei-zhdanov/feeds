@@ -2,14 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sergei-zhdanov.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-25T17:34:47.933Z</updated>
+    <updated>2023-05-26T05:34:41.310Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[Экс-депутат гордумы Воронежа Роман Жогов переведен из СИЗО под домашний арест (DeFacto Воронеж)]]></title>
+        <title type="html"><![CDATA[В Ленинском райсуде Воронежа открыли вакансию председателя (DeFacto Воронеж)]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/v_leninskom_raysude_voronezha_otkryli_vakansiyu_predsedatelya/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/v_leninskom_raysude_voronezha_otkryli_vakansiyu_predsedatelya/"/>
+        <updated>2023-05-26T05:34:40.422Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/v_leninskom_raysude_voronezha_otkryli_vakansiyu_predsedatelya/">В Ленинском райсуде Воронежа открыли вакансию председателя</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Лидеры общественного мнения прокомментировали предстоящие выборы губернатора Воронежской области (DeFacto Воронеж)]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/lidery_obshchestvennogo_mneniya_prokommentirovali_predstoyashchie_vybory_gubernatora_voronezhskoy_ob/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/lidery_obshchestvennogo_mneniya_prokommentirovali_predstoyashchie_vybory_gubernatora_voronezhskoy_ob/"/>
+        <updated>2023-05-26T05:34:40.423Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/lidery_obshchestvennogo_mneniya_prokommentirovali_predstoyashchie_vybory_gubernatora_voronezhskoy_ob/"> Лидеры общественного мнения прокомментировали предстоящие выборы губернатора Воронежской области</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Под домашний арест из СИЗО перевели экс-депутата гордумы Воронежа Романа Жогова (DeFacto Воронеж)]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/eks_deputat_gordumy_voronezha_roman_zhogov_pereveden_iz_sizo_pod_domashniy_arest/</id>
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/eks_deputat_gordumy_voronezha_roman_zhogov_pereveden_iz_sizo_pod_domashniy_arest/"/>
         <updated>2023-05-25T17:34:46.944Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/eks_deputat_gordumy_voronezha_roman_zhogov_pereveden_iz_sizo_pod_domashniy_arest/"> Экс-депутат гордумы Воронежа Роман Жогов переведен из СИЗО под домашний арест</a>]]></content>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/eks_deputat_gordumy_voronezha_roman_zhogov_pereveden_iz_sizo_pod_domashniy_arest/">Под домашний арест из СИЗО перевели экс-депутата гордумы Воронежа Романа Жогова </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Александр Романович: «На сегодняшний день Александр Гусев самый узнаваемый политик в регионе» (DeFacto Воронеж)]]></title>
@@ -75,11 +89,11 @@
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/na_noch_v_divnogore_voronezhtsev_dostavyat_dopolnitelnye_elektrichki_/">На «Ночь в Дивногорье» воронежцев доставят дополнительные электрички </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[80% воронежцев высказались против рабочей шестидневки (DeFacto Воронеж)]]></title>
+        <title type="html"><![CDATA[Идею шестидневной рабочей недели отвергли 8 из 10 воронежцев (DeFacto Воронеж)]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/80_voronezhtsev_vyskazalis_protiv_rabochey_shestidnevki_/</id>
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/80_voronezhtsev_vyskazalis_protiv_rabochey_shestidnevki_/"/>
         <updated>2023-05-25T17:34:46.984Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/80_voronezhtsev_vyskazalis_protiv_rabochey_shestidnevki_/">80% воронежцев высказались против рабочей шестидневки </a>]]></content>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/80_voronezhtsev_vyskazalis_protiv_rabochey_shestidnevki_/">Идею шестидневной рабочей недели отвергли 8 из 10 воронежцев</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[На форуме «Сообщество» проведут анализ результатов рейтинга «Регион-НКО» (DeFacto Воронеж)]]></title>
@@ -199,19 +213,5 @@
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/an_vashi_partnery_predlagaet_karkasnye_doma_pod_klyuch_dlya_postoyannogo_prozhivaniya/"/>
         <updated>2023-05-24T17:34:13.730Z</updated>
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/an_vashi_partnery_predlagaet_karkasnye_doma_pod_klyuch_dlya_postoyannogo_prozhivaniya/">АН «Ваши партнеры» предлагает каркасные дома под ключ для постоянного проживания</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Из-за домашнего матча «Факела» в сезоне РПЛ в  центре Воронежа запретят парковку (DeFacto Воронеж)]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/na_neskolkikh_ulitsakh_voronezha_iz_za_matcha_fakela_s_krylyami_sovetov_perekroyut_dvizhenie/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/na_neskolkikh_ulitsakh_voronezha_iz_za_matcha_fakela_s_krylyami_sovetov_perekroyut_dvizhenie/"/>
-        <updated>2023-05-24T17:34:13.732Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/na_neskolkikh_ulitsakh_voronezha_iz_za_matcha_fakela_s_krylyami_sovetov_perekroyut_dvizhenie/">Из-за домашнего матча «Факела» в сезоне РПЛ в  центре Воронежа запретят парковку </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[В воронежский парк вернули мемориальную доску революционной организации «Земля и воля» (DeFacto Воронеж)]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/v_voronezhe_vernuli_memorialnuyu_dosku_v_pamyat_o_revolyutsionerakh_terroristakh_/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/v_voronezhe_vernuli_memorialnuyu_dosku_v_pamyat_o_revolyutsionerakh_terroristakh_/"/>
-        <updated>2023-05-24T17:34:13.733Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/v_voronezhe_vernuli_memorialnuyu_dosku_v_pamyat_o_revolyutsionerakh_terroristakh_/">В воронежский парк вернули мемориальную доску революционной организации «Земля и воля»</a>]]></content>
     </entry>
 </feed>
