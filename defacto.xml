@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://facto.ru</id>
     <title>DeFacto Воронеж</title>
-    <updated>2023-05-27T05:34:23.574Z</updated>
+    <updated>2023-05-27T17:34:10.133Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://facto.ru/bitrix/templates/cz_facto_2016/favicons/favicon-16x16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Имущественный комплекс «Воронежтрубопроводстроя» ушел «с молотка» за 131 млн рублей]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/imushchestvennyy_kompleks_voronezhtruboprovodstroya_ushel_s_molotka_za_131_mln_rubley/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/imushchestvennyy_kompleks_voronezhtruboprovodstroya_ushel_s_molotka_za_131_mln_rubley/"/>
+        <updated>2023-05-27T17:34:09.451Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/imushchestvennyy_kompleks_voronezhtruboprovodstroya_ushel_s_molotka_za_131_mln_rubley/">Имущественный комплекс «Воронежтрубопроводстроя» ушел «с молотка» за 131 млн рублей</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Воронежская ГК «Агроэко» запустила в Павловском районе вторую очередь мясокомбината за 15 млрд рублей]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/voronezhskaya_gk_agroeko_zapustila_v_pavlovskom_rayone_vtoruyu_ochered_myasokombinata_za_15_mlrd_rub/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/voronezhskaya_gk_agroeko_zapustila_v_pavlovskom_rayone_vtoruyu_ochered_myasokombinata_za_15_mlrd_rub/"/>
+        <updated>2023-05-27T17:34:09.452Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/voronezhskaya_gk_agroeko_zapustila_v_pavlovskom_rayone_vtoruyu_ochered_myasokombinata_za_15_mlrd_rub/">Воронежская ГК «Агроэко» запустила в Павловском районе вторую очередь мясокомбината за 15 млрд рублей</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Воронежский губернатор Александр Гусев обсудил выпуск российских семян в области]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/voronezhskiy_gubernator_aleksandr_gusev_obsudil_vypusk_rossiyskikh_semyan_v_oblasti/</id>
@@ -200,19 +214,5 @@
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/novyy_terminal_voronezhskogo_aeroporta_planiruyut_zavershit_k_dekabryu/"/>
         <updated>2023-05-25T17:34:46.969Z</updated>
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/novyy_terminal_voronezhskogo_aeroporta_planiruyut_zavershit_k_dekabryu/">Новый терминал воронежского аэропорта планируют завершить к декабрю</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Губернатор Воронежской области Александр Гусев: с 1 июня социальные координаторы начнут помогать семьям участников СВО]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/gubernator_voronezhskoy_oblasti_aleksandr_gusev_s_1_iyunya_sotsialnye_koordinatory_nachnut_pomogat_s/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/gubernator_voronezhskoy_oblasti_aleksandr_gusev_s_1_iyunya_sotsialnye_koordinatory_nachnut_pomogat_s/"/>
-        <updated>2023-05-25T17:34:46.971Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/gubernator_voronezhskoy_oblasti_aleksandr_gusev_s_1_iyunya_sotsialnye_koordinatory_nachnut_pomogat_s/">Губернатор Воронежской области Александр Гусев: с 1 июня социальные координаторы начнут помогать семьям участников СВО</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[На «Ночь в Дивногорье» воронежцев доставят дополнительные электрички]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/na_noch_v_divnogore_voronezhtsev_dostavyat_dopolnitelnye_elektrichki_/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/na_noch_v_divnogore_voronezhtsev_dostavyat_dopolnitelnye_elektrichki_/"/>
-        <updated>2023-05-25T17:34:46.976Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/na_noch_v_divnogore_voronezhtsev_dostavyat_dopolnitelnye_elektrichki_/">На «Ночь в Дивногорье» воронежцев доставят дополнительные электрички </a>]]></content>
     </entry>
 </feed>
