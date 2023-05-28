@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://facto.ru</id>
     <title>DeFacto Воронеж</title>
-    <updated>2023-05-28T05:34:46.279Z</updated>
+    <updated>2023-05-28T17:34:49.697Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://facto.ru/bitrix/templates/cz_facto_2016/favicons/favicon-16x16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Эффективные практики соцподдержки воронежских военнослужащих представят на форуме «Сообщество»]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/effektivnye_praktiki_sotspodderzhki_voronezhskikh_voennosluzhashchikh_predstavyat_na_forume_soobshch/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/effektivnye_praktiki_sotspodderzhki_voronezhskikh_voennosluzhashchikh_predstavyat_na_forume_soobshch/"/>
+        <updated>2023-05-28T17:34:48.793Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/effektivnye_praktiki_sotspodderzhki_voronezhskikh_voennosluzhashchikh_predstavyat_na_forume_soobshch/">Эффективные практики соцподдержки воронежских военнослужащих представят на форуме «Сообщество»</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Проект обновленного здания воронежского ТЮЗа отправили на доработку]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/proekt_obnovlennogo_zdaniya_voronezhskogo_tyuza_otpravili_na_dorabotku/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/proekt_obnovlennogo_zdaniya_voronezhskogo_tyuza_otpravili_na_dorabotku/"/>
+        <updated>2023-05-28T17:34:48.794Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/proekt_obnovlennogo_zdaniya_voronezhskogo_tyuza_otpravili_na_dorabotku/">Проект обновленного здания воронежского ТЮЗа отправили на доработку</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Воронежский бизнес поставил на паузу кредитов на 53 млрд рублей]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/voronezhskiy_biznes_postavil_na_pauzu_kreditov_na_53_mlrd_rubley/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/voronezhskiy_biznes_postavil_na_pauzu_kreditov_na_53_mlrd_rubley/"/>
+        <updated>2023-05-28T17:34:48.799Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/voronezhskiy_biznes_postavil_na_pauzu_kreditov_na_53_mlrd_rubley/">Воронежский бизнес поставил на паузу кредитов на 53 млрд рублей</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Имущественный комплекс «Воронежтрубопроводстроя» ушел «с молотка» за 131 млн рублей]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/imushchestvennyy_kompleks_voronezhtruboprovodstroya_ushel_s_molotka_za_131_mln_rubley/</id>
@@ -25,6 +46,13 @@
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/voronezhskiy_gubernator_aleksandr_gusev_obsudil_vypusk_rossiyskikh_semyan_v_oblasti/"/>
         <updated>2023-05-27T05:34:22.776Z</updated>
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/voronezhskiy_gubernator_aleksandr_gusev_obsudil_vypusk_rossiyskikh_semyan_v_oblasti/">Воронежский губернатор Александр Гусев обсудил выпуск российских семян в области</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Греф видит потенциал минимум двукратного роста МСБ в ВВП]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/gref_vidit_potentsial_minimum_dvukratnogo_rosta_msb_v_vvp/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/gref_vidit_potentsial_minimum_dvukratnogo_rosta_msb_v_vvp/"/>
+        <updated>2023-05-28T17:34:48.804Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/gref_vidit_potentsial_minimum_dvukratnogo_rosta_msb_v_vvp/"> Греф видит потенциал минимум двукратного роста МСБ в ВВП</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Воронежский медуниверситет прокомментировал инцидент с ожогами глаз у студентов]]></title>
@@ -186,33 +214,5 @@
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/v_voronezhe_10_klenov_s_prospekta_revolyutsii_perevezut_v_pitomnik/"/>
         <updated>2023-05-25T17:34:46.956Z</updated>
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/v_voronezhe_10_klenov_s_prospekta_revolyutsii_perevezut_v_pitomnik/">В Воронеже 10 кленов с проспекта Революции перевезут в питомник</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[В  Воронежской области средняя зарплата превысила 50 тысяч рублей]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/v_voronezhskoy_oblasti_srednyaya_zarplata_prevysila_50_tysyach_rubley_/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/v_voronezhskoy_oblasti_srednyaya_zarplata_prevysila_50_tysyach_rubley_/"/>
-        <updated>2023-05-25T17:34:46.958Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/v_voronezhskoy_oblasti_srednyaya_zarplata_prevysila_50_tysyach_rubley_/">В  Воронежской области средняя зарплата превысила 50 тысяч рублей </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[800 млн рублей потратили туристы на медуслуги в Воронежской области в 2022 году]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/800_mln_rubley_potratili_turisty_na_meduslugi_v_voronezhskoy_oblasti_v_2022_godu/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/800_mln_rubley_potratili_turisty_na_meduslugi_v_voronezhskoy_oblasti_v_2022_godu/"/>
-        <updated>2023-05-25T17:34:46.961Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/800_mln_rubley_potratili_turisty_na_meduslugi_v_voronezhskoy_oblasti_v_2022_godu/">800 млн рублей потратили туристы на медуслуги в Воронежской области в 2022 году</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[В Воронеже отделение «Единой России» начало процедуру выдвижения Александра Гусева на выборы губернатора]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/voronezhskiy_gubernator_aleksandr_gusev_obyavil_o_vydvizhenii_na_vtoroy_srok/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/voronezhskiy_gubernator_aleksandr_gusev_obyavil_o_vydvizhenii_na_vtoroy_srok/"/>
-        <updated>2023-05-25T17:34:46.966Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/voronezhskiy_gubernator_aleksandr_gusev_obyavil_o_vydvizhenii_na_vtoroy_srok/">В Воронеже отделение «Единой России» начало процедуру выдвижения Александра Гусева на выборы губернатора</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Новый терминал воронежского аэропорта планируют завершить к декабрю]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/novyy_terminal_voronezhskogo_aeroporta_planiruyut_zavershit_k_dekabryu/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/novyy_terminal_voronezhskogo_aeroporta_planiruyut_zavershit_k_dekabryu/"/>
-        <updated>2023-05-25T17:34:46.969Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/novyy_terminal_voronezhskogo_aeroporta_planiruyut_zavershit_k_dekabryu/">Новый терминал воронежского аэропорта планируют завершить к декабрю</a>]]></content>
     </entry>
 </feed>
