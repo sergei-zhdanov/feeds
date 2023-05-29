@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://facto.ru</id>
     <title>DeFacto Воронеж</title>
-    <updated>2023-05-28T17:34:49.697Z</updated>
+    <updated>2023-05-29T05:35:13.234Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://facto.ru/bitrix/templates/cz_facto_2016/favicons/favicon-16x16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Воронежский «Факел» после прихода Евсеева одержал очередную победу]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/voronezhskiy_fakel_posle_prikhoda_evseeva_oderzhal_ocherednuyu_pobedu/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/voronezhskiy_fakel_posle_prikhoda_evseeva_oderzhal_ocherednuyu_pobedu/"/>
+        <updated>2023-05-29T05:35:12.362Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/voronezhskiy_fakel_posle_prikhoda_evseeva_oderzhal_ocherednuyu_pobedu/"> Воронежский «Факел» после прихода Евсеева одержал очередную победу</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[С 29 мая без горячей воды временно останутся больше 300 домов в Воронеже]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/s_29_maya_bez_goryachey_vody_vremenno_ostanutsya_bolshe_300_domov_v_voronezhe/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/s_29_maya_bez_goryachey_vody_vremenno_ostanutsya_bolshe_300_domov_v_voronezhe/"/>
+        <updated>2023-05-29T05:35:12.370Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/s_29_maya_bez_goryachey_vody_vremenno_ostanutsya_bolshe_300_domov_v_voronezhe/"> С 29 мая без горячей воды временно останутся больше 300 домов в Воронеже</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Новые остановки автобусов в Воронеже с 1 июня]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/novye_ostanovki_avtobusov_v_voronezhe_s_1_iyunya_/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/novye_ostanovki_avtobusov_v_voronezhe_s_1_iyunya_/"/>
+        <updated>2023-05-29T05:35:12.375Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/novye_ostanovki_avtobusov_v_voronezhe_s_1_iyunya_/">Новые остановки автобусов в Воронеже с 1 июня </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Эффективные практики соцподдержки воронежских военнослужащих представят на форуме «Сообщество»]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/effektivnye_praktiki_sotspodderzhki_voronezhskikh_voennosluzhashchikh_predstavyat_na_forume_soobshch/</id>
@@ -193,26 +214,5 @@
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/eks_deputat_gordumy_voronezha_roman_zhogov_pereveden_iz_sizo_pod_domashniy_arest/"/>
         <updated>2023-05-25T17:34:46.944Z</updated>
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/eks_deputat_gordumy_voronezha_roman_zhogov_pereveden_iz_sizo_pod_domashniy_arest/">Под домашний арест перевели бывшего депутата воронежской городской думы Романа Жогова</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Александр Романович: «На сегодняшний день Александр Гусев самый узнаваемый политик в регионе»]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/aleksandr_romanovich_na_segodnyashniy_den_aleksandr_gusev_samyy_uznavaemyy_politik_v_regione/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/aleksandr_romanovich_na_segodnyashniy_den_aleksandr_gusev_samyy_uznavaemyy_politik_v_regione/"/>
-        <updated>2023-05-25T17:34:46.947Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/aleksandr_romanovich_na_segodnyashniy_den_aleksandr_gusev_samyy_uznavaemyy_politik_v_regione/"> Александр Романович: «На сегодняшний день Александр Гусев самый узнаваемый политик в регионе»</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Александр Гусев объявил об участии в сентябрьских выборах губернатора Воронежской области]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/aleksandr_gusev_obyavil_ob_uchastii_v_sentyabrskikh_vyborakh_gubernatora_voronezhskoy_oblasti/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/aleksandr_gusev_obyavil_ob_uchastii_v_sentyabrskikh_vyborakh_gubernatora_voronezhskoy_oblasti/"/>
-        <updated>2023-05-25T17:34:46.952Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/aleksandr_gusev_obyavil_ob_uchastii_v_sentyabrskikh_vyborakh_gubernatora_voronezhskoy_oblasti/">Александр Гусев объявил об участии в сентябрьских выборах губернатора Воронежской области</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[В Воронеже 10 кленов с проспекта Революции перевезут в питомник]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/v_voronezhe_10_klenov_s_prospekta_revolyutsii_perevezut_v_pitomnik/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/v_voronezhe_10_klenov_s_prospekta_revolyutsii_perevezut_v_pitomnik/"/>
-        <updated>2023-05-25T17:34:46.956Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/v_voronezhe_10_klenov_s_prospekta_revolyutsii_perevezut_v_pitomnik/">В Воронеже 10 кленов с проспекта Революции перевезут в питомник</a>]]></content>
     </entry>
 </feed>
