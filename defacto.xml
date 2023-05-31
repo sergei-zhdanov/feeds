@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://facto.ru</id>
     <title>DeFacto Воронеж</title>
-    <updated>2023-05-30T17:34:28.540Z</updated>
+    <updated>2023-05-31T05:36:09.262Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://facto.ru/bitrix/templates/cz_facto_2016/favicons/favicon-16x16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Парковку возле парка Орленок в Воронеже запретят в связи с проведением форума]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/parkovku_vozle_parka_orlenok_v_voronezhe_zapretyat_v_svyazi_s_provedeniem_foruma/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/parkovku_vozle_parka_orlenok_v_voronezhe_zapretyat_v_svyazi_s_provedeniem_foruma/"/>
+        <updated>2023-05-31T05:36:07.965Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/parkovku_vozle_parka_orlenok_v_voronezhe_zapretyat_v_svyazi_s_provedeniem_foruma/"> Парковку возле парка Орленок в Воронеже запретят в связи с проведением форума</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2 улицы будут перекрыты в Центральном районе Воронежа в ночь на 1 июня]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/2_ulitsy_budut_perekryty_v_tsentralnom_rayone_voronezha_v_noch_na_1_iyunya/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/2_ulitsy_budut_perekryty_v_tsentralnom_rayone_voronezha_v_noch_na_1_iyunya/"/>
+        <updated>2023-05-31T05:36:07.968Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/2_ulitsy_budut_perekryty_v_tsentralnom_rayone_voronezha_v_noch_na_1_iyunya/"> 2 улицы будут перекрыты в Центральном районе Воронежа в ночь на 1 июня</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Форум Столля-2023. Как это было?]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/forum_stollya_2023_kak_eto_bylo/</id>
@@ -20,11 +34,11 @@
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/v_pervom_kvartale_banki_vydali_voronezhtsam_na_ipoteku_15_mlrd_rubley/">В первом квартале банки выдали воронежцам на ипотеку 15 млрд рублей</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Александр Гусев утвердил 20 членов Общественной палаты Воронежской области нового созыва]]></title>
+        <title type="html"><![CDATA[20 членов Общественной палаты нового созыва утвердили в Воронежской области]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/aleksandr_gusev_utverdil_20_chlenov_obshchestvennoy_palaty_voronezhskoy_oblasti_novogo_sozyva/</id>
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/aleksandr_gusev_utverdil_20_chlenov_obshchestvennoy_palaty_voronezhskoy_oblasti_novogo_sozyva/"/>
         <updated>2023-05-30T17:34:27.803Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/aleksandr_gusev_utverdil_20_chlenov_obshchestvennoy_palaty_voronezhskoy_oblasti_novogo_sozyva/">Александр Гусев утвердил 20 членов Общественной палаты Воронежской области нового созыва</a>]]></content>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/aleksandr_gusev_utverdil_20_chlenov_obshchestvennoy_palaty_voronezhskoy_oblasti_novogo_sozyva/">20 членов Общественной палаты нового созыва утвердили в Воронежской области</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Воронежский мэр не согласился с проектом плотной застройки ветхого квартала на 9 Января]]></title>
@@ -200,19 +214,5 @@
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/voronezhskiy_fakel_posle_prikhoda_evseeva_oderzhal_ocherednuyu_pobedu/"/>
         <updated>2023-05-29T05:35:12.362Z</updated>
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/voronezhskiy_fakel_posle_prikhoda_evseeva_oderzhal_ocherednuyu_pobedu/"> Воронежский «Факел» после прихода Евсеева одержал очередную победу</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[С 29 мая без горячей воды временно останутся больше 300 домов в Воронеже]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/s_29_maya_bez_goryachey_vody_vremenno_ostanutsya_bolshe_300_domov_v_voronezhe/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/s_29_maya_bez_goryachey_vody_vremenno_ostanutsya_bolshe_300_domov_v_voronezhe/"/>
-        <updated>2023-05-29T05:35:12.370Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/s_29_maya_bez_goryachey_vody_vremenno_ostanutsya_bolshe_300_domov_v_voronezhe/"> С 29 мая без горячей воды временно останутся больше 300 домов в Воронеже</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Новые остановки автобусов появятся в Воронеже с 1 июня]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/novye_ostanovki_avtobusov_v_voronezhe_s_1_iyunya_/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/novye_ostanovki_avtobusov_v_voronezhe_s_1_iyunya_/"/>
-        <updated>2023-05-29T05:35:12.375Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/novye_ostanovki_avtobusov_v_voronezhe_s_1_iyunya_/">Новые остановки автобусов появятся в Воронеже с 1 июня </a>]]></content>
     </entry>
 </feed>
