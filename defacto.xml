@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://facto.ru</id>
     <title>DeFacto Воронеж</title>
-    <updated>2023-06-01T17:34:31.169Z</updated>
+    <updated>2023-06-02T05:34:35.390Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://facto.ru/bitrix/templates/cz_facto_2016/favicons/favicon-16x16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Чистая прибыль воронежского «Факела» за прошлый год составила 127,4 млн рублей]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/chistaya_pribyl_voronezhskogo_fakela_za_proshlyy_god_sostavila_127_4_mln_rubley/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/chistaya_pribyl_voronezhskogo_fakela_za_proshlyy_god_sostavila_127_4_mln_rubley/"/>
+        <updated>2023-06-02T05:34:34.457Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/chistaya_pribyl_voronezhskogo_fakela_za_proshlyy_god_sostavila_127_4_mln_rubley/"> Чистая прибыль воронежского «Факела» за прошлый год составила 127,4 млн рублей</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Общежитие института МВД за 1 млрд рублей построит воронежский ДСК]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/obshchezhitie_instituta_mvd_za_1_mlrd_rubley_postroit_voronezhskiy_dsk/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/obshchezhitie_instituta_mvd_za_1_mlrd_rubley_postroit_voronezhskiy_dsk/"/>
+        <updated>2023-06-02T05:34:34.460Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/obshchezhitie_instituta_mvd_za_1_mlrd_rubley_postroit_voronezhskiy_dsk/">Общежитие института МВД за 1 млрд рублей построит воронежский ДСК</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Воронежский губернатор передал подразделению российской армии необходимые коптеры]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/voronezhskiy_gubernator_peredal_podrazdeleniyu_rossiyskoy_armii_neobkhodimye_koptery/</id>
@@ -200,19 +214,5 @@
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/v_merii_voronezha_soobshchili_o_perekrytii_ulits_v_tsentre_v_blizhayshie_dni/"/>
         <updated>2023-05-31T17:34:46.398Z</updated>
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/v_merii_voronezha_soobshchili_o_perekrytii_ulits_v_tsentre_v_blizhayshie_dni/">Для автомобилистов в Воронеже закроют временно набережную</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Более 180 млн рублей долга выплатили ресурсникам воронежские УК группы «ПИК-Комфорт»]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/bolee_180_mln_rubley_dolga_vyplatili_resursnikam_voronezhskie_uk_gruppy_pik_komfort/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/bolee_180_mln_rubley_dolga_vyplatili_resursnikam_voronezhskie_uk_gruppy_pik_komfort/"/>
-        <updated>2023-05-31T17:34:46.401Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/bolee_180_mln_rubley_dolga_vyplatili_resursnikam_voronezhskie_uk_gruppy_pik_komfort/">Более 180 млн рублей долга выплатили ресурсникам воронежские УК группы «ПИК-Комфорт»</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[За день до закрытия в голосовании по выбору объектов благоустройства приняло участие 80 тысяч воронежцев]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/za_den_do_zakrytiya_v_golosovanii_po_vyboru_obektov_blagoustroystva_prinyalo_uchastie_80_tysyach_vor/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/za_den_do_zakrytiya_v_golosovanii_po_vyboru_obektov_blagoustroystva_prinyalo_uchastie_80_tysyach_vor/"/>
-        <updated>2023-05-31T17:34:46.407Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/za_den_do_zakrytiya_v_golosovanii_po_vyboru_obektov_blagoustroystva_prinyalo_uchastie_80_tysyach_vor/">За день до закрытия в голосовании по выбору объектов благоустройства приняло участие 80 тысяч воронежцев</a>]]></content>
     </entry>
 </feed>
