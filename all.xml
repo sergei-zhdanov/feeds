@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sergei-zhdanov.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-03T05:34:21.031Z</updated>
+    <updated>2023-06-03T17:34:41.707Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Единое пособие в Воронежской области получили родители 71 тысячи детей (DeFacto Воронеж)]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/edinoe_posobie_v_voronezhskoy_oblasti_poluchili_roditeli_71_tysyachi_detey/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/edinoe_posobie_v_voronezhskoy_oblasti_poluchili_roditeli_71_tysyachi_detey/"/>
+        <updated>2023-06-03T17:34:40.995Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/edinoe_posobie_v_voronezhskoy_oblasti_poluchili_roditeli_71_tysyachi_detey/">Единое пособие в Воронежской области получили родители 71 тысячи детей</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[В Воронеже открылась летняя программа XII Платоновского фестиваля (DeFacto Воронеж)]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/v_voronezhe_otkrylas_letnyaya_programma_xii_platonovskogo_festivalya/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/v_voronezhe_otkrylas_letnyaya_programma_xii_platonovskogo_festivalya/"/>
+        <updated>2023-06-03T17:34:40.997Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/v_voronezhe_otkrylas_letnyaya_programma_xii_platonovskogo_festivalya/">В Воронеже открылась летняя программа XII Платоновского фестиваля</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Мария Мазур: «В рамках Платоновского фестиваля много проектов мы сделали для молодежи» (DeFacto Воронеж)]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/mariya_mazur_v_ramkakh_platonovskogo_festivalya_mnogo_proektov_my_sdelali_dlya_molodezhi/</id>
@@ -199,19 +213,5 @@
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/159_dubov_za_42_mln_rubley_pogibli_pod_voronezhem_iz_za_nezakonnogo_sbrosa_stokov/"/>
         <updated>2023-06-01T17:34:30.451Z</updated>
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/159_dubov_za_42_mln_rubley_pogibli_pod_voronezhem_iz_za_nezakonnogo_sbrosa_stokov/">159 дубов за 42 млн рублей погибли под Воронежем из-за незаконного сброса стоков</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Сплошные проверки пассажирских поездов пройдут в Воронежской области (DeFacto Воронеж)]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/sploshnye_proverki_passazhirskikh_poezdov_proydut_v_voronezhskoy_oblasti/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/sploshnye_proverki_passazhirskikh_poezdov_proydut_v_voronezhskoy_oblasti/"/>
-        <updated>2023-06-01T05:34:34.495Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/sploshnye_proverki_passazhirskikh_poezdov_proydut_v_voronezhskoy_oblasti/">Сплошные проверки пассажирских поездов пройдут в Воронежской области</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Особая подсветка в День защиты детей появится на воронежской телебашне (DeFacto Воронеж)]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/05/osobaya_podsvetka_v_den_zashchity_detey_poyavitsya_na_voronezhskoy_telebashne/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/05/osobaya_podsvetka_v_den_zashchity_detey_poyavitsya_na_voronezhskoy_telebashne/"/>
-        <updated>2023-06-01T05:34:34.496Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/05/osobaya_podsvetka_v_den_zashchity_detey_poyavitsya_na_voronezhskoy_telebashne/">Особая подсветка в День защиты детей появится на воронежской телебашне</a>]]></content>
     </entry>
 </feed>
