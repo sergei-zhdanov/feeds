@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://facto.ru</id>
     <title>DeFacto Воронеж</title>
-    <updated>2023-06-04T05:34:34.249Z</updated>
+    <updated>2023-06-04T17:34:18.505Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://facto.ru/bitrix/templates/cz_facto_2016/favicons/favicon-16x16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[РФС объявил даты стыковых матчей воронежского «Факела» за место в Премьер-лиге]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/rfs_obyavil_daty_stykovykh_matchey_voronezhskogo_fakela_za_mesto_v_premer_lige/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/rfs_obyavil_daty_stykovykh_matchey_voronezhskogo_fakela_za_mesto_v_premer_lige/"/>
+        <updated>2023-06-04T17:34:17.714Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/rfs_obyavil_daty_stykovykh_matchey_voronezhskogo_fakela_za_mesto_v_premer_lige/">РФС объявил даты стыковых матчей воронежского «Факела» за место в Премьер-лиге</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Подрядчик раскрыл этапы восстановления Каменного моста в Воронеже]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/podryadchik_raskryl_etapy_vosstanovleniya_kamennogo_mosta_v_voronezhe/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/podryadchik_raskryl_etapy_vosstanovleniya_kamennogo_mosta_v_voronezhe/"/>
+        <updated>2023-06-04T17:34:17.715Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/podryadchik_raskryl_etapy_vosstanovleniya_kamennogo_mosta_v_voronezhe/">Подрядчик раскрыл этапы восстановления Каменного моста в Воронеже</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Единое пособие в Воронежской области получили родители 71 тысячи детей]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/edinoe_posobie_v_voronezhskoy_oblasti_poluchili_roditeli_71_tysyachi_detey/</id>
@@ -200,19 +214,5 @@
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/smotrovuyu_ploshchadku_v_pavlovske_pod_voronezhem_obustroyat_za_5_7_mln_rubley/"/>
         <updated>2023-06-01T17:34:30.443Z</updated>
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/smotrovuyu_ploshchadku_v_pavlovske_pod_voronezhem_obustroyat_za_5_7_mln_rubley/">Смотровую площадку в Павловске под Воронежем обустроят за 5,7 млн рублей</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Под Воронежем за 411 миллионов продают меловой бизнес «Эльдако»]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/pod_voronezhem_za_411_millionov_prodayut_melovoy_biznes_eldako_/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/pod_voronezhem_za_411_millionov_prodayut_melovoy_biznes_eldako_/"/>
-        <updated>2023-06-01T17:34:30.448Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/pod_voronezhem_za_411_millionov_prodayut_melovoy_biznes_eldako_/">Под Воронежем за 411 миллионов продают меловой бизнес «Эльдако» </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[80% воронежцев, работающие в сфере инвестиций, положительно относятся к нейросетям]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/80_voronezhtsev_rabotayushchie_v_sfere_investitsiy_polozhitelno_otnosyatsya_k_neyrosetyam/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/80_voronezhtsev_rabotayushchie_v_sfere_investitsiy_polozhitelno_otnosyatsya_k_neyrosetyam/"/>
-        <updated>2023-06-01T17:34:30.449Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/80_voronezhtsev_rabotayushchie_v_sfere_investitsiy_polozhitelno_otnosyatsya_k_neyrosetyam/">80% воронежцев, работающие в сфере инвестиций, положительно относятся к нейросетям</a>]]></content>
     </entry>
 </feed>
