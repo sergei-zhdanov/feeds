@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sergei-zhdanov.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-03T17:34:41.707Z</updated>
+    <updated>2023-06-04T05:34:34.253Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Единое пособие в Воронежской области получили родители 71 тысячи детей (DeFacto Воронеж)]]></title>
@@ -124,6 +124,13 @@
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/chistaya_pribyl_voronezhskogo_fakela_za_proshlyy_god_sostavila_127_4_mln_rubley/">За 2022 год прибыль воронежского «Факела» до налогов составила 127,4 млн рублей</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Губернатор Воронежской области: «Главная цель наших усилий – благополучие детей» (DeFacto Воронеж)]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/gubernator_voronezhskoy_oblasti_glavnaya_tsel_nashikh_usiliy_blagopoluchie_detey/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/gubernator_voronezhskoy_oblasti_glavnaya_tsel_nashikh_usiliy_blagopoluchie_detey/"/>
+        <updated>2023-06-04T05:34:33.502Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/gubernator_voronezhskoy_oblasti_glavnaya_tsel_nashikh_usiliy_blagopoluchie_detey/">Губернатор Воронежской области: «Главная цель наших усилий – благополучие детей»</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[В Воронеже Домостроительный комбинат займется строительством общежития МВД за 1 млрд рублей (DeFacto Воронеж)]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/obshchezhitie_instituta_mvd_za_1_mlrd_rubley_postroit_voronezhskiy_dsk/</id>
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/obshchezhitie_instituta_mvd_za_1_mlrd_rubley_postroit_voronezhskiy_dsk/"/>
@@ -206,12 +213,5 @@
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/80_voronezhtsev_rabotayushchie_v_sfere_investitsiy_polozhitelno_otnosyatsya_k_neyrosetyam/"/>
         <updated>2023-06-01T17:34:30.449Z</updated>
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/80_voronezhtsev_rabotayushchie_v_sfere_investitsiy_polozhitelno_otnosyatsya_k_neyrosetyam/">80% воронежцев, работающие в сфере инвестиций, положительно относятся к нейросетям</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[159 дубов за 42 млн рублей погибли под Воронежем из-за незаконного сброса стоков (DeFacto Воронеж)]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/159_dubov_za_42_mln_rubley_pogibli_pod_voronezhem_iz_za_nezakonnogo_sbrosa_stokov/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/159_dubov_za_42_mln_rubley_pogibli_pod_voronezhem_iz_za_nezakonnogo_sbrosa_stokov/"/>
-        <updated>2023-06-01T17:34:30.451Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/159_dubov_za_42_mln_rubley_pogibli_pod_voronezhem_iz_za_nezakonnogo_sbrosa_stokov/">159 дубов за 42 млн рублей погибли под Воронежем из-за незаконного сброса стоков</a>]]></content>
     </entry>
 </feed>
