@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://facto.ru</id>
     <title>DeFacto Воронеж</title>
-    <updated>2023-06-05T17:34:08.297Z</updated>
+    <updated>2023-06-06T05:34:27.800Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://facto.ru/bitrix/templates/cz_facto_2016/favicons/favicon-16x16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[На ПМЭФ–2023 департамент культуры Воронежской области представит широкую программу]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/na_pmef_2023_departament_kultury_voronezhskoy_oblasti_predstavit_shirokuyu_kulturnuyu_programmu/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/na_pmef_2023_departament_kultury_voronezhskoy_oblasti_predstavit_shirokuyu_kulturnuyu_programmu/"/>
+        <updated>2023-06-06T05:34:27.017Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/na_pmef_2023_departament_kultury_voronezhskoy_oblasti_predstavit_shirokuyu_kulturnuyu_programmu/">На ПМЭФ–2023 департамент культуры Воронежской области представит широкую программу</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Губернатор Гусев предложил увеличить возрастной «коридор» для освобождения многодетных от транспортного налога]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/gubernator_gusev_predlozhil_uvelichit_vozrastnoy_koridor_dlya_osvobozhdeniya_mnogodetnykh_ot_transpo/</id>
@@ -207,12 +214,5 @@
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/v_boguchare_pod_voronezhem_blagoustroili_naberezhnuyu_i_plyazh_za_80_mln_rubley/"/>
         <updated>2023-06-02T17:35:02.603Z</updated>
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/v_boguchare_pod_voronezhem_blagoustroili_naberezhnuyu_i_plyazh_za_80_mln_rubley/">В Богучаре под Воронежем благоустроили набережную и пляж за 80 млн рублей</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[В Каменском районе Воронежской области объем инвестиций вырос на 13%]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/v_kamenskom_rayone_voronezhskoy_oblasti_uvelichilis_nalogovye_postupleniya/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/v_kamenskom_rayone_voronezhskoy_oblasti_uvelichilis_nalogovye_postupleniya/"/>
-        <updated>2023-06-02T17:35:02.606Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/v_kamenskom_rayone_voronezhskoy_oblasti_uvelichilis_nalogovye_postupleniya/">В Каменском районе Воронежской области объем инвестиций вырос на 13%</a>]]></content>
     </entry>
 </feed>
