@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sergei-zhdanov.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-06T17:34:08.755Z</updated>
+    <updated>2023-06-07T05:34:38.017Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[За взятки от одиннадцати студентов в Воронеже экс-декана вуза предстанет перед судом (DeFacto Воронеж)]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/za_vzyatki_ot_odinnadtsati_studentov_v_voronezhe_eks_dekana_vuza_predstanet_pered_sudom/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/za_vzyatki_ot_odinnadtsati_studentov_v_voronezhe_eks_dekana_vuza_predstanet_pered_sudom/"/>
+        <updated>2023-06-07T05:34:37.278Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/za_vzyatki_ot_odinnadtsati_studentov_v_voronezhe_eks_dekana_vuza_predstanet_pered_sudom/"> За взятки от одиннадцати студентов в Воронеже экс-декана вуза предстанет перед судом</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Воронежцы выбрали 11 общественных пространств для скорейшего благоустройства (DeFacto Воронеж)]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/voronezhtsy_vybrali_11_obshchestvennykh_prostranstv_dlya_skoreyshego_blagoustroystva/</id>
@@ -206,12 +213,5 @@
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/ob_otklyucheniyakh_vody_v_leninskom_rayone_5_iyunya_predupredili_voronezhtsev_/"/>
         <updated>2023-06-05T17:34:07.614Z</updated>
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/ob_otklyucheniyakh_vody_v_leninskom_rayone_5_iyunya_predupredili_voronezhtsev_/">Об отключениях воды в Ленинском районе 5 июня предупредили воронежцев </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[В Воронеже после ЧП с обрушением на смотровой площадке у Каменного моста разобрали плитку (DeFacto Воронеж)]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/voronezhskiy_mer_soobshchil_o_situatsii_s_podpornoy_stenoy_kamennogo_mosta_/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/voronezhskiy_mer_soobshchil_o_situatsii_s_podpornoy_stenoy_kamennogo_mosta_/"/>
-        <updated>2023-06-05T17:34:07.615Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/voronezhskiy_mer_soobshchil_o_situatsii_s_podpornoy_stenoy_kamennogo_mosta_/">В Воронеже после ЧП с обрушением на смотровой площадке у Каменного моста разобрали плитку</a>]]></content>
     </entry>
 </feed>
