@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://facto.ru</id>
     <title>DeFacto Воронеж</title>
-    <updated>2023-06-07T17:34:26.719Z</updated>
+    <updated>2023-06-08T05:34:33.106Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://facto.ru/bitrix/templates/cz_facto_2016/favicons/favicon-16x16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Для переезда Птичьего рынка воронежские власти определились с местом]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/dlya_pereezda_ptichego_rynka_voronezhskie_vlasti_opredelilis_s_mestom/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/dlya_pereezda_ptichego_rynka_voronezhskie_vlasti_opredelilis_s_mestom/"/>
+        <updated>2023-06-08T05:34:32.358Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/dlya_pereezda_ptichego_rynka_voronezhskie_vlasti_opredelilis_s_mestom/">Для переезда Птичьего рынка воронежские власти определились с местом</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[В Воронеже назвали победителя на лучший проект памятника педагогам]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/v_voronezhe_nazvali_pobeditelya_na_luchshiy_proekt_pamyatnika_pedagogam/</id>
@@ -207,12 +214,5 @@
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/professor_khimicheskogo_fakulteta_voronezhskogo_gosuniversiteta_goncharov_skoropostizhno_skonchalsya/"/>
         <updated>2023-06-05T17:34:07.553Z</updated>
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/professor_khimicheskogo_fakulteta_voronezhskogo_gosuniversiteta_goncharov_skoropostizhno_skonchalsya/">Профессор химического факультета Воронежского госуниверситета Гончаров скоропостижно скончался</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Губернатор Воронежской области Александр Гусев: с начала года выдано 42 сертификата на покупку жилья для детей-сирот]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/gubernator_voronezhskoy_oblasti_aleksandr_gusev_s_nachala_goda_vydano_42_sertifikata_na_pokupku_zhil/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/gubernator_voronezhskoy_oblasti_aleksandr_gusev_s_nachala_goda_vydano_42_sertifikata_na_pokupku_zhil/"/>
-        <updated>2023-06-05T17:34:07.553Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/gubernator_voronezhskoy_oblasti_aleksandr_gusev_s_nachala_goda_vydano_42_sertifikata_na_pokupku_zhil/">Губернатор Воронежской области Александр Гусев: с начала года выдано 42 сертификата на покупку жилья для детей-сирот</a>]]></content>
     </entry>
 </feed>
