@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://facto.ru</id>
     <title>DeFacto Воронеж</title>
-    <updated>2023-06-08T17:34:56.138Z</updated>
+    <updated>2023-06-09T05:34:30.326Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://facto.ru/bitrix/templates/cz_facto_2016/favicons/favicon-16x16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Парковки в центре Воронежа в выходные станут бесплатными]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/parkovki_v_tsentre_voronezha_v_vykhodnye_stanut_besplatnymi/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/parkovki_v_tsentre_voronezha_v_vykhodnye_stanut_besplatnymi/"/>
+        <updated>2023-06-09T05:34:29.309Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/parkovki_v_tsentre_voronezha_v_vykhodnye_stanut_besplatnymi/">Парковки в центре Воронежа в выходные станут бесплатными</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[В ГО и ЧС по Воронежской области назначили нового руководителя]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/v_go_i_chs_po_voronezhskoy_oblasti_naznachili_novogo_rukovoditelya/</id>
@@ -207,12 +214,5 @@
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/eks_mer_voronezha_tsapin_lishilsya_chasti_uchastka_ryadom_s_rekoy_usman/"/>
         <updated>2023-06-06T17:34:07.808Z</updated>
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/eks_mer_voronezha_tsapin_lishilsya_chasti_uchastka_ryadom_s_rekoy_usman/">Экс-мэр Воронежа Цапин лишился части участка рядом с рекой Усмань</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Билет на игру  воронежского «Факела» с «Енисеем» можно будет приобрести без карты болельщика]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/bilet_na_igru_voronezhskogo_fakela_s_eniseem_mozhno_budet_priobresti_bez_karty_bolelshchika/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/bilet_na_igru_voronezhskogo_fakela_s_eniseem_mozhno_budet_priobresti_bez_karty_bolelshchika/"/>
-        <updated>2023-06-06T17:34:07.809Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/bilet_na_igru_voronezhskogo_fakela_s_eniseem_mozhno_budet_priobresti_bez_karty_bolelshchika/">Билет на игру  воронежского «Факела» с «Енисеем» можно будет приобрести без карты болельщика</a>]]></content>
     </entry>
 </feed>
