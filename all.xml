@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sergei-zhdanov.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-10T05:34:24.677Z</updated>
+    <updated>2023-06-10T17:34:35.753Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Дубль Акбашева помог воронежскому «Факелу» во втором стыковом матче обыграть «Енисей» (DeFacto Воронеж)]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/dubl_akbasheva_pomog_voronezhskomu_fakelu_vo_vtorom_stykovom_matche_obygrat_enisey/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/dubl_akbasheva_pomog_voronezhskomu_fakelu_vo_vtorom_stykovom_matche_obygrat_enisey/"/>
+        <updated>2023-06-10T17:34:34.926Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/dubl_akbasheva_pomog_voronezhskomu_fakelu_vo_vtorom_stykovom_matche_obygrat_enisey/">Дубль Акбашева помог воронежскому «Факелу» во втором стыковом матче обыграть «Енисей»</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[«Воронеж группстрой» займется восстановлением поврежденного беспилотником дома (DeFacto Воронеж)]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/voronezh_gruppstroy_zaymetsya_vosstanovleniem_povrezhdennogo_bespilotnikom_doma/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/voronezh_gruppstroy_zaymetsya_vosstanovleniem_povrezhdennogo_bespilotnikom_doma/"/>
+        <updated>2023-06-10T17:34:34.929Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/voronezh_gruppstroy_zaymetsya_vosstanovleniem_povrezhdennogo_bespilotnikom_doma/">«Воронеж группстрой» займется восстановлением поврежденного беспилотником дома</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Воронежский губернатор вручил награды участникам спецоперации (DeFacto Воронеж)]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/voronezhskiy_gubernator_vruchil_nagrady_uchastnikam_spetsoperatsii/</id>
@@ -199,19 +213,5 @@
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/v_voronezhe_nazvali_pobeditelya_na_luchshiy_proekt_pamyatnika_pedagogam/"/>
         <updated>2023-06-07T17:34:25.341Z</updated>
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/v_voronezhe_nazvali_pobeditelya_na_luchshiy_proekt_pamyatnika_pedagogam/">В Воронеже назвали победителя на лучший проект памятника педагогам</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Воронежский «Факел» победил «Енисей» в первом стыковочном матче за право играть в РПЛ (DeFacto Воронеж)]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/voronezhskiy_fakel_pobedil_enisey_v_pervom_stykovochnom_matche_za_pravo_igrat_v_rpl/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/voronezhskiy_fakel_pobedil_enisey_v_pervom_stykovochnom_matche_za_pravo_igrat_v_rpl/"/>
-        <updated>2023-06-07T17:34:25.352Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/voronezhskiy_fakel_pobedil_enisey_v_pervom_stykovochnom_matche_za_pravo_igrat_v_rpl/"> Воронежский «Факел» победил «Енисей» в первом стыковочном матче за право играть в РПЛ</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Мэр Вадим Кстенин: на ремонт учреждений образования, спорта и культуры было выделено более 150 млн рублей (DeFacto Воронеж)]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/mer_vadim_kstenin_na_remont_uchrezhdeniy_obrazovaniya_sporta_i_kultury_bylo_vydeleno_bolee_150_mln_r/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/mer_vadim_kstenin_na_remont_uchrezhdeniy_obrazovaniya_sporta_i_kultury_bylo_vydeleno_bolee_150_mln_r/"/>
-        <updated>2023-06-07T17:34:25.353Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/mer_vadim_kstenin_na_remont_uchrezhdeniy_obrazovaniya_sporta_i_kultury_bylo_vydeleno_bolee_150_mln_r/">Мэр Вадим Кстенин: на ремонт учреждений образования, спорта и культуры было выделено более 150 млн рублей</a>]]></content>
     </entry>
 </feed>
