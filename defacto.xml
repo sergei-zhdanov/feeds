@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://facto.ru</id>
     <title>DeFacto Воронеж</title>
-    <updated>2023-06-09T17:35:01.396Z</updated>
+    <updated>2023-06-10T05:34:24.680Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://facto.ru/bitrix/templates/cz_facto_2016/favicons/favicon-16x16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Воронежский губернатор вручил награды участникам спецоперации]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/voronezhskiy_gubernator_vruchil_nagrady_uchastnikam_spetsoperatsii/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/voronezhskiy_gubernator_vruchil_nagrady_uchastnikam_spetsoperatsii/"/>
+        <updated>2023-06-10T05:34:23.890Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/voronezhskiy_gubernator_vruchil_nagrady_uchastnikam_spetsoperatsii/">Воронежский губернатор вручил награды участникам спецоперации</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[На начало года в Воронежской области зарегистрировано почти 79 тысяч самозанятых]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/na_nachalo_goda_v_voronezhskoy_oblasti_zaregistrirovano_pochti_79_tysyach_samozanyatykh/</id>
@@ -207,12 +214,5 @@
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/mer_vadim_kstenin_na_remont_uchrezhdeniy_obrazovaniya_sporta_i_kultury_bylo_vydeleno_bolee_150_mln_r/"/>
         <updated>2023-06-07T17:34:25.353Z</updated>
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/mer_vadim_kstenin_na_remont_uchrezhdeniy_obrazovaniya_sporta_i_kultury_bylo_vydeleno_bolee_150_mln_r/">Мэр Вадим Кстенин: на ремонт учреждений образования, спорта и культуры было выделено более 150 млн рублей</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Мэр Воронежа Вадим Кстенин: в 2022 году на 66 объектах улично-дорожной сети выполнен ремонт]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/mer_voronezha_vadim_kstenin_v_2022_godu_na_66_obektakh_ulichno_dorozhnoy_seti_vypolnen_remont/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/mer_voronezha_vadim_kstenin_v_2022_godu_na_66_obektakh_ulichno_dorozhnoy_seti_vypolnen_remont/"/>
-        <updated>2023-06-07T17:34:25.358Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/mer_voronezha_vadim_kstenin_v_2022_godu_na_66_obektakh_ulichno_dorozhnoy_seti_vypolnen_remont/">Мэр Воронежа Вадим Кстенин: в 2022 году на 66 объектах улично-дорожной сети выполнен ремонт</a>]]></content>
     </entry>
 </feed>
