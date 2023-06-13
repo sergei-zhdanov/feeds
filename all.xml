@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sergei-zhdanov.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-12T17:35:52.066Z</updated>
+    <updated>2023-06-13T05:34:27.668Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Ремонтом здания военкомата в Нововоронеже за 58 млн рублей займется компания «Юрпласт» (DeFacto Воронеж)]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/remontom_zdaniya_voenkomata_v_novovoronezhe_za_58_mln_rubley_zaymetsya_kompaniya_yurplast/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/remontom_zdaniya_voenkomata_v_novovoronezhe_za_58_mln_rubley_zaymetsya_kompaniya_yurplast/"/>
+        <updated>2023-06-13T05:34:26.870Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/remontom_zdaniya_voenkomata_v_novovoronezhe_za_58_mln_rubley_zaymetsya_kompaniya_yurplast/">Ремонтом здания военкомата в Нововоронеже за 58 млн рублей займется компания «Юрпласт»</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[На проект ледовой арены в воронежской Кантемировке выделят до 8 млн рублей (DeFacto Воронеж)]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/na_proekt_ledovoy_areny_v_voronezhskoy_kantemirovke_vydelyat_do_8_mln_rubley/</id>
@@ -206,12 +213,5 @@
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/v_voronezhe_proydet_konkurs_strit_arta/"/>
         <updated>2023-06-08T17:34:55.155Z</updated>
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/v_voronezhe_proydet_konkurs_strit_arta/">В Воронеже пройдет конкурс стрит-арта</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[В Воронежской области открыли вакансии председателей и зампредов судов (DeFacto Воронеж)]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/v_voronezhskoy_oblasti_otkryli_vakansii_predsedateley_i_zampredov_sudov_/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/v_voronezhskoy_oblasti_otkryli_vakansii_predsedateley_i_zampredov_sudov_/"/>
-        <updated>2023-06-08T17:34:55.157Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/v_voronezhskoy_oblasti_otkryli_vakansii_predsedateley_i_zampredov_sudov_/">В Воронежской области открыли вакансии председателей и зампредов судов </a>]]></content>
     </entry>
 </feed>
