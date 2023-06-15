@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sergei-zhdanov.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-14T17:34:42.510Z</updated>
+    <updated>2023-06-15T05:34:27.618Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Глава Сбербанка спрогнозировал рост российской экономики (DeFacto Воронеж)]]></title>
@@ -12,18 +12,18 @@
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/glava_sberbanka_sprognoziroval_rost_rossiyskoy_ekonomiki/">Глава Сбербанка спрогнозировал рост российской экономики</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[В Воронежской области ЕГЭ на 100 баллов сдал уже 31 выпускник (DeFacto Воронеж)]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/v_voronezhskoy_oblasti_ege_na_100_ballov_sdal_uzhe_31_vypusknik/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/v_voronezhskoy_oblasti_ege_na_100_ballov_sdal_uzhe_31_vypusknik/"/>
-        <updated>2023-06-14T17:34:41.704Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/v_voronezhskoy_oblasti_ege_na_100_ballov_sdal_uzhe_31_vypusknik/">В Воронежской области ЕГЭ на 100 баллов сдал уже 31 выпускник</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[В Воронеже начали принимать заявки на участие в фестивале «Город-Сад» (DeFacto Воронеж)]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/v_voronezhe_nachali_prinimat_zayavki_na_uchastie_v_festivale_gorod_sad/</id>
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/v_voronezhe_nachali_prinimat_zayavki_na_uchastie_v_festivale_gorod_sad/"/>
         <updated>2023-06-14T17:34:41.707Z</updated>
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/v_voronezhe_nachali_prinimat_zayavki_na_uchastie_v_festivale_gorod_sad/">В Воронеже начали принимать заявки на участие в фестивале «Город-Сад»</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Герман Греф заявил, что курс рубля во многом будут определять цены на нефть (DeFacto Воронеж)]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/german_gref_zayavil_chto_kurs_rublya_vo_mnogom_budut_opredelyat_tseny_na_neft/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/german_gref_zayavil_chto_kurs_rublya_vo_mnogom_budut_opredelyat_tseny_na_neft/"/>
+        <updated>2023-06-15T05:34:26.802Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/german_gref_zayavil_chto_kurs_rublya_vo_mnogom_budut_opredelyat_tseny_na_neft/">Герман Греф заявил, что курс рубля во многом будут определять цены на нефть</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Мэр Воронежа Вадим Кстенин и директор «Сибура» подписали соглашение о взаимодействии в сфере экологии (DeFacto Воронеж)]]></title>
@@ -45,6 +45,13 @@
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/v_voronezhe_na_neopredelennyy_srok_zakroyut_dvizhenie_na_uchastke_geroev_sibiryakov/"/>
         <updated>2023-06-14T17:34:41.715Z</updated>
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/v_voronezhe_na_neopredelennyy_srok_zakroyut_dvizhenie_na_uchastke_geroev_sibiryakov/"> В Воронеже на неопределенный срок закроют движение на участке Героев Сибиряков</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Россиянам рассказали, как мошенники обманывают целые семьи (DeFacto Воронеж)]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/rossiyanam_rasskazali_kak_moshenniki_obmanyvayut_tselye_semi/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/rossiyanam_rasskazali_kak_moshenniki_obmanyvayut_tselye_semi/"/>
+        <updated>2023-06-15T05:34:26.804Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/rossiyanam_rasskazali_kak_moshenniki_obmanyvayut_tselye_semi/">Россиянам рассказали, как мошенники обманывают целые семьи</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Работы по капремонту в Воронежской области будут принимать с видеофиксацией (DeFacto Воронеж)]]></title>
@@ -206,12 +213,5 @@
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/v_voronezhe_na_dve_nedeli_zakroyut_dvizhenie_po_ulitse_bekhtereva/"/>
         <updated>2023-06-13T17:35:27.889Z</updated>
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/v_voronezhe_na_dve_nedeli_zakroyut_dvizhenie_po_ulitse_bekhtereva/">На две недели улицу Бехтерева в Воронеже перекроют из-за ремонта теплотрассы</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Воронежский губернатор Гусев назвал сроки восстановления поврежденного БПЛА дома (DeFacto Воронеж)]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/voronezhskiy_gubernator_gusev_nazval_sroki_vosstanovleniya_povrezhdennogo_bpla_doma/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/voronezhskiy_gubernator_gusev_nazval_sroki_vosstanovleniya_povrezhdennogo_bpla_doma/"/>
-        <updated>2023-06-13T17:35:27.889Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/voronezhskiy_gubernator_gusev_nazval_sroki_vosstanovleniya_povrezhdennogo_bpla_doma/">Воронежский губернатор Гусев назвал сроки восстановления поврежденного БПЛА дома</a>]]></content>
     </entry>
 </feed>
