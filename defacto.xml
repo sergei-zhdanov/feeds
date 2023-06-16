@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://facto.ru</id>
     <title>DeFacto Воронеж</title>
-    <updated>2023-06-15T17:34:44.160Z</updated>
+    <updated>2023-06-16T05:34:47.125Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://facto.ru/bitrix/templates/cz_facto_2016/favicons/favicon-16x16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Губернатор Воронежской области Александр Гусев подписал соглашение о взаимодействии с группой компаний «ТНС энерго»]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/gubernator_voronezhskoy_oblasti_aleksandr_gusev_podpisal_soglashenie_o_vzaimodeystvii_s_gruppoy_komp/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/gubernator_voronezhskoy_oblasti_aleksandr_gusev_podpisal_soglashenie_o_vzaimodeystvii_s_gruppoy_komp/"/>
+        <updated>2023-06-16T05:34:46.291Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/gubernator_voronezhskoy_oblasti_aleksandr_gusev_podpisal_soglashenie_o_vzaimodeystvii_s_gruppoy_komp/"> Губернатор Воронежской области Александр Гусев подписал соглашение о взаимодействии с группой компаний «ТНС энерго»</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Губернатор Гусев рассказал о подписании в рамках ПМЭФ нескольких важных для развития региона соглашений]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/gubernator_gusev_rasskazal_o_podpisanii_v_ramkakh_pmef_neskolkikh_vazhnykh_dlya_razvitiya_regiona_so/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/gubernator_gusev_rasskazal_o_podpisanii_v_ramkakh_pmef_neskolkikh_vazhnykh_dlya_razvitiya_regiona_so/"/>
+        <updated>2023-06-16T05:34:46.292Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/gubernator_gusev_rasskazal_o_podpisanii_v_ramkakh_pmef_neskolkikh_vazhnykh_dlya_razvitiya_regiona_so/">Губернатор Гусев рассказал о подписании в рамках ПМЭФ нескольких важных для развития региона соглашений</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[В Воронеже отложили демонтаж турбокольца на улице Остужева]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/v_voronezhe_otlozhili_demontazh_turbokoltsa_na_ulitse_ostuzheva/</id>
@@ -200,19 +214,5 @@
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/v_voronezhe_na_neopredelennyy_srok_zakroyut_dvizhenie_na_uchastke_geroev_sibiryakov/"/>
         <updated>2023-06-14T17:34:41.715Z</updated>
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/v_voronezhe_na_neopredelennyy_srok_zakroyut_dvizhenie_na_uchastke_geroev_sibiryakov/">Участок дублера улицы Героев Сибиряков в Воронеже перекрыли временно с 14 июня </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Россиянам рассказали, как мошенники обманывают целые семьи]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/rossiyanam_rasskazali_kak_moshenniki_obmanyvayut_tselye_semi/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/rossiyanam_rasskazali_kak_moshenniki_obmanyvayut_tselye_semi/"/>
-        <updated>2023-06-15T05:34:26.804Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/rossiyanam_rasskazali_kak_moshenniki_obmanyvayut_tselye_semi/">Россиянам рассказали, как мошенники обманывают целые семьи</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Работы по капремонту в Воронежской области будут принимать с видеофиксацией]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/raboty_po_kapremontu_v_voronezhskoy_oblasti_budut_prinimat_s_videofiksatsiey/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/raboty_po_kapremontu_v_voronezhskoy_oblasti_budut_prinimat_s_videofiksatsiey/"/>
-        <updated>2023-06-14T17:34:41.717Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/raboty_po_kapremontu_v_voronezhskoy_oblasti_budut_prinimat_s_videofiksatsiey/">Работы по капремонту в Воронежской области будут принимать с видеофиксацией</a>]]></content>
     </entry>
 </feed>
