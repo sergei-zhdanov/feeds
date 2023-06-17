@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://facto.ru</id>
     <title>DeFacto Воронеж</title>
-    <updated>2023-06-17T05:34:16.119Z</updated>
+    <updated>2023-06-17T17:34:25.625Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://facto.ru/bitrix/templates/cz_facto_2016/favicons/favicon-16x16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Дополнительные рейсы «Графского поезда» назначили в Воронежской области до конца лета]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/dopolnitelnye_reysy_grafskogo_poezda_naznachili_v_voronezhskoy_oblasti_do_kontsa_leta/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/dopolnitelnye_reysy_grafskogo_poezda_naznachili_v_voronezhskoy_oblasti_do_kontsa_leta/"/>
+        <updated>2023-06-17T17:34:24.802Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/dopolnitelnye_reysy_grafskogo_poezda_naznachili_v_voronezhskoy_oblasti_do_kontsa_leta/">Дополнительные рейсы «Графского поезда» назначили в Воронежской области до конца лета</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Воронежский губернатор Гусев прокомментировал речь Путина на ПМЭФ]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/voronezhskiy_gubernator_gusev_prokommentiroval_rech_putina_na_pmef/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/voronezhskiy_gubernator_gusev_prokommentiroval_rech_putina_na_pmef/"/>
+        <updated>2023-06-17T17:34:24.803Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/voronezhskiy_gubernator_gusev_prokommentiroval_rech_putina_na_pmef/">Воронежский губернатор Гусев прокомментировал речь Путина на ПМЭФ</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Служба безопасности «Сбера» помогает задерживать еженедельно 30-40 киберпреступников]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/sluzhba_bezopasnosti_sbera_pomogaet_zaderzhivat_ezhenedelno_30_40_kiberprestupnikov/</id>
@@ -200,19 +214,5 @@
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/trenerskiy_shtab_voronezhskogo_fakela_pokinul_valeriy_klimov/"/>
         <updated>2023-06-15T17:34:43.265Z</updated>
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/trenerskiy_shtab_voronezhskogo_fakela_pokinul_valeriy_klimov/">Тренерский штаб воронежского «Факела» покинул Валерий Климов</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Воронежский губернатор Гусев подписал соглашение о содействии с фондом «Круг добра»]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/voronezhskiy_gubernator_gusev_podpisal_soglashenie_o_sodeystvii_s_fondom_krug_dobra/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/voronezhskiy_gubernator_gusev_podpisal_soglashenie_o_sodeystvii_s_fondom_krug_dobra/"/>
-        <updated>2023-06-15T17:34:43.268Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/voronezhskiy_gubernator_gusev_podpisal_soglashenie_o_sodeystvii_s_fondom_krug_dobra/">Воронежский губернатор Гусев подписал соглашение о содействии с фондом «Круг добра»</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Воронежский мэр перечислил направления, по которым будут учить в мегашколе]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/u_voronezhskoy_megashkoly_poyavilsya_sayt/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/u_voronezhskoy_megashkoly_poyavilsya_sayt/"/>
-        <updated>2023-06-15T17:34:43.268Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/u_voronezhskoy_megashkoly_poyavilsya_sayt/">Воронежский мэр перечислил направления, по которым будут учить в мегашколе</a>]]></content>
     </entry>
 </feed>
