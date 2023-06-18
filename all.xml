@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sergei-zhdanov.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-18T05:34:23.838Z</updated>
+    <updated>2023-06-18T17:34:23.985Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Воронежские власти направят на ремонт дорог в Луганск до 1 млрд рублей (DeFacto Воронеж)]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/voronezhskie_vlasti_napravyat_na_remont_dorog_v_lugansk_do_1_mlrd_rubley/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/voronezhskie_vlasti_napravyat_na_remont_dorog_v_lugansk_do_1_mlrd_rubley/"/>
+        <updated>2023-06-18T17:34:23.216Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/voronezhskie_vlasti_napravyat_na_remont_dorog_v_lugansk_do_1_mlrd_rubley/">Воронежские власти направят на ремонт дорог в Луганск до 1 млрд рублей</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Экологическую тропу «Легенды Хопра» в Воронежской области открыли для посетителей (DeFacto Воронеж)]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/ekologicheskuyu_tropu_legendy_khopra_v_voronezhskoy_oblasti_otkryli_dlya_posetiteley/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/ekologicheskuyu_tropu_legendy_khopra_v_voronezhskoy_oblasti_otkryli_dlya_posetiteley/"/>
+        <updated>2023-06-18T17:34:23.217Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/ekologicheskuyu_tropu_legendy_khopra_v_voronezhskoy_oblasti_otkryli_dlya_posetiteley/">Экологическую тропу «Легенды Хопра» в Воронежской области открыли для посетителей</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Дополнительные рейсы «Графского поезда» назначили в Воронежской области до конца лета (DeFacto Воронеж)]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/dopolnitelnye_reysy_grafskogo_poezda_naznachili_v_voronezhskoy_oblasti_do_kontsa_leta/</id>
@@ -199,19 +213,5 @@
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/v_voronezhskoy_oblasti_sobirayutsya_vnedryat_tekhnologii_umnyy_gorod/"/>
         <updated>2023-06-15T17:34:43.262Z</updated>
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/v_voronezhskoy_oblasti_sobirayutsya_vnedryat_tekhnologii_umnyy_gorod/">В Воронежской области собираются внедрять технологии «Умный город»</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[За движение по выделенке в Воронеже за вечер оштрафовали 13 водителей (DeFacto Воронеж)]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/za_dvizhenie_po_vydelenke_v_voronezhe_za_vecher_oshtrafovali_13_voditeley/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/za_dvizhenie_po_vydelenke_v_voronezhe_za_vecher_oshtrafovali_13_voditeley/"/>
-        <updated>2023-06-15T17:34:43.262Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/za_dvizhenie_po_vydelenke_v_voronezhe_za_vecher_oshtrafovali_13_voditeley/">За движение по выделенке в Воронеже за вечер оштрафовали 13 водителей</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Тренерский штаб воронежского «Факела» покинул Валерий Климов (DeFacto Воронеж)]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/trenerskiy_shtab_voronezhskogo_fakela_pokinul_valeriy_klimov/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/trenerskiy_shtab_voronezhskogo_fakela_pokinul_valeriy_klimov/"/>
-        <updated>2023-06-15T17:34:43.265Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/trenerskiy_shtab_voronezhskogo_fakela_pokinul_valeriy_klimov/">Тренерский штаб воронежского «Факела» покинул Валерий Климов</a>]]></content>
     </entry>
 </feed>
