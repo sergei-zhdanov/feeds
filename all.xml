@@ -2,14 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sergei-zhdanov.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-19T17:34:27.469Z</updated>
+    <updated>2023-06-20T05:35:14.068Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[Сообщения об эвакуации воронежская мэрия назвала  фейком (DeFacto Воронеж)]]></title>
+        <title type="html"><![CDATA[До 50 тысяч рублей достигла зарплата водителей «Воронежпассажиртранса» (DeFacto Воронеж)]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/do_50_tysyach_rubley_dostigla_zarplata_voditeley_voronezhpassazhirtransa/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/do_50_tysyach_rubley_dostigla_zarplata_voditeley_voronezhpassazhirtransa/"/>
+        <updated>2023-06-20T05:35:13.024Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/do_50_tysyach_rubley_dostigla_zarplata_voditeley_voronezhpassazhirtransa/"> До 50 тысяч рублей достигла зарплата водителей «Воронежпассажиртранса»</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[По 200 баллов на ЕГЭ набрали двое выпускников из Воронежской области (DeFacto Воронеж)]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/po_200_ballov_na_ege_nabrali_dvoe_vypusknikov_iz_voronezhskoy_oblasti/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/po_200_ballov_na_ege_nabrali_dvoe_vypusknikov_iz_voronezhskoy_oblasti/"/>
+        <updated>2023-06-20T05:35:13.032Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/po_200_ballov_na_ege_nabrali_dvoe_vypusknikov_iz_voronezhskoy_oblasti/"> По 200 баллов на ЕГЭ набрали двое выпускников из Воронежской области</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Сообщения о срочной эвакуации жителей правительство Воронежской области назвало фейком (DeFacto Воронеж)]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/voronezhskoe_pravitelstvo_prokommentirovalo_soobshchenie_o_srochnoy_evakuatsii_voronezhtsev/</id>
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/voronezhskoe_pravitelstvo_prokommentirovalo_soobshchenie_o_srochnoy_evakuatsii_voronezhtsev/"/>
         <updated>2023-06-19T17:34:26.748Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/voronezhskoe_pravitelstvo_prokommentirovalo_soobshchenie_o_srochnoy_evakuatsii_voronezhtsev/">Сообщения об эвакуации воронежская мэрия назвала  фейком</a>]]></content>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/voronezhskoe_pravitelstvo_prokommentirovalo_soobshchenie_o_srochnoy_evakuatsii_voronezhtsev/">Сообщения о срочной эвакуации жителей правительство Воронежской области назвало фейком </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Дважды по 4 дня подряд будут отдыхать воронежцы на майские праздники (DeFacto Воронеж)]]></title>
@@ -199,19 +213,5 @@
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/voronezhskiy_gubernator_gusev_na_polyakh_pmef_podpisal_soglashenie_s_liskinskim_zavodom_montazhnykh_/"/>
         <updated>2023-06-16T17:34:48.211Z</updated>
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/voronezhskiy_gubernator_gusev_na_polyakh_pmef_podpisal_soglashenie_s_liskinskim_zavodom_montazhnykh_/">Воронежский губернатор Гусев на полях ПМЭФ подписал соглашение с Лискинским заводом монтажных заготовок</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Защитник Кирилл Суслов продолжит играть за воронежский «Факел» (DeFacto Воронеж)]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/zashchitnik_kirill_suslov_prodolzhit_igrat_za_voronezhskiy_fakel/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/zashchitnik_kirill_suslov_prodolzhit_igrat_za_voronezhskiy_fakel/"/>
-        <updated>2023-06-16T17:34:48.212Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/zashchitnik_kirill_suslov_prodolzhit_igrat_za_voronezhskiy_fakel/"> Защитник Кирилл Суслов продолжит играть за воронежский «Факел»</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[На проект 2-этажной детской поликлиники в райцентре под Воронежем потратят 4,6 млн рублей (DeFacto Воронеж)]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/na_proekt_2_etazhnoy_detskoy_polikliniki_v_raytsentre_pod_voronezhem_potratyat_4_6_mln_rubley/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/na_proekt_2_etazhnoy_detskoy_polikliniki_v_raytsentre_pod_voronezhem_potratyat_4_6_mln_rubley/"/>
-        <updated>2023-06-16T17:34:48.214Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/na_proekt_2_etazhnoy_detskoy_polikliniki_v_raytsentre_pod_voronezhem_potratyat_4_6_mln_rubley/"> На проект 2-этажной детской поликлиники в райцентре под Воронежем потратят 4,6 млн рублей</a>]]></content>
     </entry>
 </feed>
