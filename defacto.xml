@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://facto.ru</id>
     <title>DeFacto Воронеж</title>
-    <updated>2023-06-20T17:35:21.990Z</updated>
+    <updated>2023-06-21T05:34:39.293Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://facto.ru/bitrix/templates/cz_facto_2016/favicons/favicon-16x16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[На губернаторские выборы воронежское отделение СРЗП планирует выдвинуть Ярослава Тарасова]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/na_gubernatorskie_vybory_voronezhskoe_otdelenie_srzp_planiruet_vydvinut_yaroslava_tarasova/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/na_gubernatorskie_vybory_voronezhskoe_otdelenie_srzp_planiruet_vydvinut_yaroslava_tarasova/"/>
+        <updated>2023-06-21T05:34:38.629Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/na_gubernatorskie_vybory_voronezhskoe_otdelenie_srzp_planiruet_vydvinut_yaroslava_tarasova/">На губернаторские выборы воронежское отделение СРЗП планирует выдвинуть Ярослава Тарасова</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[В Воронежской области началось возведение школы-детского сада]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/v_voronezhskoy_oblasti_nachalos_vozvedenie_shkoly_detskogo_sada/</id>
@@ -207,12 +214,5 @@
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/po_urovnyu_dokhodov_naseleniya_voronezhskaya_oblast_okazalas_na_24_strochke_/"/>
         <updated>2023-06-19T17:34:26.764Z</updated>
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/po_urovnyu_dokhodov_naseleniya_voronezhskaya_oblast_okazalas_na_24_strochke_/">Стало известно, сколько жителей Воронежской области оказались за чертой бедности</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Стало известно, кто станет новым кандидатом на пост губернатора Воронежской области]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/stalo_izvestno_kto_stanet_novym_kandidatom_na_post_gubernatora_voronezhskoy_oblasti/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/stalo_izvestno_kto_stanet_novym_kandidatom_na_post_gubernatora_voronezhskoy_oblasti/"/>
-        <updated>2023-06-19T17:34:26.766Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/stalo_izvestno_kto_stanet_novym_kandidatom_na_post_gubernatora_voronezhskoy_oblasti/">Стало известно, кто станет новым кандидатом на пост губернатора Воронежской области</a>]]></content>
     </entry>
 </feed>
