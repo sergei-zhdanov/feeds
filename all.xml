@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sergei-zhdanov.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-21T17:34:39.069Z</updated>
+    <updated>2023-06-22T05:35:19.238Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[22 июня в Коминтерновском районе Воронежа двенадцать улиц останутся без воды (DeFacto Воронеж)]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/22_iyunya_v_kominternovskom_rayone_voronezha_dvenadtsat_ulits_ostanutsya_bez_vody/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/22_iyunya_v_kominternovskom_rayone_voronezha_dvenadtsat_ulits_ostanutsya_bez_vody/"/>
+        <updated>2023-06-22T05:35:18.382Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/22_iyunya_v_kominternovskom_rayone_voronezha_dvenadtsat_ulits_ostanutsya_bez_vody/">22 июня в Коминтерновском районе Воронежа двенадцать улиц останутся без воды</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Несколько междугородних автобусных маршрутов изменится в Воронеже (DeFacto Воронеж)]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/neskolko_mezhdugorodnikh_avtobusnykh_marshrutov_izmenyatsya_v_voronezhe/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/neskolko_mezhdugorodnikh_avtobusnykh_marshrutov_izmenyatsya_v_voronezhe/"/>
+        <updated>2023-06-22T05:35:18.388Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/neskolko_mezhdugorodnikh_avtobusnykh_marshrutov_izmenyatsya_v_voronezhe/"> Несколько междугородних автобусных маршрутов изменится в Воронеже</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Архитектурная комиссия согласовала доработанный проект обновленного здания воронежского ТЮЗа (DeFacto Воронеж)]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/arkhitekturnaya_komissiya_soglasovala_dorabotannyy_proekt_obnovlennogo_zdaniya_voronezhskogo_tyuza/</id>
@@ -199,19 +213,5 @@
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/voronezhskoe_pravitelstvo_prokommentirovalo_soobshchenie_o_srochnoy_evakuatsii_voronezhtsev/"/>
         <updated>2023-06-19T17:34:26.748Z</updated>
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/voronezhskoe_pravitelstvo_prokommentirovalo_soobshchenie_o_srochnoy_evakuatsii_voronezhtsev/">Сообщения о срочной эвакуации жителей правительство Воронежской области назвало фейком </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Дважды по 4 дня подряд будут отдыхать воронежцы на майские праздники (DeFacto Воронеж)]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/dvazhdy_po_4_dnya_podryad_budut_otdykhat_voronezhtsy_na_mayskie_prazdniki_/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/dvazhdy_po_4_dnya_podryad_budut_otdykhat_voronezhtsy_na_mayskie_prazdniki_/"/>
-        <updated>2023-06-19T17:34:26.748Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/dvazhdy_po_4_dnya_podryad_budut_otdykhat_voronezhtsy_na_mayskie_prazdniki_/">Дважды по 4 дня подряд будут отдыхать воронежцы на майские праздники </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Чтобы отдать долги сисадмин воронежского вуза украл и сдал в ломбард 14 компьютеров (DeFacto Воронеж)]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/sotrudnik_voronezhskogo_vuza_sdal_v_lombard_14_kazennykh_kompyuterov/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/sotrudnik_voronezhskogo_vuza_sdal_v_lombard_14_kazennykh_kompyuterov/"/>
-        <updated>2023-06-19T17:34:26.751Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/sotrudnik_voronezhskogo_vuza_sdal_v_lombard_14_kazennykh_kompyuterov/">Чтобы отдать долги сисадмин воронежского вуза украл и сдал в ломбард 14 компьютеров</a>]]></content>
     </entry>
 </feed>
