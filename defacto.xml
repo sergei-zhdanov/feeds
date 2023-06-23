@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://facto.ru</id>
     <title>DeFacto Воронеж</title>
-    <updated>2023-06-22T17:34:32.501Z</updated>
+    <updated>2023-06-23T05:36:39.488Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://facto.ru/bitrix/templates/cz_facto_2016/favicons/favicon-16x16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Губернатор Гусев принял участие в открытии в Воронеже часовни в память о воинах ВОВ]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/gubernator_gusev_prinyal_uchastie_v_otkrytii_v_voronezhe_chasovni_v_pamyat_o_voinakh_vov/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/gubernator_gusev_prinyal_uchastie_v_otkrytii_v_voronezhe_chasovni_v_pamyat_o_voinakh_vov/"/>
+        <updated>2023-06-23T05:36:38.811Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/gubernator_gusev_prinyal_uchastie_v_otkrytii_v_voronezhe_chasovni_v_pamyat_o_voinakh_vov/">Губернатор Гусев принял участие в открытии в Воронеже часовни в память о воинах ВОВ</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Микрофинансовые организации выдали воронежцам 243 млн рублей]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/mikrofinansovye_organizatsii_vydali_voronezhtsam_243_mln_rubley/</id>
@@ -207,12 +214,5 @@
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/v_voronezhskoy_oblasti_nachalos_vozvedenie_shkoly_detskogo_sada/"/>
         <updated>2023-06-20T17:35:21.070Z</updated>
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/v_voronezhskoy_oblasti_nachalos_vozvedenie_shkoly_detskogo_sada/"> В Воронежской области началось возведение школы-детского сада</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Вратарь Алексей Городовой покинул воронежский «Факел»]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/vratar_aleksey_gorodovoy_pokinul_voronezhskiy_fakel_/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/vratar_aleksey_gorodovoy_pokinul_voronezhskiy_fakel_/"/>
-        <updated>2023-06-20T17:35:21.075Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/vratar_aleksey_gorodovoy_pokinul_voronezhskiy_fakel_/">Вратарь Алексей Городовой покинул воронежский «Факел» </a>]]></content>
     </entry>
 </feed>
