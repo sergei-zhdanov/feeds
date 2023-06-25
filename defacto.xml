@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://facto.ru</id>
     <title>DeFacto Воронеж</title>
-    <updated>2023-06-25T05:36:48.523Z</updated>
+    <updated>2023-06-25T17:35:27.799Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://facto.ru/bitrix/templates/cz_facto_2016/favicons/favicon-16x16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Глава фракции ЛДПР в воронежской облдуме Павел Большов стал кандидатом в губернаторы]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/glava_fraktsii_ldpr_v_voronezhskoy_obldume_pavel_bolshov_stal_kandidatom_v_gubernatory/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/glava_fraktsii_ldpr_v_voronezhskoy_obldume_pavel_bolshov_stal_kandidatom_v_gubernatory/"/>
+        <updated>2023-06-25T17:35:26.961Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/glava_fraktsii_ldpr_v_voronezhskoy_obldume_pavel_bolshov_stal_kandidatom_v_gubernatory/">Глава фракции ЛДПР в воронежской облдуме Павел Большов стал кандидатом в губернаторы</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Специалисты Роспотребнадзора не выявили загрязнения воздуха после пожара на нефтебазе в Воронеже]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/spetsialisty_rospotrebnadzora_ne_vyyavili_zagryazneniya_vozdukha_posle_pozhara_na_neftebaze_v_vorone/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/spetsialisty_rospotrebnadzora_ne_vyyavili_zagryazneniya_vozdukha_posle_pozhara_na_neftebaze_v_vorone/"/>
+        <updated>2023-06-25T17:35:26.963Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/spetsialisty_rospotrebnadzora_ne_vyyavili_zagryazneniya_vozdukha_posle_pozhara_na_neftebaze_v_vorone/">Специалисты Роспотребнадзора не выявили загрязнения воздуха после пожара на нефтебазе в Воронеже</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Губернатор Гусев сообщил об окончании движения подразделений ЧВК «Вагнер» по территории Воронежской области]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/gubernator_gusev_soobshchil_ob_okonchanii_dvizheniya_podrazdeleniy_chvk_vagner_po_territorii_voronezh/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/gubernator_gusev_soobshchil_ob_okonchanii_dvizheniya_podrazdeleniy_chvk_vagner_po_territorii_voronezh/"/>
+        <updated>2023-06-25T17:35:26.966Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/gubernator_gusev_soobshchil_ob_okonchanii_dvizheniya_podrazdeleniy_chvk_vagner_po_territorii_voronezh/">Губернатор Гусев сообщил об окончании движения подразделений ЧВК «Вагнер» по территории Воронежской области</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Власти Воронежской области просят автовладельцев не создавать ажиотаж на АЗС – топлива достаточно]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/vlasti_voronezhskoy_oblasti_prosyat_avtovladeltsev_ne_sozdavat_azhiotazh_na_azs_topliva_dostatochno/</id>
@@ -193,26 +214,5 @@
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/vtb_moshennicheskaya_aktivnost_vyrosla_v_1_6_raza/"/>
         <updated>2023-06-23T17:36:47.126Z</updated>
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/vtb_moshennicheskaya_aktivnost_vyrosla_v_1_6_raza/">ВТБ: мошенническая активность выросла в 1,6 раза</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[В селе Подгорное под Воронежем за 4,6 млн рублей обустроят бульвар в память о танкистах-освободителях]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/v_sele_podgornoe_pod_voronezhem_za_4_6_mln_rubley_obustroyat_bulvar_v_pamyat_o_tankistakh_osvobodite/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/v_sele_podgornoe_pod_voronezhem_za_4_6_mln_rubley_obustroyat_bulvar_v_pamyat_o_tankistakh_osvobodite/"/>
-        <updated>2023-06-23T17:36:47.126Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/v_sele_podgornoe_pod_voronezhem_za_4_6_mln_rubley_obustroyat_bulvar_v_pamyat_o_tankistakh_osvobodite/">В селе Подгорное под Воронежем за 4,6 млн рублей обустроят бульвар в память о танкистах-освободителях</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Председателя Воронежского областного суда Василия Тарасова рекомендовали на второй срок]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/predsedatelya_voronezhskogo_oblastnogo_suda_vasiliya_tarasova_rekomendovali_na_vtoroy_srok/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/predsedatelya_voronezhskogo_oblastnogo_suda_vasiliya_tarasova_rekomendovali_na_vtoroy_srok/"/>
-        <updated>2023-06-23T17:36:47.127Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/predsedatelya_voronezhskogo_oblastnogo_suda_vasiliya_tarasova_rekomendovali_na_vtoroy_srok/">Председателя Воронежского областного суда Василия Тарасова рекомендовали на второй срок</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[В Воронеже 24 июня закроют движение по турбокольцу на Остужевской развязке]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/utrom_24_iyunya_turbokoltso_na_perekrestke_minskoy_i_ostuzheva_v_voronezhe_budet_ostanovleno/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/utrom_24_iyunya_turbokoltso_na_perekrestke_minskoy_i_ostuzheva_v_voronezhe_budet_ostanovleno/"/>
-        <updated>2023-06-23T17:36:47.127Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/utrom_24_iyunya_turbokoltso_na_perekrestke_minskoy_i_ostuzheva_v_voronezhe_budet_ostanovleno/">В Воронеже 24 июня закроют движение по турбокольцу на Остужевской развязке </a>]]></content>
     </entry>
 </feed>
