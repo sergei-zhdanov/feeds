@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://facto.ru</id>
     <title>DeFacto Воронеж</title>
-    <updated>2023-06-26T17:35:54.465Z</updated>
+    <updated>2023-06-27T05:36:37.228Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://facto.ru/bitrix/templates/cz_facto_2016/favicons/favicon-16x16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[В Воронеже работу двух троллейбусных маршрутов приостановят на  несколько часов]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/v_voronezhe_rabotu_dvukh_trolleybusnykh_marshrutov_priostanovyat_na_chetyre_chasa/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/v_voronezhe_rabotu_dvukh_trolleybusnykh_marshrutov_priostanovyat_na_chetyre_chasa/"/>
+        <updated>2023-06-27T05:36:36.509Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/v_voronezhe_rabotu_dvukh_trolleybusnykh_marshrutov_priostanovyat_na_chetyre_chasa/">В Воронеже работу двух троллейбусных маршрутов приостановят на  несколько часов</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Луганские дети, задержавшиеся в воронежском лагере из-за событий 24 июня, поехали домой]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/luganskie_deti_zaderzhavshiesya_v_voronezhskom_lagere_iz_za_sobytiy_24_iyunya_poekhali_domoy/</id>
@@ -13,18 +20,18 @@
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/luganskie_deti_zaderzhavshiesya_v_voronezhskom_lagere_iz_za_sobytiy_24_iyunya_poekhali_domoy/">Луганские дети, задержавшиеся в воронежском лагере из-за событий 24 июня, поехали домой</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Автомобили с закрытыми номерами начнут эвакуировать в Воронеже]]></title>
+        <title type="html"><![CDATA[С июля в Воронеже автомобили с закрытыми номерами начнут эвакуировать]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/v_voronezhe_vvedut_sanktsii_dlya_mashin_s_zakrytymi_nomerami/</id>
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/v_voronezhe_vvedut_sanktsii_dlya_mashin_s_zakrytymi_nomerami/"/>
         <updated>2023-06-26T17:35:53.732Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/v_voronezhe_vvedut_sanktsii_dlya_mashin_s_zakrytymi_nomerami/">Автомобили с закрытыми номерами начнут эвакуировать в Воронеже </a>]]></content>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/v_voronezhe_vvedut_sanktsii_dlya_mashin_s_zakrytymi_nomerami/"> С июля в Воронеже автомобили с закрытыми номерами начнут эвакуировать </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Екатерина Болотова стала новым председателем молодежного правительств Воронежской области]]></title>
+        <title type="html"><![CDATA[Новым председателем молодежного правительства Воронежской области назначили Екатерину Болотову]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/ekaterina_bolotova_stala_novym_predsedatelem_molodezhnogo_pravitelstv_voronezhskoy_oblasti/</id>
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/ekaterina_bolotova_stala_novym_predsedatelem_molodezhnogo_pravitelstv_voronezhskoy_oblasti/"/>
         <updated>2023-06-26T17:35:53.733Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/ekaterina_bolotova_stala_novym_predsedatelem_molodezhnogo_pravitelstv_voronezhskoy_oblasti/">Екатерина Болотова стала новым председателем молодежного правительств Воронежской области</a>]]></content>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/ekaterina_bolotova_stala_novym_predsedatelem_molodezhnogo_pravitelstv_voronezhskoy_oblasti/">Новым председателем молодежного правительства Воронежской области назначили Екатерину Болотову </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ветеринара-взяточника в Воронежской области наказали штрафом в 1,2 млн рублей]]></title>
@@ -207,12 +214,5 @@
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/pozhar_na_neftebaze_v_voronezhe_tushat_bolee_100_chelovek/"/>
         <updated>2023-06-24T17:34:35.121Z</updated>
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/pozhar_na_neftebaze_v_voronezhe_tushat_bolee_100_chelovek/">Пожар на нефтебазе в Воронеже тушат более 100 человек</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[На дорогах Воронежской области возникли заторы из-за перекрытия трассы М-4 «Дон»]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/na_dorogakh_voronezhskoy_oblasti_voznikli_zatory_iz_za_perekrytiya_trassy_m_4_don/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/na_dorogakh_voronezhskoy_oblasti_voznikli_zatory_iz_za_perekrytiya_trassy_m_4_don/"/>
-        <updated>2023-06-24T17:34:35.122Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/na_dorogakh_voronezhskoy_oblasti_voznikli_zatory_iz_za_perekrytiya_trassy_m_4_don/">На дорогах Воронежской области возникли заторы из-за перекрытия трассы М-4 «Дон»</a>]]></content>
     </entry>
 </feed>
