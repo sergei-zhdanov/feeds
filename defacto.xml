@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://facto.ru</id>
     <title>DeFacto Воронеж</title>
-    <updated>2023-06-27T17:34:57.803Z</updated>
+    <updated>2023-06-28T05:36:40.090Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://facto.ru/bitrix/templates/cz_facto_2016/favicons/favicon-16x16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[В Воронеже и трех районах региона найден очаг высокопатогенного гриппа птиц]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/v_voronezhe_i_trekh_rayonakh_regiona_nayden_ochag_vysokopatogennogo_grippa_ptits/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/v_voronezhe_i_trekh_rayonakh_regiona_nayden_ochag_vysokopatogennogo_grippa_ptits/"/>
+        <updated>2023-06-28T05:36:39.431Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/v_voronezhe_i_trekh_rayonakh_regiona_nayden_ochag_vysokopatogennogo_grippa_ptits/">В Воронеже и трех районах региона найден очаг высокопатогенного гриппа птиц</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Защитник «Ростова» Игорь Калинин продолжит играть на правах аренды в воронежском «Факеле»]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/zashchitnik_rostova_igor_kalinin_prodolzhit_igrat_na_pravakh_arendy_v_voronezhskom_fakele/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/zashchitnik_rostova_igor_kalinin_prodolzhit_igrat_na_pravakh_arendy_v_voronezhskom_fakele/"/>
+        <updated>2023-06-28T05:36:39.431Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/zashchitnik_rostova_igor_kalinin_prodolzhit_igrat_na_pravakh_arendy_v_voronezhskom_fakele/">Защитник «Ростова» Игорь Калинин продолжит играть на правах аренды в воронежском «Факеле»</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[В Воронежской области в 2023 году изменения тарифов ЖКХ не предвидится]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/v_voronezhskoy_oblasti_v_2023_godu_izmeneniya_tarifov_zhkkh_ne_predviditsya/</id>
@@ -200,19 +214,5 @@
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/analitiki_domklik_sberbanka_v_voronezhskoy_oblasti_predostavlyayutsya_maksimalnye_skidki_na_vtorichk/"/>
         <updated>2023-06-26T17:35:53.745Z</updated>
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/analitiki_domklik_sberbanka_v_voronezhskoy_oblasti_predostavlyayutsya_maksimalnye_skidki_na_vtorichk/">Аналитики Домклик Сбербанка: в Воронежской области предоставляются максимальные скидки на вторичку</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Александр Гусев поручил  восстановить имущество воронежцев, поврежденное во время режима КТО, за счет региона]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/posle_rezhima_kto_voronezhskaya_oblast_vernulas_k_standartnomu_upravleniyu/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/posle_rezhima_kto_voronezhskaya_oblast_vernulas_k_standartnomu_upravleniyu/"/>
-        <updated>2023-06-26T17:35:53.746Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/posle_rezhima_kto_voronezhskaya_oblast_vernulas_k_standartnomu_upravleniyu/">Александр Гусев поручил  восстановить имущество воронежцев, поврежденное во время режима КТО, за счет региона</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[В Воронеже разрешили реставрировать здание юношеской библиотеки]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/na_restavratsiyu_zdaniya_yunosheskoy_biblioteki_v_voronezhe_podryadchik_poluchil_razreshenie/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/na_restavratsiyu_zdaniya_yunosheskoy_biblioteki_v_voronezhe_podryadchik_poluchil_razreshenie/"/>
-        <updated>2023-06-26T17:35:53.748Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/na_restavratsiyu_zdaniya_yunosheskoy_biblioteki_v_voronezhe_podryadchik_poluchil_razreshenie/">В Воронеже разрешили реставрировать здание юношеской библиотеки </a>]]></content>
     </entry>
 </feed>
