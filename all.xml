@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sergei-zhdanov.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-28T17:35:37.300Z</updated>
+    <updated>2023-06-29T05:43:45.118Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Заброшенную крепость в микрорайоне  Воронежа нашли археологи (DeFacto Воронеж)]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/arkheologi_na_okraine_voronezha_obnaruzhili_krepost_gde_petr_i_stroil_russkie_korabli/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/arkheologi_na_okraine_voronezha_obnaruzhili_krepost_gde_petr_i_stroil_russkie_korabli/"/>
+        <updated>2023-06-29T05:43:44.244Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/arkheologi_na_okraine_voronezha_obnaruzhili_krepost_gde_petr_i_stroil_russkie_korabli/">Заброшенную крепость в микрорайоне  Воронежа нашли археологи</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Жалобу участника аукциона на благоустройство Петровской набережной в Воронеже отклонила ФАС (DeFacto Воронеж)]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/zhalobu_uchastnika_auktsiona_na_blagoustroystvo_petrovskoy_naberezhnoy_v_voronezhe_otklonila_fas/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/zhalobu_uchastnika_auktsiona_na_blagoustroystvo_petrovskoy_naberezhnoy_v_voronezhe_otklonila_fas/"/>
+        <updated>2023-06-29T05:43:44.245Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/zhalobu_uchastnika_auktsiona_na_blagoustroystvo_petrovskoy_naberezhnoy_v_voronezhe_otklonila_fas/"> Жалобу участника аукциона на благоустройство Петровской набережной в Воронеже отклонила ФАС</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Перспективы двустороннего сотрудничества Беларуси и Воронежской области обсудил в Уфе губернатор Гусев (DeFacto Воронеж)]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/perspektivy_dvustoronnego_sotrudnichestva_belarusi_i_voronezhskoy_oblasti_obsudil_v_ufe_gubernator_g/</id>
@@ -199,19 +213,5 @@
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/luganskie_deti_zaderzhavshiesya_v_voronezhskom_lagere_iz_za_sobytiy_24_iyunya_poekhali_domoy/"/>
         <updated>2023-06-26T17:35:53.731Z</updated>
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/luganskie_deti_zaderzhavshiesya_v_voronezhskom_lagere_iz_za_sobytiy_24_iyunya_poekhali_domoy/">Луганские дети, задержавшиеся в воронежском лагере из-за событий 24 июня, поехали домой</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Развитие Российского движения детей и молодёжи обсудили в Воронеже (DeFacto Воронеж)]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/v_voronezhe_vvedut_sanktsii_dlya_mashin_s_zakrytymi_nomerami/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/v_voronezhe_vvedut_sanktsii_dlya_mashin_s_zakrytymi_nomerami/"/>
-        <updated>2023-06-26T17:35:53.732Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/v_voronezhe_vvedut_sanktsii_dlya_mashin_s_zakrytymi_nomerami/">Развитие Российского движения детей и молодёжи обсудили в Воронеже</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Новым председателем молодежного правительства Воронежской области назначили Екатерину Болотову (DeFacto Воронеж)]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/ekaterina_bolotova_stala_novym_predsedatelem_molodezhnogo_pravitelstv_voronezhskoy_oblasti/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/ekaterina_bolotova_stala_novym_predsedatelem_molodezhnogo_pravitelstv_voronezhskoy_oblasti/"/>
-        <updated>2023-06-26T17:35:53.733Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/ekaterina_bolotova_stala_novym_predsedatelem_molodezhnogo_pravitelstv_voronezhskoy_oblasti/">Новым председателем молодежного правительства Воронежской области назначили Екатерину Болотову </a>]]></content>
     </entry>
 </feed>
