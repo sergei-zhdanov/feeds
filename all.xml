@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sergei-zhdanov.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-30T17:34:15.111Z</updated>
+    <updated>2023-07-01T05:34:28.780Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Генеральный директор воронежского ФК «Факел» Асхабадзе продлил контракт на год (DeFacto Воронеж)]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/generalnyy_direktor_voronezhskogo_fk_fakel_askhabadze_prodlil_kontrakt_na_god/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/generalnyy_direktor_voronezhskogo_fk_fakel_askhabadze_prodlil_kontrakt_na_god/"/>
+        <updated>2023-07-01T05:34:28.076Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/generalnyy_direktor_voronezhskogo_fk_fakel_askhabadze_prodlil_kontrakt_na_god/">Генеральный директор воронежского ФК «Факел» Асхабадзе продлил контракт на год</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ремонт пострадавшего от дождя покрытия у деревянного моста в Воронежском центральном парке начнется 3 июля (DeFacto Воронеж)]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/remont_postradavshego_ot_dozhdya_pokrytiya_u_derevyannogo_mosta_v_voronezhskom_tsentralnom_parke_nach/</id>
@@ -206,12 +213,5 @@
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/za_8_millionov_v_voronezhe_prodayut_bar_v_stilistike_populyarnogo_seriala/"/>
         <updated>2023-06-29T17:35:09.478Z</updated>
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/za_8_millionov_v_voronezhe_prodayut_bar_v_stilistike_populyarnogo_seriala/">В  Воронеже продают бар в стиле популярного британского сериала за 8 млн рублей </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Воронежский губернатор Александр Гусев подвел итоги Х Форума регионов России и Беларуси (DeFacto Воронеж)]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/voronezhskiy_gubernator_aleksandr_gusev_podvel_itogi_kh_foruma_regionov_rossii_i_belarusi/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/voronezhskiy_gubernator_aleksandr_gusev_podvel_itogi_kh_foruma_regionov_rossii_i_belarusi/"/>
-        <updated>2023-06-29T17:35:09.480Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/voronezhskiy_gubernator_aleksandr_gusev_podvel_itogi_kh_foruma_regionov_rossii_i_belarusi/"> Воронежский губернатор Александр Гусев подвел итоги Х Форума регионов России и Беларуси</a>]]></content>
     </entry>
 </feed>
