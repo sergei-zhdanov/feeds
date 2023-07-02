@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://facto.ru</id>
     <title>DeFacto Воронеж</title>
-    <updated>2023-07-02T05:34:56.088Z</updated>
+    <updated>2023-07-02T17:34:43.882Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://facto.ru/bitrix/templates/cz_facto_2016/favicons/favicon-16x16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[В воронежском парке «Дельфин» проходит фестиваль уличных театров]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/v_voronezhskom_parke_delfin_prokhodit_festival_ulichnykh_teatrov/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/v_voronezhskom_parke_delfin_prokhodit_festival_ulichnykh_teatrov/"/>
+        <updated>2023-07-02T17:34:43.103Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/v_voronezhskom_parke_delfin_prokhodit_festival_ulichnykh_teatrov/">В воронежском парке «Дельфин» проходит фестиваль уличных театров</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Рок-фестиваль «Молодые ветра» под Воронежем перенесли на 5 августа]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/rok_festival_molodye_vetra_pod_voronezhem_perenesli_na_5_avgusta/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/rok_festival_molodye_vetra_pod_voronezhem_perenesli_na_5_avgusta/"/>
+        <updated>2023-07-02T17:34:43.108Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/rok_festival_molodye_vetra_pod_voronezhem_perenesli_na_5_avgusta/">Рок-фестиваль «Молодые ветра» под Воронежем перенесли на 5 августа</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Избирком завершил прием документов для участия в выборах губернатора Воронежской области — кандидатов пятеро]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/izbirkom_zavershil_priem_dokumentov_dlya_uchastiya_v_vyborakh_gubernatora_voronezhskoy_oblasti_kandi/</id>
@@ -200,19 +214,5 @@
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/po_chislu_vakansiy_v_selskom_khozyaystve_voronezhskaya_oblast_zanyala_trete_mesto/"/>
         <updated>2023-06-29T17:35:09.473Z</updated>
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/po_chislu_vakansiy_v_selskom_khozyaystve_voronezhskaya_oblast_zanyala_trete_mesto/"> По числу вакансий в сельском хозяйстве Воронежская область заняла третье место</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[С января по май воронежцы потратили более 66 млрд рублей на платные услуги]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/s_yanvarya_po_may_voronezhtsy_potratili_bolee_66_mlrd_rubley_na_platnye_uslugi/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/s_yanvarya_po_may_voronezhtsy_potratili_bolee_66_mlrd_rubley_na_platnye_uslugi/"/>
-        <updated>2023-06-29T17:35:09.474Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/s_yanvarya_po_may_voronezhtsy_potratili_bolee_66_mlrd_rubley_na_platnye_uslugi/"> С января по май воронежцы потратили более 66 млрд рублей на платные услуги</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Воронежский губернатор Гусев поручил вручить допкомплекты формы отправляющимся в зону СВО добровольцам-медикам]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/voronezhskiy_gubernator_gusev_poruchil_vruchit_dopkomplekty_formy_otpravlyayushchimsya_v_zonu_svo_do/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/voronezhskiy_gubernator_gusev_poruchil_vruchit_dopkomplekty_formy_otpravlyayushchimsya_v_zonu_svo_do/"/>
-        <updated>2023-06-29T17:35:09.475Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/voronezhskiy_gubernator_gusev_poruchil_vruchit_dopkomplekty_formy_otpravlyayushchimsya_v_zonu_svo_do/">Воронежский губернатор Гусев поручил вручить допкомплекты формы отправляющимся в зону СВО добровольцам-медикам</a>]]></content>
     </entry>
 </feed>
