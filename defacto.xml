@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://facto.ru</id>
     <title>DeFacto Воронеж</title>
-    <updated>2023-07-01T17:34:34.295Z</updated>
+    <updated>2023-07-02T05:34:56.088Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://facto.ru/bitrix/templates/cz_facto_2016/favicons/favicon-16x16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Избирком завершил прием документов для участия в выборах губернатора Воронежской области — кандидатов пятеро]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/izbirkom_zavershil_priem_dokumentov_dlya_uchastiya_v_vyborakh_gubernatora_voronezhskoy_oblasti_kandi/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/izbirkom_zavershil_priem_dokumentov_dlya_uchastiya_v_vyborakh_gubernatora_voronezhskoy_oblasti_kandi/"/>
+        <updated>2023-07-02T05:34:55.195Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/izbirkom_zavershil_priem_dokumentov_dlya_uchastiya_v_vyborakh_gubernatora_voronezhskoy_oblasti_kandi/">Избирком завершил прием документов для участия в выборах губернатора Воронежской области — кандидатов пятеро</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Воронежский «Факел» подписал полузащитника из молодежки «Локомотива»]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/voronezhskiy_fakel_podpisal_poluzashchitnika_iz_molodezhki_lokomotiva/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/voronezhskiy_fakel_podpisal_poluzashchitnika_iz_molodezhki_lokomotiva/"/>
+        <updated>2023-07-02T05:34:55.196Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/voronezhskiy_fakel_podpisal_poluzashchitnika_iz_molodezhki_lokomotiva/">Воронежский «Факел» подписал полузащитника из молодежки «Локомотива»</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Генеральный директор воронежского ФК «Факел» Асхабадзе продлил контракт на год]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/generalnyy_direktor_voronezhskogo_fk_fakel_askhabadze_prodlil_kontrakt_na_god/</id>
@@ -200,19 +214,5 @@
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/voronezhskiy_gubernator_gusev_poruchil_vruchit_dopkomplekty_formy_otpravlyayushchimsya_v_zonu_svo_do/"/>
         <updated>2023-06-29T17:35:09.475Z</updated>
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/voronezhskiy_gubernator_gusev_poruchil_vruchit_dopkomplekty_formy_otpravlyayushchimsya_v_zonu_svo_do/">Воронежский губернатор Гусев поручил вручить допкомплекты формы отправляющимся в зону СВО добровольцам-медикам</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Воронежский «Факел» объявил о подписании контракта с 36-летним голкипером Александром Беленовым]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/voronezhskiy_fakel_obyavil_o_podpisanii_kontrakta_s_36_letnim_golkiperom_aleksandrom_belenovym/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/voronezhskiy_fakel_obyavil_o_podpisanii_kontrakta_s_36_letnim_golkiperom_aleksandrom_belenovym/"/>
-        <updated>2023-06-29T17:35:09.477Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/voronezhskiy_fakel_obyavil_o_podpisanii_kontrakta_s_36_letnim_golkiperom_aleksandrom_belenovym/"> Воронежский «Факел» объявил о подписании контракта с 36-летним голкипером Александром Беленовым</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[В  Воронеже продают бар в стиле популярного британского сериала за 8 млн рублей]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/06/za_8_millionov_v_voronezhe_prodayut_bar_v_stilistike_populyarnogo_seriala/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/06/za_8_millionov_v_voronezhe_prodayut_bar_v_stilistike_populyarnogo_seriala/"/>
-        <updated>2023-06-29T17:35:09.478Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/06/za_8_millionov_v_voronezhe_prodayut_bar_v_stilistike_populyarnogo_seriala/">В  Воронеже продают бар в стиле популярного британского сериала за 8 млн рублей </a>]]></content>
     </entry>
 </feed>
