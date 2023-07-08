@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sergei-zhdanov.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-07T17:35:17.825Z</updated>
+    <updated>2023-07-08T05:34:41.612Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Губернатор Александр Гусев сообщил об уничтоженных двух беспилотниках средствами ПВО (DeFacto Воронеж)]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/gubernator_aleksandr_gusev_soobshchil_ob_unichtozhennykh_dvukh_bespilotnikakh_sredstvami_pvo/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/gubernator_aleksandr_gusev_soobshchil_ob_unichtozhennykh_dvukh_bespilotnikakh_sredstvami_pvo/"/>
+        <updated>2023-07-08T05:34:40.951Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/gubernator_aleksandr_gusev_soobshchil_ob_unichtozhennykh_dvukh_bespilotnikakh_sredstvami_pvo/">Губернатор Александр Гусев сообщил об уничтоженных двух беспилотниках средствами ПВО</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[50 км трассы «Воронеж – Луганск» будет отремонтировано Россошанским ДРСУ №1 почти за 1 млрд рублей (DeFacto Воронеж)]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/50_km_trassy_voronezh_lugansk_budet_otremontirovano_rossoshanskim_drsu_1_pochti_za_1_mlrd_rubley/</id>
@@ -206,12 +213,5 @@
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/v_voronezhskoy_oblasti_ushel_iz_zhizni_semilukskiy_deputat_igor_chernykh_/"/>
         <updated>2023-07-06T17:36:39.883Z</updated>
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/v_voronezhskoy_oblasti_ushel_iz_zhizni_semilukskiy_deputat_igor_chernykh_/">Умер 62-летний депутат Семилукского районного Совета под Воронежем</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[РИА Новости: Греф заявил, что России стоит гордиться своим банковским сектором (DeFacto Воронеж)]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/ria_novosti_gref_zayavil_chto_rossii_stoit_gorditsya_svoim_bankovskim_sektorom/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/ria_novosti_gref_zayavil_chto_rossii_stoit_gorditsya_svoim_bankovskim_sektorom/"/>
-        <updated>2023-07-06T17:36:39.883Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/ria_novosti_gref_zayavil_chto_rossii_stoit_gorditsya_svoim_bankovskim_sektorom/">РИА Новости: Греф заявил, что России стоит гордиться своим банковским сектором</a>]]></content>
     </entry>
 </feed>
