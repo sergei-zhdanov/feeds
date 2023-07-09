@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sergei-zhdanov.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-09T05:35:20.130Z</updated>
+    <updated>2023-07-09T17:34:32.599Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Россельхознадзор обнаружил в Воронежской области 101 тонну сомнительного мяса от компании-фантома (DeFacto Воронеж)]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/rosselkhoznadzor_obnaruzhil_v_voronezhskoy_oblasti_101_tonnu_somnitelnogo_myasa_ot_kompanii_fantoma/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/rosselkhoznadzor_obnaruzhil_v_voronezhskoy_oblasti_101_tonnu_somnitelnogo_myasa_ot_kompanii_fantoma/"/>
+        <updated>2023-07-09T17:34:31.880Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/rosselkhoznadzor_obnaruzhil_v_voronezhskoy_oblasti_101_tonnu_somnitelnogo_myasa_ot_kompanii_fantoma/">Россельхознадзор обнаружил в Воронежской области 101 тонну сомнительного мяса от компании-фантома</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[В Воронеже стартовали работы по ремонту дорожного покрытия Северного моста (DeFacto Воронеж)]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/v_voronezhe_startovali_raboty_po_remontu_dorozhnogo_pokrytiya_severnogo_mosta/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/v_voronezhe_startovali_raboty_po_remontu_dorozhnogo_pokrytiya_severnogo_mosta/"/>
+        <updated>2023-07-09T17:34:31.885Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/v_voronezhe_startovali_raboty_po_remontu_dorozhnogo_pokrytiya_severnogo_mosta/">В Воронеже стартовали работы по ремонту дорожного покрытия Северного моста</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Гендиректор воронежского «Факела» Асхабадзе назвал финансовые возможности клуба самыми скромными среди команд РПЛ (DeFacto Воронеж)]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/gendirektor_voronezhskogo_fakela_askhabadze_nazval_finansovye_vozmozhnosti_kluba_samymi_skromnymi_sr/</id>
@@ -199,19 +213,5 @@
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/aleksandr_bastrykin_zainteresovalsya_massovym_zabolevaniem_detey_v_lagere_pod_voronezhem/"/>
         <updated>2023-07-06T17:36:39.876Z</updated>
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/aleksandr_bastrykin_zainteresovalsya_massovym_zabolevaniem_detey_v_lagere_pod_voronezhem/">Александр Бастрыкин заинтересовался массовым заболеванием детей в лагере под Воронежем</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8 июля в Воронежской области пройдет фестиваль «Летний день в Костенках» (DeFacto Воронеж)]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/8_iyulya_v_voronezhskoy_oblasti_proydet_festival_letniy_den_v_kostenkakh/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/8_iyulya_v_voronezhskoy_oblasti_proydet_festival_letniy_den_v_kostenkakh/"/>
-        <updated>2023-07-06T17:36:39.876Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/8_iyulya_v_voronezhskoy_oblasti_proydet_festival_letniy_den_v_kostenkakh/">8 июля в Воронежской области пройдет фестиваль «Летний день в Костенках»</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Завод на юго-западе Воронежа выставили на продажу почти за миллиард рублей (DeFacto Воронеж)]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/v_voronezhe_za_975_mln_rubley_prodayut_zavod_obshchey_ploshchadyu_1_9_gektara/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/v_voronezhe_za_975_mln_rubley_prodayut_zavod_obshchey_ploshchadyu_1_9_gektara/"/>
-        <updated>2023-07-06T17:36:39.879Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/v_voronezhe_za_975_mln_rubley_prodayut_zavod_obshchey_ploshchadyu_1_9_gektara/">Завод на юго-западе Воронежа выставили на продажу почти за миллиард рублей </a>]]></content>
     </entry>
 </feed>
