@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://facto.ru</id>
     <title>DeFacto Воронеж</title>
-    <updated>2023-07-10T17:36:09.500Z</updated>
+    <updated>2023-07-11T05:36:25.585Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://facto.ru/bitrix/templates/cz_facto_2016/favicons/favicon-16x16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[В парке «Алые паруса» пройдет шестой фестиваль «Воронеж фольклорный»]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/v_parke_alye_parusa_proydet_shestoy_festival_voronezh_folklornyy/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/v_parke_alye_parusa_proydet_shestoy_festival_voronezh_folklornyy/"/>
+        <updated>2023-07-11T05:36:24.524Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/v_parke_alye_parusa_proydet_shestoy_festival_voronezh_folklornyy/">В парке «Алые паруса» пройдет шестой фестиваль «Воронеж фольклорный»</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[На территории воронежской школы №4 построят ФОК]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/na_territorii_voronezhskoy_shkoly_4_postroyat_fok/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/na_territorii_voronezhskoy_shkoly_4_postroyat_fok/"/>
+        <updated>2023-07-11T05:36:24.526Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/na_territorii_voronezhskoy_shkoly_4_postroyat_fok/">На территории воронежской школы №4 построят ФОК</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[По факту впавшей в кому жительницы Воронежа прокуратура проведет проверку]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/po_faktu_vpavshey_v_komu_zhitelnitsy_voronezha_prokuratura_provedet_proverku/</id>
@@ -200,19 +214,5 @@
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/vtb_moshenniki_predlagayut_rabotu_po_otsenke_onlayn_kinoteatrov/"/>
         <updated>2023-07-07T17:35:17.094Z</updated>
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/vtb_moshenniki_predlagayut_rabotu_po_otsenke_onlayn_kinoteatrov/">ВТБ: мошенники предлагают работу по оценке онлайн-кинотеатров</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Воронежский губернатор: специалисты восстановят 36 км дороги в подшефных районах ЛНР]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/voronezhskiy_gubernator_spetsialisty_vosstanovyat_36_km_dorogi_v_podshefnykh_rayonakh_lnr/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/voronezhskiy_gubernator_spetsialisty_vosstanovyat_36_km_dorogi_v_podshefnykh_rayonakh_lnr/"/>
-        <updated>2023-07-07T17:35:17.095Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/voronezhskiy_gubernator_spetsialisty_vosstanovyat_36_km_dorogi_v_podshefnykh_rayonakh_lnr/">Воронежский губернатор: специалисты восстановят 36 км дороги в подшефных районах ЛНР</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Строить по-новому]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/stroit_po_novomu/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/stroit_po_novomu/"/>
-        <updated>2023-07-07T17:35:17.095Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/stroit_po_novomu/"><b>Строить по-новому</b></a>]]></content>
     </entry>
 </feed>
