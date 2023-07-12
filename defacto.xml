@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://facto.ru</id>
     <title>DeFacto Воронеж</title>
-    <updated>2023-07-11T17:35:17.912Z</updated>
+    <updated>2023-07-12T05:37:29.355Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://facto.ru/bitrix/templates/cz_facto_2016/favicons/favicon-16x16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Новая программа расселения аварийных домов начала действовать в Воронежской области]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/novaya_programma_rasseleniya_avariynykh_domov_nachala_deystvovat_v_voronezhskoy_oblasti/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/novaya_programma_rasseleniya_avariynykh_domov_nachala_deystvovat_v_voronezhskoy_oblasti/"/>
+        <updated>2023-07-12T05:37:28.029Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/novaya_programma_rasseleniya_avariynykh_domov_nachala_deystvovat_v_voronezhskoy_oblasti/">Новая программа расселения аварийных домов начала действовать в Воронежской области</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Губернатор Гусев обсудил экспорт воронежской сельхозпродукции с главой Россельхознадзора Данквертом]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/gubernator_gusev_obsudil_eksport_voronezhskoy_selkhozproduktsii_s_glavoy_rosselkhoznadzora_dankverto/</id>
@@ -34,11 +41,11 @@
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/iz_za_sanktsiy_voronezhskiy_krematoriy_zamenil_italyanskie_urny_dlya_prakha_na_indiyskie/">Из-за санкций воронежский крематорий заменил итальянские урны для праха на индийские</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[В Воронеже пытались увеличить тариф на отопление на 539 процентов]]></title>
+        <title type="html"><![CDATA[В  Воронеже управляющая компания решила повысить плату за отопление на 539% для жильцов дома]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/voronezhskaya_upravlyayushchaya_kompaniya_cherez_sud_pytalas_uvelichit_tarif_na_otoplenie_na_539_dep/</id>
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/voronezhskaya_upravlyayushchaya_kompaniya_cherez_sud_pytalas_uvelichit_tarif_na_otoplenie_na_539_dep/"/>
         <updated>2023-07-11T17:35:16.986Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/voronezhskaya_upravlyayushchaya_kompaniya_cherez_sud_pytalas_uvelichit_tarif_na_otoplenie_na_539_dep/">В Воронеже пытались увеличить тариф на отопление на 539 процентов</a>]]></content>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/voronezhskaya_upravlyayushchaya_kompaniya_cherez_sud_pytalas_uvelichit_tarif_na_otoplenie_na_539_dep/">В  Воронеже управляющая компания решила повысить плату за отопление на 539% для жильцов дома </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[На повторные торги выставили воронежский меловой завод «Эльдако» за 600 млн рублей]]></title>
@@ -207,12 +214,5 @@
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/superjob_sredniy_dokhod_voditeley_kurerov_v_voronezhe_za_god_vyros_do_57_tysyach_rubley/"/>
         <updated>2023-07-10T17:36:08.660Z</updated>
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/superjob_sredniy_dokhod_voditeley_kurerov_v_voronezhe_za_god_vyros_do_57_tysyach_rubley/"> До 57 тысяч рублей в Воронеже вырос ежемесячный заработок водителей-курьеров</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Воронежские строители восстанавливают больницу в подшефном районе ЛНР]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/voronezhskie_stroiteli_vosstanavlivayut_bolnitsu_v_podshefnom_rayone_lnr/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/voronezhskie_stroiteli_vosstanavlivayut_bolnitsu_v_podshefnom_rayone_lnr/"/>
-        <updated>2023-07-10T17:36:08.661Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/voronezhskie_stroiteli_vosstanavlivayut_bolnitsu_v_podshefnom_rayone_lnr/">Воронежские строители восстанавливают больницу в подшефном районе ЛНР</a>]]></content>
     </entry>
 </feed>
