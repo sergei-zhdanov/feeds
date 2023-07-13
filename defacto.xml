@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://facto.ru</id>
     <title>DeFacto Воронеж</title>
-    <updated>2023-07-12T17:35:52.389Z</updated>
+    <updated>2023-07-13T05:36:07.682Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://facto.ru/bitrix/templates/cz_facto_2016/favicons/favicon-16x16.png</icon>
     <entry>
@@ -11,13 +11,6 @@
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/obem_vydach_ipoteki_samozanyatym_bankom_vtb_prevysil_5_mlrd_rubley/"/>
         <updated>2023-07-12T17:35:51.588Z</updated>
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/obem_vydach_ipoteki_samozanyatym_bankom_vtb_prevysil_5_mlrd_rubley/"> Объем выдач ипотеки самозанятым банком ВТБ превысил 5 млрд рублей</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[В Воронежской области на 4,5% увеличилось количество инфекционных заболеваний]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/v_voronezhskoy_oblasti_na_4_5_uvelichilos_kolichestvo_infektsionnykh_zabolevaniy_/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/v_voronezhskoy_oblasti_na_4_5_uvelichilos_kolichestvo_infektsionnykh_zabolevaniy_/"/>
-        <updated>2023-07-12T17:35:51.588Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/v_voronezhskoy_oblasti_na_4_5_uvelichilos_kolichestvo_infektsionnykh_zabolevaniy_/">В Воронежской области на 4,5% увеличилось количество инфекционных заболеваний </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[О своем увольнении объявила директор воронежского центра «Матрешка» Анна Шурховецкая]]></title>
@@ -76,11 +69,11 @@
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/v_melovskom_rayone_lnr_voronezhskie_stroiteli_vedut_remont_bolnitsy_i_shkoly_/">В Меловском районе ЛНР воронежские строители ведут ремонт больницы и школы </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Event-Hall в Воронеже станет пятой площадкой федеральной концертной сети МТС Live Холл]]></title>
+        <title type="html"><![CDATA[Концертный зал Event-Hall в Воронеже передали в управление МТС]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/event_hall_v_voronezhe_stanet_pyatoy_ploshchadkoy_federalnoy_kontsertnoy_seti_mts_live_kholl/</id>
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/event_hall_v_voronezhe_stanet_pyatoy_ploshchadkoy_federalnoy_kontsertnoy_seti_mts_live_kholl/"/>
         <updated>2023-07-12T17:35:51.621Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/event_hall_v_voronezhe_stanet_pyatoy_ploshchadkoy_federalnoy_kontsertnoy_seti_mts_live_kholl/">Event-Hall в Воронеже станет пятой площадкой федеральной концертной сети МТС Live Холл</a>]]></content>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/event_hall_v_voronezhe_stanet_pyatoy_ploshchadkoy_federalnoy_kontsertnoy_seti_mts_live_kholl/">Концертный зал Event-Hall в Воронеже передали в управление МТС</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[43% воронежских родителей считают дистанционную работу лучшим форматом занятости для воспитания детей]]></title>
@@ -214,5 +207,12 @@
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/avito_nedvizhimost_spros_na_posutochnuyu_arendu_kottedzhey_v_voronezhskoy_oblasti_za_mesyats_vyros_n/"/>
         <updated>2023-07-11T17:35:17.006Z</updated>
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/avito_nedvizhimost_spros_na_posutochnuyu_arendu_kottedzhey_v_voronezhskoy_oblasti_za_mesyats_vyros_n/">«Авито Недвижимость»: спрос на посуточную аренду коттеджей в Воронежской области за месяц вырос на 6%</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Воронежские строители ремонтируют школу в подшефном районе ЛНР]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/voronezhskie_stroiteli_remontiruyut_shkolu_v_podshefnom_rayone_lnr/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/voronezhskie_stroiteli_remontiruyut_shkolu_v_podshefnom_rayone_lnr/"/>
+        <updated>2023-07-13T05:36:06.541Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/voronezhskie_stroiteli_remontiruyut_shkolu_v_podshefnom_rayone_lnr/">Воронежские строители ремонтируют школу в подшефном районе ЛНР</a>]]></content>
     </entry>
 </feed>
