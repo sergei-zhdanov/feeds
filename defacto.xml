@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://facto.ru</id>
     <title>DeFacto Воронеж</title>
-    <updated>2023-07-13T17:35:45.174Z</updated>
+    <updated>2023-07-14T05:36:24.471Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://facto.ru/bitrix/templates/cz_facto_2016/favicons/favicon-16x16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Мэрия Воронежа: чрезвычайных происшествий, требующих выезда службы спасения, в городе не зафиксировано]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/meriya_voronezha_chrezvychaynykh_proisshestviy_trebuyushchikh_vyezda_sluzhby_spaseniya_v_gorode_ne_z/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/meriya_voronezha_chrezvychaynykh_proisshestviy_trebuyushchikh_vyezda_sluzhby_spaseniya_v_gorode_ne_z/"/>
+        <updated>2023-07-14T05:36:22.790Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/meriya_voronezha_chrezvychaynykh_proisshestviy_trebuyushchikh_vyezda_sluzhby_spaseniya_v_gorode_ne_z/"> Мэрия Воронежа: чрезвычайных происшествий, требующих выезда службы спасения, в городе не зафиксировано</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Губернатор Гусев: в случае потребности возможно расширение воронежского Центра реабилитации участников СВО]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/gubernator_gusev_v_sluchae_potrebnosti_vozmozhno_rasshirenie_voronezhskogo_tsentra_reabilitatsii_uch/</id>
@@ -207,12 +214,5 @@
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/gubernator_gusev_obsudil_eksport_voronezhskoy_selkhozproduktsii_s_glavoy_rosselkhoznadzora_dankverto/"/>
         <updated>2023-07-11T17:35:16.984Z</updated>
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/gubernator_gusev_obsudil_eksport_voronezhskoy_selkhozproduktsii_s_glavoy_rosselkhoznadzora_dankverto/">Губернатор Гусев обсудил экспорт воронежской сельхозпродукции с главой Россельхознадзора Данквертом</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[За полугодие Роспотребнадзор снял с реализации в Воронежской области 18 партий алкогольной продукции]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/za_polugodie_rospotrebnadzor_snyal_s_realizatsii_v_voronezhskoy_oblasti_18_partiy_alkogolnoy_produkts/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/za_polugodie_rospotrebnadzor_snyal_s_realizatsii_v_voronezhskoy_oblasti_18_partiy_alkogolnoy_produkts/"/>
-        <updated>2023-07-11T17:35:16.984Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/za_polugodie_rospotrebnadzor_snyal_s_realizatsii_v_voronezhskoy_oblasti_18_partiy_alkogolnoy_produkts/">За полугодие Роспотребнадзор снял с реализации в Воронежской области 18 партий алкогольной продукции</a>]]></content>
     </entry>
 </feed>
