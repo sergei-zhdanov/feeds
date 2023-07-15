@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://facto.ru</id>
     <title>DeFacto Воронеж</title>
-    <updated>2023-07-15T05:36:10.934Z</updated>
+    <updated>2023-07-15T17:35:00.913Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://facto.ru/bitrix/templates/cz_facto_2016/favicons/favicon-16x16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[В Воронеже на Северном мосту открыли движение в обоих направлениях]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/v_voronezhe_na_severnom_mostu_otkryli_dvizhenie_v_oboikh_napravleniyakh/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/v_voronezhe_na_severnom_mostu_otkryli_dvizhenie_v_oboikh_napravleniyakh/"/>
+        <updated>2023-07-15T17:34:59.791Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/v_voronezhe_na_severnom_mostu_otkryli_dvizhenie_v_oboikh_napravleniyakh/"> В Воронеже на Северном мосту открыли движение в обоих направлениях</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[В Воронежской области началась уборочная кампания]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/v_voronezhskoy_oblasti_nachalas_uborochnaya_kampaniya/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/v_voronezhskoy_oblasti_nachalas_uborochnaya_kampaniya/"/>
+        <updated>2023-07-15T17:34:59.792Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/v_voronezhskoy_oblasti_nachalas_uborochnaya_kampaniya/"> В Воронежской области началась уборочная кампания</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Детсад в райцентре под Воронежем построит местный «Дон-строй»]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/detsad_v_raytsentre_pod_voronezhem_postroit_mestnyy_don_stroy/</id>
@@ -32,13 +46,6 @@
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/v_voronezhe_za_zaslugi_v_razvitii_dinamovskogo_dvizheniya_deputata_gosdumy_sergeya_gavrilova_nagradi/"/>
         <updated>2023-07-14T17:35:06.699Z</updated>
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/v_voronezhe_za_zaslugi_v_razvitii_dinamovskogo_dvizheniya_deputata_gosdumy_sergeya_gavrilova_nagradi/">В Воронеже за заслуги в развитии динамовского движения депутата Госдумы Сергея Гаврилова наградили высшей наградой общества</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Карантин по бешенству на 3 месяца ввели в поселке Новая жизнь под Воронежем]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/karantin_po_beshenstvu_na_3_mesyatsa_v_poselke_novaya_zhizn_pod_voronezhem/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/karantin_po_beshenstvu_na_3_mesyatsa_v_poselke_novaya_zhizn_pod_voronezhem/"/>
-        <updated>2023-07-14T17:35:06.700Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/karantin_po_beshenstvu_na_3_mesyatsa_v_poselke_novaya_zhizn_pod_voronezhem/">Карантин по бешенству на 3 месяца ввели в поселке Новая жизнь под Воронежем</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ректор Воронежского государственного технического университета рассказал главе региона о приемной кампании в вузе]]></title>
@@ -207,12 +214,5 @@
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/gubernator_voronezhskoy_oblasti_soobshchil_o_nochnoy_atake_bespilotnikov_na_region/"/>
         <updated>2023-07-14T17:35:06.786Z</updated>
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/gubernator_voronezhskoy_oblasti_soobshchil_o_nochnoy_atake_bespilotnikov_na_region/">Три беспилотника на подлете к Воронежу сбиты силами  противовоздушной обороны </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Мэрия Воронежа: чрезвычайных происшествий, требующих выезда службы спасения, в городе не зафиксировано]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/meriya_voronezha_chrezvychaynykh_proisshestviy_trebuyushchikh_vyezda_sluzhby_spaseniya_v_gorode_ne_z/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/meriya_voronezha_chrezvychaynykh_proisshestviy_trebuyushchikh_vyezda_sluzhby_spaseniya_v_gorode_ne_z/"/>
-        <updated>2023-07-14T05:36:22.790Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/meriya_voronezha_chrezvychaynykh_proisshestviy_trebuyushchikh_vyezda_sluzhby_spaseniya_v_gorode_ne_z/"> Мэрия Воронежа: чрезвычайных происшествий, требующих выезда службы спасения, в городе не зафиксировано</a>]]></content>
     </entry>
 </feed>
