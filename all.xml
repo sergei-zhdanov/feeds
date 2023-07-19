@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sergei-zhdanov.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-18T17:34:55.718Z</updated>
+    <updated>2023-07-19T05:34:32.095Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[За 6 месяцев в Воронежской области заключено 29 тысяч гоcконтрактов на сумму более 36 млрд рублей (DeFacto Воронеж)]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/za_shest_mesyatsev_v_voronezhskoy_oblasti_zaklyucheno_29_tys_gockontraktov_na_summu_bolee_36_mlrd_ru/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/za_shest_mesyatsev_v_voronezhskoy_oblasti_zaklyucheno_29_tys_gockontraktov_na_summu_bolee_36_mlrd_ru/"/>
+        <updated>2023-07-19T05:34:31.248Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/za_shest_mesyatsev_v_voronezhskoy_oblasti_zaklyucheno_29_tys_gockontraktov_na_summu_bolee_36_mlrd_ru/">За 6 месяцев в Воронежской области заключено 29 тысяч гоcконтрактов на сумму более 36 млрд рублей</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Губернатор Гусев анонсировал строительство нового детсада на 600 мест недалеко от мегашколы в Воронеже (DeFacto Воронеж)]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/gubernator_gusev_anonsiroval_stroitelstvo_novogo_detsada_na_600_mest_nedaleko_ot_megashkoly_v_vorone/</id>
@@ -206,12 +213,5 @@
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/npf_vtb_obyem_pensionnykh_rezervov_rynochnykh_klientov_kompaniy_smb_vyros_na_chetvert/"/>
         <updated>2023-07-17T17:35:34.884Z</updated>
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/npf_vtb_obyem_pensionnykh_rezervov_rynochnykh_klientov_kompaniy_smb_vyros_na_chetvert/">НПФ ВТБ: объём пенсионных резервов рыночных клиентов – компаний СМБ вырос на четверть</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[В воронежском Госстройнадзоре открыли горячую линию по поддержке семей бойцов СВО (DeFacto Воронеж)]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/v_voronezhskom_gosstroynadzore_otkryli_goryachuyu_liniyu_po_podderzhke_semey_boytsov_svo_/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/v_voronezhskom_gosstroynadzore_otkryli_goryachuyu_liniyu_po_podderzhke_semey_boytsov_svo_/"/>
-        <updated>2023-07-17T17:35:34.885Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/v_voronezhskom_gosstroynadzore_otkryli_goryachuyu_liniyu_po_podderzhke_semey_boytsov_svo_/">В воронежском Госстройнадзоре открыли горячую линию по поддержке семей бойцов СВО </a>]]></content>
     </entry>
 </feed>
