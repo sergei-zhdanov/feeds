@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://facto.ru</id>
     <title>DeFacto Воронеж</title>
-    <updated>2023-07-22T05:34:27.319Z</updated>
+    <updated>2023-07-22T17:34:54.904Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://facto.ru/bitrix/templates/cz_facto_2016/favicons/favicon-16x16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[В воронежском селе Александровка до 20 октября введен карантин по бешенству животных]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/v_voronezhskom_sele_aleksandrovka_do_20_oktyabrya_vveden_karantin_po_beshenstvu_zhivotnykh/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/v_voronezhskom_sele_aleksandrovka_do_20_oktyabrya_vveden_karantin_po_beshenstvu_zhivotnykh/"/>
+        <updated>2023-07-22T17:34:53.580Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/v_voronezhskom_sele_aleksandrovka_do_20_oktyabrya_vveden_karantin_po_beshenstvu_zhivotnykh/">В воронежском селе Александровка до 20 октября введен карантин по бешенству животных</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[В ресторане De Bassus на Плехановской в Воронеже произошел пожар]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/v_restorane_de_bassus_na_plekhanovskoy_v_voronezhe_proizoshel_pozhar/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/v_restorane_de_bassus_na_plekhanovskoy_v_voronezhe_proizoshel_pozhar/"/>
+        <updated>2023-07-22T17:34:53.595Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/v_restorane_de_bassus_na_plekhanovskoy_v_voronezhe_proizoshel_pozhar/">В ресторане De Bassus на Плехановской в Воронеже произошел пожар</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Губернатор Гусев принял участие в заседании региональной организации «Землячество «Воронежцы»]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/gubernator_gusev_prinyal_uchastie_v_zasedanii_regionalnoy_organizatsii_zemlyachestvo_voronezhtsy/</id>
@@ -200,19 +214,5 @@
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/aeroport_voronezha_posle_poyavleniya_novogo_terminala_smozhet_prinimat_do_2_mln_passazhirov_v_god/"/>
         <updated>2023-07-20T17:35:07.594Z</updated>
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/aeroport_voronezha_posle_poyavleniya_novogo_terminala_smozhet_prinimat_do_2_mln_passazhirov_v_god/">Аэропорт Воронежа после появления нового терминала сможет принимать до 2 млн пассажиров в год</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Генеральным партнером воронежского «Факела» стала ГК «ЭкоНива»]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/generalnym_partnerom_voronezhskogo_fakela_stala_gk_ekoniva/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/generalnym_partnerom_voronezhskogo_fakela_stala_gk_ekoniva/"/>
-        <updated>2023-07-20T17:35:07.601Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/generalnym_partnerom_voronezhskogo_fakela_stala_gk_ekoniva/">Генеральным партнером воронежского «Факела» стала ГК «ЭкоНива»</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Полузащитник воронежского «Факела» Никита Ершов до конца сезона останется в «Иртыше»]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/poluzashchitnik_voronezhskogo_fakela_nikita_ershov_do_kontsa_sezona_ostanetsya_v_irtyshe/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/poluzashchitnik_voronezhskogo_fakela_nikita_ershov_do_kontsa_sezona_ostanetsya_v_irtyshe/"/>
-        <updated>2023-07-20T17:35:07.601Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/poluzashchitnik_voronezhskogo_fakela_nikita_ershov_do_kontsa_sezona_ostanetsya_v_irtyshe/">Полузащитник воронежского «Факела» Никита Ершов до конца сезона останется в «Иртыше»</a>]]></content>
     </entry>
 </feed>
