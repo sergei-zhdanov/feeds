@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://facto.ru</id>
     <title>DeFacto Воронеж</title>
-    <updated>2023-07-23T17:34:36.896Z</updated>
+    <updated>2023-07-24T05:34:20.144Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://facto.ru/bitrix/templates/cz_facto_2016/favicons/favicon-16x16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[С 24 июля в Воронеже без горячей воды останутся 325 домов]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/s_24_iyulya_v_voronezhe_bez_goryachey_vody_ostanutsya_325_domov/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/s_24_iyulya_v_voronezhe_bez_goryachey_vody_ostanutsya_325_domov/"/>
+        <updated>2023-07-24T05:34:19.326Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/s_24_iyulya_v_voronezhe_bez_goryachey_vody_ostanutsya_325_domov/"> С 24 июля в Воронеже без горячей воды останутся 325 домов</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[В Воронеже ищут подрядчика для высадки хвойных деревьев и роз в сквере имени Бунина]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/v_voronezhe_ishchut_podryadchika_dlya_vysadki_khvoynykh_derevev_i_roz_v_skvere_imeni_bunina/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/v_voronezhe_ishchut_podryadchika_dlya_vysadki_khvoynykh_derevev_i_roz_v_skvere_imeni_bunina/"/>
+        <updated>2023-07-24T05:34:19.327Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/v_voronezhe_ishchut_podryadchika_dlya_vysadki_khvoynykh_derevev_i_roz_v_skvere_imeni_bunina/">В Воронеже ищут подрядчика для высадки хвойных деревьев и роз в сквере имени Бунина</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[В первом туре Премьер-лиги «Факел» уступил «Ростову» со счетом 2:1]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/voronezhskiy_fakel_ustupil_rostovu_v_1_ture_premer_ligi/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/voronezhskiy_fakel_ustupil_rostovu_v_1_ture_premer_ligi/"/>
+        <updated>2023-07-24T05:34:19.327Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/voronezhskiy_fakel_ustupil_rostovu_v_1_ture_premer_ligi/">В первом туре Премьер-лиги «Факел» уступил «Ростову» со счетом 2:1</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[В воронежском селе Александровка до 20 октября введен карантин по бешенству животных]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/v_voronezhskom_sele_aleksandrovka_do_20_oktyabrya_vveden_karantin_po_beshenstvu_zhivotnykh/</id>
@@ -25,13 +46,6 @@
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/gubernator_gusev_prinyal_uchastie_v_zasedanii_regionalnoy_organizatsii_zemlyachestvo_voronezhtsy/"/>
         <updated>2023-07-21T17:34:36.150Z</updated>
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/gubernator_gusev_prinyal_uchastie_v_zasedanii_regionalnoy_organizatsii_zemlyachestvo_voronezhtsy/">Губернатор Гусев принял участие в заседании региональной организации «Землячество «Воронежцы»</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[У десятка маршруток с 1 августа в Воронеже изменятся номера и их путь следования]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/u_desyatka_marshrutok_s_1_avgusta_v_voronezhe_izmenyatsya_nomera_i_ikh_put_sledovaniya/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/u_desyatka_marshrutok_s_1_avgusta_v_voronezhe_izmenyatsya_nomera_i_ikh_put_sledovaniya/"/>
-        <updated>2023-07-21T17:34:36.159Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/u_desyatka_marshrutok_s_1_avgusta_v_voronezhe_izmenyatsya_nomera_i_ikh_put_sledovaniya/">У десятка маршруток с 1 августа в Воронеже изменятся номера и их путь следования</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ВТБ: жители Центрального федерального округа потратили на жилье более миллиарда рублей материнского капитала]]></title>
@@ -200,19 +214,5 @@
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/vtb_finansiruet_stroitelstvo_molochnoy_fermy_v_omskoy_oblasti_na_1_mlrd_rubley/"/>
         <updated>2023-07-20T17:35:07.589Z</updated>
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/vtb_finansiruet_stroitelstvo_molochnoy_fermy_v_omskoy_oblasti_na_1_mlrd_rubley/">ВТБ финансирует строительство молочной фермы в Омской области на 1 млрд рублей</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Покрытие взлетно-посадочной полосы воронежского аэропорта отремонтируют почти за 22 млн рублей]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/pokrytie_vzletno_posadochnoy_polosy_voronezhskogo_aeroporta_otremontiruyut_pochti_za_22_mln_rubley/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/pokrytie_vzletno_posadochnoy_polosy_voronezhskogo_aeroporta_otremontiruyut_pochti_za_22_mln_rubley/"/>
-        <updated>2023-07-20T17:35:07.591Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/pokrytie_vzletno_posadochnoy_polosy_voronezhskogo_aeroporta_otremontiruyut_pochti_za_22_mln_rubley/">Покрытие взлетно-посадочной полосы воронежского аэропорта отремонтируют почти за 22 млн рублей</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Аэропорт Воронежа после появления нового терминала сможет принимать до 2 млн пассажиров в год]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/aeroport_voronezha_posle_poyavleniya_novogo_terminala_smozhet_prinimat_do_2_mln_passazhirov_v_god/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/aeroport_voronezha_posle_poyavleniya_novogo_terminala_smozhet_prinimat_do_2_mln_passazhirov_v_god/"/>
-        <updated>2023-07-20T17:35:07.594Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/aeroport_voronezha_posle_poyavleniya_novogo_terminala_smozhet_prinimat_do_2_mln_passazhirov_v_god/">Аэропорт Воронежа после появления нового терминала сможет принимать до 2 млн пассажиров в год</a>]]></content>
     </entry>
 </feed>
