@@ -2,28 +2,182 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sergei-zhdanov.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-25T05:34:35.735Z</updated>
+    <updated>2023-07-25T17:34:37.708Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[Сергей Чебан будет судить матч воронежского «Факела» с «Сочи» (DeFacto Воронеж)]]></title>
+        <title type="html"><![CDATA[График поезда «Воронеж – Липецк» в августе будет скорректирован (DeFacto Воронеж)]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/_grafik_poezda_voronezh_lipetsk_v_avguste_budet_skorrektirovan/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/_grafik_poezda_voronezh_lipetsk_v_avguste_budet_skorrektirovan/"/>
+        <updated>2023-07-25T17:34:36.809Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/_grafik_poezda_voronezh_lipetsk_v_avguste_budet_skorrektirovan/"> 	 График поезда «Воронеж – Липецк» в августе будет скорректирован</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Дорожники временно перекроют движение по участку улицы Тверская в Воронеже (DeFacto Воронеж)]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/dorozhniki_vremenno_perekroyut_dvizhenie_po_uchastku_ulitsy_tverskaya_v_voronezhe/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/dorozhniki_vremenno_perekroyut_dvizhenie_po_uchastku_ulitsy_tverskaya_v_voronezhe/"/>
+        <updated>2023-07-25T17:34:36.810Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/dorozhniki_vremenno_perekroyut_dvizhenie_po_uchastku_ulitsy_tverskaya_v_voronezhe/">Дорожники временно перекроют движение по участку улицы Тверская в Воронеже</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[В Воронежской области сотрудник ДПС случайно выстрелил и попал в своего коллегу (DeFacto Воронеж)]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/sotrudnik_dps_v_voronezhskoy_oblasti_sotrudnik_sluchayno_ranil_nogu_kollege/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/sotrudnik_dps_v_voronezhskoy_oblasti_sotrudnik_sluchayno_ranil_nogu_kollege/"/>
+        <updated>2023-07-25T17:34:36.811Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/sotrudnik_dps_v_voronezhskoy_oblasti_sotrudnik_sluchayno_ranil_nogu_kollege/">В Воронежской области сотрудник ДПС случайно выстрелил и попал в своего коллегу </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Губернатор Гусев рассказал о 21-летней воронежской медсестре, решившей отправиться в зону СВО (DeFacto Воронеж)]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/gubernator_gusev_rasskazal_o_21_letney_voronezhskoy_medsestre_reshivshey_otpravitsya_v_zonu_svo/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/gubernator_gusev_rasskazal_o_21_letney_voronezhskoy_medsestre_reshivshey_otpravitsya_v_zonu_svo/"/>
+        <updated>2023-07-25T17:34:36.812Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/gubernator_gusev_rasskazal_o_21_letney_voronezhskoy_medsestre_reshivshey_otpravitsya_v_zonu_svo/">Губернатор Гусев рассказал о 21-летней воронежской медсестре, решившей отправиться в зону СВО</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[В течение часа пожарные тушили полыхавший дом возле пляжа «Берёзки» в Новой Усмани под Воронежем (DeFacto Воронеж)]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/mchs_v_sele_novaya_usman_pod_voronezhem_zagorelsya_chastnyy_dom_/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/mchs_v_sele_novaya_usman_pod_voronezhem_zagorelsya_chastnyy_dom_/"/>
+        <updated>2023-07-25T17:34:36.825Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/mchs_v_sele_novaya_usman_pod_voronezhem_zagorelsya_chastnyy_dom_/">В течение часа пожарные тушили полыхавший дом возле пляжа «Берёзки» в Новой Усмани под Воронежем</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Из сквера имени Бунина в Воронеже пересадили кизильник и спиреи (DeFacto Воронеж)]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/iz_voronezhskogo_skvera_imeni_bunina_peresadili_kizilnik_i_spirei/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/iz_voronezhskogo_skvera_imeni_bunina_peresadili_kizilnik_i_spirei/"/>
+        <updated>2023-07-25T17:34:36.825Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/iz_voronezhskogo_skvera_imeni_bunina_peresadili_kizilnik_i_spirei/">Из сквера имени Бунина в Воронеже пересадили кизильник и спиреи </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Новым директором лицея №1 после ухода в мегашколу Ольги Струковой стала Марина Едрышева (DeFacto Воронеж)]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/novym_direktorom_litseya_1_posle_ukhoda_v_megashkolu_olgi_strukovoy_stala_marina_edrysheva/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/novym_direktorom_litseya_1_posle_ukhoda_v_megashkolu_olgi_strukovoy_stala_marina_edrysheva/"/>
+        <updated>2023-07-25T17:34:36.825Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/novym_direktorom_litseya_1_posle_ukhoda_v_megashkolu_olgi_strukovoy_stala_marina_edrysheva/">Новым директором лицея №1 после ухода в мегашколу Ольги Струковой стала Марина Едрышева</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Более 51 тысячи детей отдохнули в летних лагерях Воронежской области (DeFacto Воронеж)]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/v_letnikh_ozdorovitelnykh_lageryakh_voronezhskoy_oblasti_otdokhnula_51_tysyacha_detey/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/v_letnikh_ozdorovitelnykh_lageryakh_voronezhskoy_oblasti_otdokhnula_51_tysyacha_detey/"/>
+        <updated>2023-07-25T17:34:36.826Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/v_letnikh_ozdorovitelnykh_lageryakh_voronezhskoy_oblasti_otdokhnula_51_tysyacha_detey/">Более 51 тысячи детей отдохнули в летних лагерях Воронежской области</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[12 человек, подозреваемых в убийствах, ищут в Воронежской области (DeFacto Воронеж)]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/v_voronezhskoy_oblasti_za_polgoda_zaderzhano_179_nakhodyashchikhsya_v_rozyske_chelovek/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/v_voronezhskoy_oblasti_za_polgoda_zaderzhano_179_nakhodyashchikhsya_v_rozyske_chelovek/"/>
+        <updated>2023-07-25T17:34:36.829Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/v_voronezhskoy_oblasti_za_polgoda_zaderzhano_179_nakhodyashchikhsya_v_rozyske_chelovek/">12 человек, подозреваемых в убийствах, ищут в Воронежской области </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ВТБ: мошенники предлагают клиентам деньги за просмотры интернет-магазинов (DeFacto Воронеж)]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/vtb_moshenniki_predlagayut_klientam_dengi_za_prosmotry_internet_magazinov_/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/vtb_moshenniki_predlagayut_klientam_dengi_za_prosmotry_internet_magazinov_/"/>
+        <updated>2023-07-25T17:34:36.830Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/vtb_moshenniki_predlagayut_klientam_dengi_za_prosmotry_internet_magazinov_/">ВТБ: мошенники предлагают клиентам деньги за просмотры интернет-магазинов </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Для охраны воронежского фестиваля «Город-сад» за 4 млн рублей начали искать подрядчика (DeFacto Воронеж)]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/4_milliona_rubley_vydelyat_na_okhranu_voronezhskogo_festivalya_gorod_sad_/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/4_milliona_rubley_vydelyat_na_okhranu_voronezhskogo_festivalya_gorod_sad_/"/>
+        <updated>2023-07-25T17:34:36.832Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/4_milliona_rubley_vydelyat_na_okhranu_voronezhskogo_festivalya_gorod_sad_/">Для охраны воронежского фестиваля «Город-сад» за 4 млн рублей начали искать подрядчика</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[В Ленинском районе Воронежа проводится рейд на незаконных торговцев (DeFacto Воронеж)]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/v_leninskom_rayone_voronezha_provoditsya_reyd_na_nezakonnykh_torgovtsev_/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/v_leninskom_rayone_voronezha_provoditsya_reyd_na_nezakonnykh_torgovtsev_/"/>
+        <updated>2023-07-25T17:34:36.833Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/v_leninskom_rayone_voronezha_provoditsya_reyd_na_nezakonnykh_torgovtsev_/">В Ленинском районе Воронежа проводится рейд на незаконных торговцев  </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[В связи с матчем «Факела» с «Сочи» центр Воронежа перекроют 26 июля (DeFacto Воронеж)]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/26_iyulya_iz_za_matcha_fakela_vnov_perekroyut_ulitsy_vozle_stadiona_v_tsentre_voronezha/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/26_iyulya_iz_za_matcha_fakela_vnov_perekroyut_ulitsy_vozle_stadiona_v_tsentre_voronezha/"/>
+        <updated>2023-07-25T17:34:36.836Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/26_iyulya_iz_za_matcha_fakela_vnov_perekroyut_ulitsy_vozle_stadiona_v_tsentre_voronezha/">В связи с матчем «Факела» с «Сочи» центр Воронежа перекроют 26 июля </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Реставрацию служебного здания дворца Ольденбургских под Воронежем проводит местная фирма (DeFacto Воронеж)]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/restavratsiyu_sluzhebnogo_zdaniya_dvortsa_oldenburgskikh_pod_voronezhem_provodit_mestnaya_firma/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/restavratsiyu_sluzhebnogo_zdaniya_dvortsa_oldenburgskikh_pod_voronezhem_provodit_mestnaya_firma/"/>
+        <updated>2023-07-25T17:34:36.837Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/restavratsiyu_sluzhebnogo_zdaniya_dvortsa_oldenburgskikh_pod_voronezhem_provodit_mestnaya_firma/">Реставрацию служебного здания дворца Ольденбургских под Воронежем проводит местная фирма</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[До 50 тысяч рублей выросла средняя зарплата в воронежских предприятиях и организациях (DeFacto Воронеж)]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/do_50_tysyach_rubley_vyrosla_srednyaya_zarplata_v_voronezhskikh_predpriyatiyakh_i_organizatsiyakh/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/do_50_tysyach_rubley_vyrosla_srednyaya_zarplata_v_voronezhskikh_predpriyatiyakh_i_organizatsiyakh/"/>
+        <updated>2023-07-25T17:34:36.840Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/do_50_tysyach_rubley_vyrosla_srednyaya_zarplata_v_voronezhskikh_predpriyatiyakh_i_organizatsiyakh/">До 50 тысяч рублей выросла средняя зарплата в воронежских предприятиях и организациях</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Репьевский район победил на выставке-конкурсе  форума «Воронеж торговый» (DeFacto Воронеж)]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/na_forume_voronezh_torgovyy_byli_otmecheny_maslo_i_sedobnye_suveniry_iz_repevskogo_rayona_/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/na_forume_voronezh_torgovyy_byli_otmecheny_maslo_i_sedobnye_suveniry_iz_repevskogo_rayona_/"/>
+        <updated>2023-07-25T17:34:36.843Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/na_forume_voronezh_torgovyy_byli_otmecheny_maslo_i_sedobnye_suveniry_iz_repevskogo_rayona_/">Репьевский район победил на выставке-конкурсе  форума «Воронеж торговый» </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[С 7:00 до 9:00 среды будут проводиться учения с применением техники в строительном гипермаркете «Леруа Мерлен» (DeFacto Воронеж)]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/26_iyulya_v_stroitelnom_gipermarkete_lerua_merlen_pod_voronezhem_proydut_pozharnye_ucheniya_/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/26_iyulya_v_stroitelnom_gipermarkete_lerua_merlen_pod_voronezhem_proydut_pozharnye_ucheniya_/"/>
+        <updated>2023-07-25T17:34:36.845Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/26_iyulya_v_stroitelnom_gipermarkete_lerua_merlen_pod_voronezhem_proydut_pozharnye_ucheniya_/">С 7:00 до 9:00 среды будут проводиться учения с применением техники в строительном гипермаркете «Леруа Мерлен»</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Стало известно, какие профессии воронежцы считают наиболее и наименее престижными (DeFacto Воронеж)]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/46_voronezhtsev_schitayut_chto_dlya_postroeniya_karery_vazhno_imet_vysshee_obrazovanie/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/46_voronezhtsev_schitayut_chto_dlya_postroeniya_karery_vazhno_imet_vysshee_obrazovanie/"/>
+        <updated>2023-07-25T17:34:36.847Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/46_voronezhtsev_schitayut_chto_dlya_postroeniya_karery_vazhno_imet_vysshee_obrazovanie/">Стало известно, какие профессии воронежцы считают наиболее и наименее престижными</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[В одном из домов Воронежа из-за угроз женщины с арбалетом перенесли установку лифтов (DeFacto Воронеж)]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/fond_kapremonta_perenes_ustanovku_liftov_v_dome_na_lizyukova_v_voronezhe_iz_za_ugroz_zhenshchiny_s_a/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/fond_kapremonta_perenes_ustanovku_liftov_v_dome_na_lizyukova_v_voronezhe_iz_za_ugroz_zhenshchiny_s_a/"/>
+        <updated>2023-07-25T17:34:36.848Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/fond_kapremonta_perenes_ustanovku_liftov_v_dome_na_lizyukova_v_voronezhe_iz_za_ugroz_zhenshchiny_s_a/">В одном из домов Воронежа из-за угроз женщины с арбалетом перенесли установку лифтов</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[На воронежском заводе компания Wildberries запустила производство умных телевизоров (DeFacto Воронеж)]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/na_voronezhskom_zavode_zapustili_proizvodstvo_smart_televizorov_/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/na_voronezhskom_zavode_zapustili_proizvodstvo_smart_televizorov_/"/>
+        <updated>2023-07-25T17:34:36.849Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/na_voronezhskom_zavode_zapustili_proizvodstvo_smart_televizorov_/">На воронежском заводе компания Wildberries запустила производство умных телевизоров </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Документы для регистрации в качестве кандидата в губернаторы Воронежской области подал Павел Большов (DeFacto Воронеж)]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/predstavitel_ldpr_pavel_bolshov_podal_dokumenty_na_vybory_gubernatora_voronezhskoy_oblasti_/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/predstavitel_ldpr_pavel_bolshov_podal_dokumenty_na_vybory_gubernatora_voronezhskoy_oblasti_/"/>
+        <updated>2023-07-25T17:34:36.851Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/predstavitel_ldpr_pavel_bolshov_podal_dokumenty_na_vybory_gubernatora_voronezhskoy_oblasti_/">Документы для регистрации в качестве кандидата в губернаторы Воронежской области подал Павел Большов </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Пять кандидатов претендуют на пост главы Воронежской области (DeFacto Воронеж)]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/registratsiya_zhelayushchikh_distantsionno_progolosovat_na_vyborakh_v_voronezhskoy_oblasti_otkrylas_/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/registratsiya_zhelayushchikh_distantsionno_progolosovat_na_vyborakh_v_voronezhskoy_oblasti_otkrylas_/"/>
+        <updated>2023-07-25T17:34:36.853Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/registratsiya_zhelayushchikh_distantsionno_progolosovat_na_vyborakh_v_voronezhskoy_oblasti_otkrylas_/">Пять кандидатов претендуют на пост главы Воронежской области </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Сергей Чебан станет главным арбитром игры воронежского «Факела» с «Сочи» (DeFacto Воронеж)]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/sergey_cheban_budet_sudit_match_voronezhskogo_fakela_s_sochi/</id>
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/sergey_cheban_budet_sudit_match_voronezhskogo_fakela_s_sochi/"/>
         <updated>2023-07-25T05:34:34.232Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/sergey_cheban_budet_sudit_match_voronezhskogo_fakela_s_sochi/">Сергей Чебан будет судить матч воронежского «Факела» с «Сочи»</a>]]></content>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/sergey_cheban_budet_sudit_match_voronezhskogo_fakela_s_sochi/">Сергей Чебан станет главным арбитром игры воронежского «Факела» с «Сочи»</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[За простой после начала СВО воронежский аэропорт получит субсидию в 155 миллионов (DeFacto Воронеж)]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/za_prostoy_posle_nachala_svo_voronezhskiy_aeroport_poluchit_subsidiyu_v_155_millionov/</id>
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/za_prostoy_posle_nachala_svo_voronezhskiy_aeroport_poluchit_subsidiyu_v_155_millionov/"/>
         <updated>2023-07-25T05:34:34.232Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/za_prostoy_posle_nachala_svo_voronezhskiy_aeroport_poluchit_subsidiyu_v_155_millionov/"> За простой после начала СВО воронежский аэропорт получит субсидию в 155 миллионов</a>]]></content>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/za_prostoy_posle_nachala_svo_voronezhskiy_aeroport_poluchit_subsidiyu_v_155_millionov/">За простой после начала СВО воронежский аэропорт получит субсидию в 155 миллионов</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[На перекрестке в центре Воронежа изменят схему движения (DeFacto Воронеж)]]></title>
+        <title type="html"><![CDATA[В Воронеже на пересечении улиц Володарского и Кости Стрелюка изменится организация дорожного движения (DeFacto Воронеж)]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/v_tsentre_voronezha_na_peresechenii_dvukh_ulits_izmenitsya_skhema_dvizheniya/</id>
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/v_tsentre_voronezha_na_peresechenii_dvukh_ulits_izmenitsya_skhema_dvizheniya/"/>
         <updated>2023-07-24T17:34:36.555Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/v_tsentre_voronezha_na_peresechenii_dvukh_ulits_izmenitsya_skhema_dvizheniya/">На перекрестке в центре Воронежа изменят схему движения </a>]]></content>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/v_tsentre_voronezha_na_peresechenii_dvukh_ulits_izmenitsya_skhema_dvizheniya/">В Воронеже на пересечении улиц Володарского и Кости Стрелюка изменится организация дорожного движения </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[В Эртиле под Воронежем начались работы по капитальному ремонту краеведческого музея (DeFacto Воронеж)]]></title>
@@ -40,11 +194,11 @@
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/38_attraktsionov_v_voronezhskoy_oblasti_vypushcheny_s_2010_go_po_2020_god/">38% аттракционов в Воронежской области выпущены с 2010-го по 2020 год</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Воронежский губернатор анонсировал строительство элеватора за 2 миллиарда (DeFacto Воронеж)]]></title>
+        <title type="html"><![CDATA[Воронежский губернатор Гусев обсудил с председателем совета директоров ГК «Благо» Фосманом строительство в регионе элеватора за 2,2 млрд рублей (DeFacto Воронеж)]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/voronezhskiy_gubernator_gusev_obsudil_s_predsedatelem_soveta_direktorov_gk_blago_fosmanom_stroitelst/</id>
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/voronezhskiy_gubernator_gusev_obsudil_s_predsedatelem_soveta_direktorov_gk_blago_fosmanom_stroitelst/"/>
         <updated>2023-07-24T17:34:36.566Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/voronezhskiy_gubernator_gusev_obsudil_s_predsedatelem_soveta_direktorov_gk_blago_fosmanom_stroitelst/">Воронежский губернатор анонсировал строительство элеватора за 2 миллиарда</a>]]></content>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/voronezhskiy_gubernator_gusev_obsudil_s_predsedatelem_soveta_direktorov_gk_blago_fosmanom_stroitelst/">Воронежский губернатор Гусев обсудил с председателем совета директоров ГК «Благо» Фосманом строительство в регионе элеватора за 2,2 млрд рублей</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[В конкурсе Минстроя на лучшие проекты благоустройства победили два воронежских райцентра (DeFacto Воронеж)]]></title>
@@ -59,159 +213,5 @@
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/voronezhskiy_gubernator_gusev_prinyal_uchastie_v_vyezdnom_zasedanii_proekta_chistaya_strana/"/>
         <updated>2023-07-24T17:34:36.567Z</updated>
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/voronezhskiy_gubernator_gusev_prinyal_uchastie_v_vyezdnom_zasedanii_proekta_chistaya_strana/">Воронежский губернатор Гусев принял участие в выездном заседании проекта «Чистая страна»</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[На выборы губернатора документы подал первый секретарь Воронежского обкома КПРФ  Андрей Рогатнев (DeFacto Воронеж)]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/na_vybory_gubernatora_voronezhskoy_oblasti_dokumenty_podal_pervyy_sekretar_regionalnogo_obkoma_kprf_/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/na_vybory_gubernatora_voronezhskoy_oblasti_dokumenty_podal_pervyy_sekretar_regionalnogo_obkoma_kprf_/"/>
-        <updated>2023-07-24T17:34:36.567Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/na_vybory_gubernatora_voronezhskoy_oblasti_dokumenty_podal_pervyy_sekretar_regionalnogo_obkoma_kprf_/">На выборы губернатора документы подал первый секретарь Воронежского обкома КПРФ  Андрей Рогатнев </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[На 10% выросло количество аварий с участием квадроциклов, снегоходов и другой самоходной техники в Воронежской области (DeFacto Воронеж)]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/na_10_vyroslo_kolichestvo_avariy_s_uchastiem_kvadrotsiklov_snegokhodov_i_drugoy_samokhodnoy_tekhniki/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/na_10_vyroslo_kolichestvo_avariy_s_uchastiem_kvadrotsiklov_snegokhodov_i_drugoy_samokhodnoy_tekhniki/"/>
-        <updated>2023-07-24T17:34:36.567Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/na_10_vyroslo_kolichestvo_avariy_s_uchastiem_kvadrotsiklov_snegokhodov_i_drugoy_samokhodnoy_tekhniki/">На 10% выросло количество аварий с участием квадроциклов, снегоходов и другой самоходной техники в Воронежской области </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Экотропу в 90 км откроют из воронежских Костенок в Дивногорье (DeFacto Воронеж)]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/turisticheskiy_marshrut_iz_kostenok_v_divnogore_razrabotali_v_voronezhskoy_oblasti_/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/turisticheskiy_marshrut_iz_kostenok_v_divnogore_razrabotali_v_voronezhskoy_oblasti_/"/>
-        <updated>2023-07-24T17:34:36.568Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/turisticheskiy_marshrut_iz_kostenok_v_divnogore_razrabotali_v_voronezhskoy_oblasti_/">Экотропу в 90 км откроют из воронежских Костенок в Дивногорье</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[До 611,3 млн рублей выделят на ремонт дорог в 5 районах Воронежской области (DeFacto Воронеж)]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/v_5_rayonakh_voronezhskoy_oblasti_na_remont_dorog_potratyat_do_611_3_mln_rubley_/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/v_5_rayonakh_voronezhskoy_oblasti_na_remont_dorog_potratyat_do_611_3_mln_rubley_/"/>
-        <updated>2023-07-24T17:34:36.571Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/v_5_rayonakh_voronezhskoy_oblasti_na_remont_dorog_potratyat_do_611_3_mln_rubley_/">До 611,3 млн рублей выделят на ремонт дорог в 5 районах Воронежской области </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[«Варина мама»: воронежские компании все чаще заменяют алкогольные корпоративы чаепитием с тортом (DeFacto Воронеж)]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/varina_mama_voronezhskie_kompanii_vse_chashche_zamenyayut_alkogolnye_korporativy_chaepitiem_s_tortom/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/varina_mama_voronezhskie_kompanii_vse_chashche_zamenyayut_alkogolnye_korporativy_chaepitiem_s_tortom/"/>
-        <updated>2023-07-24T17:34:36.577Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/varina_mama_voronezhskie_kompanii_vse_chashche_zamenyayut_alkogolnye_korporativy_chaepitiem_s_tortom/"><b>«Варина мама»: воронежские компании все чаще заменяют алкогольные корпоративы чаепитием с тортом</b></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Менее 8 процентов воронежцев относятся к среднему классу (DeFacto Воронеж)]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/protsent_zhiteley_srednego_klassa_opredelili_v_voronezhskoy_oblasti_/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/protsent_zhiteley_srednego_klassa_opredelili_v_voronezhskoy_oblasti_/"/>
-        <updated>2023-07-24T17:34:36.578Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/protsent_zhiteley_srednego_klassa_opredelili_v_voronezhskoy_oblasti_/">Менее 8 процентов воронежцев относятся к среднему классу</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Подвал в центре Воронежа продают за 40 млн рублей (DeFacto Воронеж)]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/v_voronezhe_galereya_chizhova_vystavila_na_prodazhu_podval_za_40_mln_rubley/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/v_voronezhe_galereya_chizhova_vystavila_na_prodazhu_podval_za_40_mln_rubley/"/>
-        <updated>2023-07-24T17:34:36.579Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/v_voronezhe_galereya_chizhova_vystavila_na_prodazhu_podval_za_40_mln_rubley/">Подвал в центре Воронежа продают за 40 млн рублей</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Воронежская компания «Заречное» увеличила выручку до 7 млрд рублей (DeFacto Воронеж)]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/voronezhskaya_kompaniya_zarechnoe_uvelichila_vyruchku_do_7_mlrd_rubley/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/voronezhskaya_kompaniya_zarechnoe_uvelichila_vyruchku_do_7_mlrd_rubley/"/>
-        <updated>2023-07-24T17:34:36.580Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/voronezhskaya_kompaniya_zarechnoe_uvelichila_vyruchku_do_7_mlrd_rubley/">Воронежская компания «Заречное» увеличила выручку до 7 млрд рублей</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[35% воронежцев хотели бы работать на государственной службе (DeFacto Воронеж)]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/35_voronezhtsev_khoteli_by_rabotat_na_gosudarstvennoy_sluzhbe/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/35_voronezhtsev_khoteli_by_rabotat_na_gosudarstvennoy_sluzhbe/"/>
-        <updated>2023-07-24T17:34:36.580Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/35_voronezhtsev_khoteli_by_rabotat_na_gosudarstvennoy_sluzhbe/">35% воронежцев хотели бы работать на государственной службе</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[С 24 июля в Воронеже без горячей воды останутся 325 домов (DeFacto Воронеж)]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/s_24_iyulya_v_voronezhe_bez_goryachey_vody_ostanutsya_325_domov/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/s_24_iyulya_v_voronezhe_bez_goryachey_vody_ostanutsya_325_domov/"/>
-        <updated>2023-07-24T05:34:19.326Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/s_24_iyulya_v_voronezhe_bez_goryachey_vody_ostanutsya_325_domov/"> С 24 июля в Воронеже без горячей воды останутся 325 домов</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[В Воронеже ищут подрядчика для высадки хвойных деревьев и роз в сквере имени Бунина (DeFacto Воронеж)]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/v_voronezhe_ishchut_podryadchika_dlya_vysadki_khvoynykh_derevev_i_roz_v_skvere_imeni_bunina/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/v_voronezhe_ishchut_podryadchika_dlya_vysadki_khvoynykh_derevev_i_roz_v_skvere_imeni_bunina/"/>
-        <updated>2023-07-24T05:34:19.327Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/v_voronezhe_ishchut_podryadchika_dlya_vysadki_khvoynykh_derevev_i_roz_v_skvere_imeni_bunina/">В Воронеже ищут подрядчика для высадки хвойных деревьев и роз в сквере имени Бунина</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[В первом туре Премьер-лиги «Факел» уступил «Ростову» со счетом 2:1 (DeFacto Воронеж)]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/voronezhskiy_fakel_ustupil_rostovu_v_1_ture_premer_ligi/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/voronezhskiy_fakel_ustupil_rostovu_v_1_ture_premer_ligi/"/>
-        <updated>2023-07-24T05:34:19.327Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/voronezhskiy_fakel_ustupil_rostovu_v_1_ture_premer_ligi/">В первом туре Премьер-лиги «Факел» уступил «Ростову» со счетом 2:1</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[В воронежском селе Александровка до 20 октября введен карантин по бешенству животных (DeFacto Воронеж)]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/v_voronezhskom_sele_aleksandrovka_do_20_oktyabrya_vveden_karantin_po_beshenstvu_zhivotnykh/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/v_voronezhskom_sele_aleksandrovka_do_20_oktyabrya_vveden_karantin_po_beshenstvu_zhivotnykh/"/>
-        <updated>2023-07-22T17:34:53.580Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/v_voronezhskom_sele_aleksandrovka_do_20_oktyabrya_vveden_karantin_po_beshenstvu_zhivotnykh/">В воронежском селе Александровка до 20 октября введен карантин по бешенству животных</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[В ресторане De Bassus на Плехановской в Воронеже произошел пожар (DeFacto Воронеж)]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/v_restorane_de_bassus_na_plekhanovskoy_v_voronezhe_proizoshel_pozhar/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/v_restorane_de_bassus_na_plekhanovskoy_v_voronezhe_proizoshel_pozhar/"/>
-        <updated>2023-07-22T17:34:53.595Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/v_restorane_de_bassus_na_plekhanovskoy_v_voronezhe_proizoshel_pozhar/">В ресторане De Bassus на Плехановской в Воронеже произошел пожар</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Губернатор Гусев принял участие в заседании региональной организации «Землячество «Воронежцы» (DeFacto Воронеж)]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/gubernator_gusev_prinyal_uchastie_v_zasedanii_regionalnoy_organizatsii_zemlyachestvo_voronezhtsy/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/gubernator_gusev_prinyal_uchastie_v_zasedanii_regionalnoy_organizatsii_zemlyachestvo_voronezhtsy/"/>
-        <updated>2023-07-21T17:34:36.150Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/gubernator_gusev_prinyal_uchastie_v_zasedanii_regionalnoy_organizatsii_zemlyachestvo_voronezhtsy/">Губернатор Гусев принял участие в заседании региональной организации «Землячество «Воронежцы»</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ВТБ: жители Центрального федерального округа потратили на жилье более миллиарда рублей материнского капитала (DeFacto Воронеж)]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/vtb_zhiteli_tsentralnogo_federalnogo_okruga_potratili_na_zhile_bolee_milliarda_rubley_materinskogo_k/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/vtb_zhiteli_tsentralnogo_federalnogo_okruga_potratili_na_zhile_bolee_milliarda_rubley_materinskogo_k/"/>
-        <updated>2023-07-21T17:34:36.159Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/vtb_zhiteli_tsentralnogo_federalnogo_okruga_potratili_na_zhile_bolee_milliarda_rubley_materinskogo_k/">ВТБ: жители Центрального федерального округа потратили на жилье более миллиарда рублей материнского капитала</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[В Воронеже начались работы по созданию западного дублера Московского проспекта (DeFacto Воронеж)]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/v_voronezhe_nachalis_raboty_po_sozdaniyu_zapadnogo_dublera_moskovskogo_prospekta/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/v_voronezhe_nachalis_raboty_po_sozdaniyu_zapadnogo_dublera_moskovskogo_prospekta/"/>
-        <updated>2023-07-21T17:34:36.159Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/v_voronezhe_nachalis_raboty_po_sozdaniyu_zapadnogo_dublera_moskovskogo_prospekta/">В Воронеже начались работы по созданию западного дублера Московского проспекта</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Три полосы движения на улице Плехановской в Воронеже закроют с 20 часов 21 июля (DeFacto Воронеж)]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/v_voronezhe_vecherom_21_iyulya_ogranichat_dvizhenie_v_rayone_teatra_opery_i_baleta/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/v_voronezhe_vecherom_21_iyulya_ogranichat_dvizhenie_v_rayone_teatra_opery_i_baleta/"/>
-        <updated>2023-07-21T17:34:36.163Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/v_voronezhe_vecherom_21_iyulya_ogranichat_dvizhenie_v_rayone_teatra_opery_i_baleta/">Три полосы движения на улице Плехановской в Воронеже закроют с 20 часов 21 июля</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Воронежская мэрия назвала причины затопления строящейся мегашколы (DeFacto Воронеж)]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/voronezhskaya_meriya_prokommentirovala_zatoplenie_stroyashcheysya_megashkoly/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/voronezhskaya_meriya_prokommentirovala_zatoplenie_stroyashcheysya_megashkoly/"/>
-        <updated>2023-07-21T17:34:36.163Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/voronezhskaya_meriya_prokommentirovala_zatoplenie_stroyashcheysya_megashkoly/">Воронежская мэрия назвала причины затопления строящейся мегашколы</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Глава Новохоперского района Воронежской области рассказал, как решается проблема водоснабжения (DeFacto Воронеж)]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/glava_novokhoperskogo_rayona_voronezhskoy_oblasti_rasskazal_kak_reshaetsya_problema_vodosnabzheniya/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/glava_novokhoperskogo_rayona_voronezhskoy_oblasti_rasskazal_kak_reshaetsya_problema_vodosnabzheniya/"/>
-        <updated>2023-07-21T17:34:36.178Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/glava_novokhoperskogo_rayona_voronezhskoy_oblasti_rasskazal_kak_reshaetsya_problema_vodosnabzheniya/">Глава Новохоперского района Воронежской области рассказал, как решается проблема водоснабжения</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Места, запрещённые для выгула домашних животных, назвали воронежцам (DeFacto Воронеж)]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/voronezhskaya_meriya_utverdila_ogranicheniya_na_vygul_sobak/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/voronezhskaya_meriya_utverdila_ogranicheniya_na_vygul_sobak/"/>
-        <updated>2023-07-21T17:34:36.179Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/voronezhskaya_meriya_utverdila_ogranicheniya_na_vygul_sobak/">Места, запрещённые для выгула домашних животных, назвали воронежцам  </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Воронежстат:  в регионе средняя зарплата составила почти 53 тысячи рублей (DeFacto Воронеж)]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/voronezhstat_v_regione_srednyaya_zarplata_sostavila_pochti_53_tysyachi_rubley/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/voronezhstat_v_regione_srednyaya_zarplata_sostavila_pochti_53_tysyachi_rubley/"/>
-        <updated>2023-07-21T17:34:36.180Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/voronezhstat_v_regione_srednyaya_zarplata_sostavila_pochti_53_tysyachi_rubley/">Воронежстат:  в регионе средняя зарплата составила почти 53 тысячи рублей</a>]]></content>
     </entry>
 </feed>
