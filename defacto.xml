@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://facto.ru</id>
     <title>DeFacto Воронеж</title>
-    <updated>2023-07-26T17:35:16.897Z</updated>
+    <updated>2023-07-27T05:34:37.628Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://facto.ru/bitrix/templates/cz_facto_2016/favicons/favicon-16x16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[В матче Кубка России воронежский «Факел» проиграл «Сочи» со счетом 1:3]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/v_matche_kubka_rossii_voronezhskiy_fakel_proigral_sochi_so_schetom_1_3/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/v_matche_kubka_rossii_voronezhskiy_fakel_proigral_sochi_so_schetom_1_3/"/>
+        <updated>2023-07-27T05:34:36.750Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/v_matche_kubka_rossii_voronezhskiy_fakel_proigral_sochi_so_schetom_1_3/"> В матче Кубка России воронежский «Факел» проиграл «Сочи» со счетом 1:3</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ВТБ победил в двух номинациях Loyalty Awards Russia 2023]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/vtb_pobedil_v_dvukh_nominatsiyakh_loyalty_awards_russia_2023/</id>
@@ -76,11 +83,11 @@
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/v_voronezhe_it_direktoru_predlagayut_700_tysyach_rubley/">В Воронеже IT-директору предлагают 700 тысяч рублей</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[20% воронежцев сталкивались с харассментом на собеседовании]]></title>
+        <title type="html"><![CDATA[Каждый пятый воронежец сталкивается с харассментом на работе]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/20_voronezhtsev_stalkivalis_s_kharassmentom_na_sobesedovanii/</id>
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/20_voronezhtsev_stalkivalis_s_kharassmentom_na_sobesedovanii/"/>
         <updated>2023-07-26T17:35:15.850Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/20_voronezhtsev_stalkivalis_s_kharassmentom_na_sobesedovanii/">20% воронежцев сталкивались с харассментом на собеседовании</a>]]></content>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/20_voronezhtsev_stalkivalis_s_kharassmentom_na_sobesedovanii/">Каждый пятый воронежец сталкивается с харассментом на работе </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Территорию Детской школы искусств №5 в Воронеже благоустроят за 8,1 миллиона]]></title>
@@ -207,12 +214,5 @@
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/46_voronezhtsev_schitayut_chto_dlya_postroeniya_karery_vazhno_imet_vysshee_obrazovanie/"/>
         <updated>2023-07-25T17:34:36.847Z</updated>
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/46_voronezhtsev_schitayut_chto_dlya_postroeniya_karery_vazhno_imet_vysshee_obrazovanie/">Стало известно, какие профессии воронежцы считают наиболее и наименее престижными</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[В одном из домов Воронежа из-за угроз женщины с арбалетом перенесли установку лифтов]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/fond_kapremonta_perenes_ustanovku_liftov_v_dome_na_lizyukova_v_voronezhe_iz_za_ugroz_zhenshchiny_s_a/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/fond_kapremonta_perenes_ustanovku_liftov_v_dome_na_lizyukova_v_voronezhe_iz_za_ugroz_zhenshchiny_s_a/"/>
-        <updated>2023-07-25T17:34:36.848Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/fond_kapremonta_perenes_ustanovku_liftov_v_dome_na_lizyukova_v_voronezhe_iz_za_ugroz_zhenshchiny_s_a/">В одном из домов Воронежа из-за угроз женщины с арбалетом перенесли установку лифтов</a>]]></content>
     </entry>
 </feed>
