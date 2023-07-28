@@ -2,15 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://facto.ru</id>
     <title>DeFacto Воронеж</title>
-    <updated>2023-07-27T17:35:01.992Z</updated>
+    <updated>2023-07-28T05:34:51.443Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://facto.ru/bitrix/templates/cz_facto_2016/favicons/favicon-16x16.png</icon>
     <entry>
-        <title type="html"><![CDATA[Проект ТЦ Депо на месте «Карусели» показали воронежцам]]></title>
+        <title type="html"><![CDATA[Впервые с 2012 года управляющая компания воронежской особой экономической зоны вышла из убытков]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/vpervye_s_2012_goda_upravlyayushchaya_kompaniya_voronezhskoy_osoboy_ekonomicheskoy_zony_vyshla_iz_ub/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/vpervye_s_2012_goda_upravlyayushchaya_kompaniya_voronezhskoy_osoboy_ekonomicheskoy_zony_vyshla_iz_ub/"/>
+        <updated>2023-07-28T05:34:50.576Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/vpervye_s_2012_goda_upravlyayushchaya_kompaniya_voronezhskoy_osoboy_ekonomicheskoy_zony_vyshla_iz_ub/"> Впервые с 2012 года управляющая компания воронежской особой экономической зоны вышла из убытков</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[За 170,2 млн рублей мост через реку Потудань под Воронежем отремонтирует тамбовская фирма]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/za_170_2_mln_rubley_most_cherez_reku_potudan_pod_voronezhem_otremontiruet_tambovskaya_firma/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/za_170_2_mln_rubley_most_cherez_reku_potudan_pod_voronezhem_otremontiruet_tambovskaya_firma/"/>
+        <updated>2023-07-28T05:34:50.576Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/za_170_2_mln_rubley_most_cherez_reku_potudan_pod_voronezhem_otremontiruet_tambovskaya_firma/">За 170,2 млн рублей мост через реку Потудань под Воронежем отремонтирует тамбовская фирма</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Воронежскую школу в микрорайоне Процессор назовут именем Константина Ушинского]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/voronezhskoy_shkole_v_mikrorayone_protsessor_prisvoyat_imya_konstantina_ushinskogo/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/voronezhskoy_shkole_v_mikrorayone_protsessor_prisvoyat_imya_konstantina_ushinskogo/"/>
+        <updated>2023-07-28T05:34:50.576Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/voronezhskoy_shkole_v_mikrorayone_protsessor_prisvoyat_imya_konstantina_ushinskogo/">Воронежскую школу в микрорайоне Процессор назовут именем Константина Ушинского </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Проект нового ТЦ «Депо», который появится на месте «Карусели», показали воронежцам]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/proekt_tts_depo_na_meste_karuseli_pokazali_voronezhtsam_/</id>
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/proekt_tts_depo_na_meste_karuseli_pokazali_voronezhtsam_/"/>
         <updated>2023-07-27T17:35:00.921Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/proekt_tts_depo_na_meste_karuseli_pokazali_voronezhtsam_/">Проект ТЦ Депо на месте «Карусели» показали воронежцам  </a>]]></content>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/proekt_tts_depo_na_meste_karuseli_pokazali_voronezhtsam_/">Проект нового ТЦ «Депо», который появится на месте «Карусели», показали воронежцам</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[65,1% читателей DF собирались отдохнуть этим летом в России]]></title>
@@ -27,11 +48,11 @@
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/voronezhskim_selkhozproizvoditelyam_predostavyat_subsidii_na_obespechenie_kvalifitsirovannymi_kadram/">Воронежским сельхозпроизводителям предоставят субсидии на обеспечение квалифицированными кадрами</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Во дворе дома в Воронежской области нашли беспилотник самолетного типа]]></title>
+        <title type="html"><![CDATA[Беспилотник самолетного типа обнаружили в одном из дворов в Воронежской области]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/vo_dvore_doma_v_voronezhskoy_oblasti_nashli_bespilotnik_samoletnogo_tipa_/</id>
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/vo_dvore_doma_v_voronezhskoy_oblasti_nashli_bespilotnik_samoletnogo_tipa_/"/>
         <updated>2023-07-27T17:35:00.937Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/vo_dvore_doma_v_voronezhskoy_oblasti_nashli_bespilotnik_samoletnogo_tipa_/">Во дворе дома в Воронежской области нашли беспилотник самолетного типа </a>]]></content>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/vo_dvore_doma_v_voronezhskoy_oblasti_nashli_bespilotnik_samoletnogo_tipa_/">Беспилотник самолетного типа обнаружили в одном из дворов в Воронежской области</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Воронежская область за полгода произвела 292,1 тыс. тонн мяса в живом весе]]></title>
@@ -55,11 +76,11 @@
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/16_mln_rubley_vydelyat_na_provedenie_festivalya_gorod_sad_v_voronezhe_/">16 млн рублей выделят на проведение фестиваля «Город-сад» в Воронеже </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[СМИ: глава департамента ЖКХ Воронежской области Максим Зацепин покидает свой пост]]></title>
+        <title type="html"><![CDATA[Cвой пост покинул глава воронежского департамента ЖКХ Максим Зацепин]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/smi_glava_departamenta_zhkkh_voronezhskoy_oblasti_maksim_zatsepin_pokidaet_svoy_post/</id>
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/smi_glava_departamenta_zhkkh_voronezhskoy_oblasti_maksim_zatsepin_pokidaet_svoy_post/"/>
         <updated>2023-07-27T17:35:00.944Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/smi_glava_departamenta_zhkkh_voronezhskoy_oblasti_maksim_zatsepin_pokidaet_svoy_post/">СМИ: глава департамента ЖКХ Воронежской области Максим Зацепин покидает свой пост</a>]]></content>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/smi_glava_departamenta_zhkkh_voronezhskoy_oblasti_maksim_zatsepin_pokidaet_svoy_post/">Cвой пост покинул глава воронежского департамента ЖКХ Максим Зацепин</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[По объему производства молока Воронежская область лидирует в ЦФО]]></title>
@@ -193,26 +214,5 @@
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/voronezhskiy_gubernator_opredelil_3_kandidatov_na_dolzhnost_senatora_v_sovet_federatsii_rf/"/>
         <updated>2023-07-26T17:35:15.860Z</updated>
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/voronezhskiy_gubernator_opredelil_3_kandidatov_na_dolzhnost_senatora_v_sovet_federatsii_rf/">Воронежский губернатор определил 3 кандидатов на должность сенатора в Совет Федерации РФ</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[График поезда «Воронеж – Липецк» в августе будет скорректирован]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/_grafik_poezda_voronezh_lipetsk_v_avguste_budet_skorrektirovan/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/_grafik_poezda_voronezh_lipetsk_v_avguste_budet_skorrektirovan/"/>
-        <updated>2023-07-25T17:34:36.809Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/_grafik_poezda_voronezh_lipetsk_v_avguste_budet_skorrektirovan/"> 	 График поезда «Воронеж – Липецк» в августе будет скорректирован</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[С 10:00 до 12:00 26 июля участок улицы Тверской в Воронеже будет перекрыт]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/s_10_00_do_12_00_26_iyulya_uchastok_ulitsy_tverskoy_v_voronezhe_budet_perekryt/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/s_10_00_do_12_00_26_iyulya_uchastok_ulitsy_tverskoy_v_voronezhe_budet_perekryt/"/>
-        <updated>2023-07-26T17:35:15.865Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/s_10_00_do_12_00_26_iyulya_uchastok_ulitsy_tverskoy_v_voronezhe_budet_perekryt/">С 10:00 до 12:00 26 июля участок улицы Тверской в Воронеже будет перекрыт</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Губернатор Гусев рассказал о 21-летней воронежской медсестре, решившей отправиться в зону СВО]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/gubernator_gusev_rasskazal_o_21_letney_voronezhskoy_medsestre_reshivshey_otpravitsya_v_zonu_svo/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/gubernator_gusev_rasskazal_o_21_letney_voronezhskoy_medsestre_reshivshey_otpravitsya_v_zonu_svo/"/>
-        <updated>2023-07-25T17:34:36.812Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/gubernator_gusev_rasskazal_o_21_letney_voronezhskoy_medsestre_reshivshey_otpravitsya_v_zonu_svo/">Губернатор Гусев рассказал о 21-летней воронежской медсестре, решившей отправиться в зону СВО</a>]]></content>
     </entry>
 </feed>
