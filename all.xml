@@ -2,21 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sergei-zhdanov.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-29T17:34:46.297Z</updated>
+    <updated>2023-07-30T05:34:47.411Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[Гроза вызвала перебои с электричеством в четырех районах Воронежской области (DeFacto Воронеж)]]></title>
+        <title type="html"><![CDATA[Специалисты «Воронежэнерго» борются с последствиями непогоды в регионе (DeFacto Воронеж)]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/groza_vyzvala_pereboi_s_elektrichestvom_v_chetyrekh_rayonakh_voronezhskoy_oblasti/</id>
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/groza_vyzvala_pereboi_s_elektrichestvom_v_chetyrekh_rayonakh_voronezhskoy_oblasti/"/>
         <updated>2023-07-29T17:34:45.227Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/groza_vyzvala_pereboi_s_elektrichestvom_v_chetyrekh_rayonakh_voronezhskoy_oblasti/">Гроза вызвала перебои с электричеством в четырех районах Воронежской области</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Машина с логотипами сервиса такси ‎«Яндекс.Go» утонула в луже в воронежском переулке (DeFacto Воронеж)]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/mashina_s_logotipami_servisa_taksi_yandeks_go_utonula_v_luzhe_v_voronezhskom_pereulke/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/mashina_s_logotipami_servisa_taksi_yandeks_go_utonula_v_luzhe_v_voronezhskom_pereulke/"/>
-        <updated>2023-07-29T17:34:45.230Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/mashina_s_logotipami_servisa_taksi_yandeks_go_utonula_v_luzhe_v_voronezhskom_pereulke/">Машина с логотипами сервиса такси ‎«Яндекс.Go» утонула в луже в воронежском переулке</a>]]></content>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/groza_vyzvala_pereboi_s_elektrichestvom_v_chetyrekh_rayonakh_voronezhskoy_oblasti/">Специалисты «Воронежэнерго» борются с последствиями непогоды в регионе</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[На проспекте Революции в Воронеже приступили к монтажу знаков навигации (DeFacto Воронеж)]]></title>
@@ -213,5 +206,12 @@
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/voronezhskim_selkhozproizvoditelyam_predostavyat_subsidii_na_obespechenie_kvalifitsirovannymi_kadram/"/>
         <updated>2023-07-27T17:35:00.933Z</updated>
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/voronezhskim_selkhozproizvoditelyam_predostavyat_subsidii_na_obespechenie_kvalifitsirovannymi_kadram/">Воронежским сельхозпроизводителям предоставят субсидии на обеспечение квалифицированными кадрами</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Беспилотник самолетного типа обнаружили в одном из дворов в Воронежской области (DeFacto Воронеж)]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/vo_dvore_doma_v_voronezhskoy_oblasti_nashli_bespilotnik_samoletnogo_tipa_/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/vo_dvore_doma_v_voronezhskoy_oblasti_nashli_bespilotnik_samoletnogo_tipa_/"/>
+        <updated>2023-07-30T05:34:46.496Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/vo_dvore_doma_v_voronezhskoy_oblasti_nashli_bespilotnik_samoletnogo_tipa_/">Беспилотник самолетного типа обнаружили в одном из дворов в Воронежской области</a>]]></content>
     </entry>
 </feed>
