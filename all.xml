@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sergei-zhdanov.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-30T05:34:47.411Z</updated>
+    <updated>2023-07-30T17:34:18.633Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Воронежский «Факел» разгромно проиграл «Локомотиву» (DeFacto Воронеж)]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/voronezhskiy_fakel_razgromno_proigral_lokomotivu/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/voronezhskiy_fakel_razgromno_proigral_lokomotivu/"/>
+        <updated>2023-07-30T17:34:17.774Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/voronezhskiy_fakel_razgromno_proigral_lokomotivu/">Воронежский «Факел» разгромно проиграл «Локомотиву»</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[В Железнодорожном районе Воронежа на 2 часа перекрыли улицу Грузинскую (DeFacto Воронеж)]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/v_zheleznodorozhnom_rayone_voronezha_na_2_chasa_perekryli_ulitsu_gruzinskuyu/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/v_zheleznodorozhnom_rayone_voronezha_na_2_chasa_perekryli_ulitsu_gruzinskuyu/"/>
+        <updated>2023-07-30T17:34:17.776Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/v_zheleznodorozhnom_rayone_voronezha_na_2_chasa_perekryli_ulitsu_gruzinskuyu/">В Железнодорожном районе Воронежа на 2 часа перекрыли улицу Грузинскую</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Специалисты «Воронежэнерго» борются с последствиями непогоды в регионе (DeFacto Воронеж)]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/groza_vyzvala_pereboi_s_elektrichestvom_v_chetyrekh_rayonakh_voronezhskoy_oblasti/</id>
@@ -199,19 +213,5 @@
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/65_1_chitateley_df_sobiralis_otdokhnut_etim_letom_v_rossii/"/>
         <updated>2023-07-27T17:35:00.930Z</updated>
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/65_1_chitateley_df_sobiralis_otdokhnut_etim_letom_v_rossii/">65,1% читателей DF собирались отдохнуть этим летом в России</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Воронежским сельхозпроизводителям предоставят субсидии на обеспечение квалифицированными кадрами (DeFacto Воронеж)]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/voronezhskim_selkhozproizvoditelyam_predostavyat_subsidii_na_obespechenie_kvalifitsirovannymi_kadram/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/voronezhskim_selkhozproizvoditelyam_predostavyat_subsidii_na_obespechenie_kvalifitsirovannymi_kadram/"/>
-        <updated>2023-07-27T17:35:00.933Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/voronezhskim_selkhozproizvoditelyam_predostavyat_subsidii_na_obespechenie_kvalifitsirovannymi_kadram/">Воронежским сельхозпроизводителям предоставят субсидии на обеспечение квалифицированными кадрами</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Беспилотник самолетного типа обнаружили в одном из дворов в Воронежской области (DeFacto Воронеж)]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/vo_dvore_doma_v_voronezhskoy_oblasti_nashli_bespilotnik_samoletnogo_tipa_/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/vo_dvore_doma_v_voronezhskoy_oblasti_nashli_bespilotnik_samoletnogo_tipa_/"/>
-        <updated>2023-07-30T05:34:46.496Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/vo_dvore_doma_v_voronezhskoy_oblasti_nashli_bespilotnik_samoletnogo_tipa_/">Беспилотник самолетного типа обнаружили в одном из дворов в Воронежской области</a>]]></content>
     </entry>
 </feed>
