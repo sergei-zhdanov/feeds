@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://facto.ru</id>
     <title>DeFacto Воронеж</title>
-    <updated>2023-07-30T17:34:18.637Z</updated>
+    <updated>2023-07-31T05:34:53.660Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://facto.ru/bitrix/templates/cz_facto_2016/favicons/favicon-16x16.png</icon>
     <entry>
-        <title type="html"><![CDATA[Воронежский «Факел» разгромно проиграл «Локомотиву»]]></title>
+        <title type="html"><![CDATA[SuperJob: каждого десятого воронежского соискателя беспокоят вопросы о личной жизни]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/superjob_kazhdogo_desyatogo_voronezhskogo_soiskatelya_bespokoyat_voprosy_o_lichnoy_zhizni/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/superjob_kazhdogo_desyatogo_voronezhskogo_soiskatelya_bespokoyat_voprosy_o_lichnoy_zhizni/"/>
+        <updated>2023-07-31T05:34:52.660Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/superjob_kazhdogo_desyatogo_voronezhskogo_soiskatelya_bespokoyat_voprosy_o_lichnoy_zhizni/">SuperJob: каждого десятого воронежского соискателя беспокоят вопросы о личной жизни</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Со счетом 4:1 в матче РПЛ воронежский «Факел» уступил «Локомотиву»]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/voronezhskiy_fakel_razgromno_proigral_lokomotivu/</id>
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/voronezhskiy_fakel_razgromno_proigral_lokomotivu/"/>
         <updated>2023-07-30T17:34:17.774Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/voronezhskiy_fakel_razgromno_proigral_lokomotivu/">Воронежский «Факел» разгромно проиграл «Локомотиву»</a>]]></content>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/voronezhskiy_fakel_razgromno_proigral_lokomotivu/">Со счетом 4:1 в матче РПЛ воронежский «Факел» уступил «Локомотиву» </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[В Железнодорожном районе Воронежа на 2 часа перекрыли улицу Грузинскую]]></title>
@@ -90,11 +97,11 @@
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/skonchalas_narodnyy_vrach_sssr_i_pochetnyy_grazhdanin_voronezha_lyudmila_yadykina/">В Воронеже на 99-м году жизни скончалась народный врач СССР </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[В Воронеже ограничат парковку у Кольцовского сквера 30 июля]]></title>
+        <title type="html"><![CDATA[Парковку автотранспорта в центре Воронежа ограничат 2 августа]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/v_voronezhe_na_vremya_ogranichat_parkovku_u_koltsevogo_skvera/</id>
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/v_voronezhe_na_vremya_ogranichat_parkovku_u_koltsevogo_skvera/"/>
         <updated>2023-07-28T17:35:04.451Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/v_voronezhe_na_vremya_ogranichat_parkovku_u_koltsevogo_skvera/">В Воронеже ограничат парковку у Кольцовского сквера 30 июля</a>]]></content>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/v_voronezhe_na_vremya_ogranichat_parkovku_u_koltsevogo_skvera/">Парковку автотранспорта в центре Воронежа ограничат 2 августа</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[В Воронеже на даче пенсионерки обнаружили тайник с боеприпасами экс-силовика]]></title>
@@ -207,12 +214,5 @@
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/proekt_tts_depo_na_meste_karuseli_pokazali_voronezhtsam_/"/>
         <updated>2023-07-27T17:35:00.921Z</updated>
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/proekt_tts_depo_na_meste_karuseli_pokazali_voronezhtsam_/">В Советском районе Воронежа появится торговый центр «Депо»</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[65,1% читателей DF собирались отдохнуть этим летом в России]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/65_1_chitateley_df_sobiralis_otdokhnut_etim_letom_v_rossii/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/65_1_chitateley_df_sobiralis_otdokhnut_etim_letom_v_rossii/"/>
-        <updated>2023-07-27T17:35:00.930Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/65_1_chitateley_df_sobiralis_otdokhnut_etim_letom_v_rossii/">65,1% читателей DF собирались отдохнуть этим летом в России</a>]]></content>
     </entry>
 </feed>
