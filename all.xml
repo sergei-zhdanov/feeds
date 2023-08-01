@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sergei-zhdanov.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-31T17:34:51.634Z</updated>
+    <updated>2023-08-01T05:34:44.833Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Опубликовали окончательный список претендентов на пост губернатора Воронежской области (DeFacto Воронеж)]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/opublikovali_okonchatelnyy_spisok_pretendentov_na_post_gubernatora_voronezhskoy_oblasti/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/opublikovali_okonchatelnyy_spisok_pretendentov_na_post_gubernatora_voronezhskoy_oblasti/"/>
+        <updated>2023-08-01T05:34:43.432Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/opublikovali_okonchatelnyy_spisok_pretendentov_na_post_gubernatora_voronezhskoy_oblasti/">Опубликовали окончательный список претендентов на пост губернатора Воронежской области</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Экскурсия «Пещеры Подонья» пройдет в воронежском музее «Дивногорье» (DeFacto Воронеж)]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/ekskursiya_peshchery_podonya_proydet_v_voronezhskom_muzee_divnogore/</id>
@@ -145,6 +152,13 @@
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/v_voronezhskoy_oblasti_poyavitsya_klaster_radioelektronnoy_promyshlennosti/">В Воронежской области появится кластер радиоэлектронной промышленности</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[За 111 миллионов в Воронеже отремонтируют Постоялые дворы Андриановых (DeFacto Воронеж)]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/za_111_millionov_v_voronezhe_otremontiruyut_postoyalye_dvory_andrianovykh_/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/za_111_millionov_v_voronezhe_otremontiruyut_postoyalye_dvory_andrianovykh_/"/>
+        <updated>2023-07-28T17:35:04.452Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/za_111_millionov_v_voronezhe_otremontiruyut_postoyalye_dvory_andrianovykh_/">За 111 миллионов в Воронеже отремонтируют Постоялые дворы Андриановых</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Минобороны: в соседней с Воронежской Ростовской области по жилым домам ударили ВСУ (DeFacto Воронеж)]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/v_sosedney_s_voronezhskoy_rostovskoy_oblasti_pri_vzryve_postradali_15_chelovek/</id>
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/v_sosedney_s_voronezhskoy_rostovskoy_oblasti_pri_vzryve_postradali_15_chelovek/"/>
@@ -199,19 +213,5 @@
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/v_voronezhe_na_vremya_ogranichat_parkovku_u_koltsevogo_skvera/"/>
         <updated>2023-07-28T17:35:04.451Z</updated>
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/v_voronezhe_na_vremya_ogranichat_parkovku_u_koltsevogo_skvera/">Парковку автотранспорта в центре Воронежа ограничат 2 августа</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[В Воронеже на даче пенсионерки обнаружили тайник с боеприпасами экс-силовика (DeFacto Воронеж)]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/skhron_s_granatami_i_trotilovymi_shashkami_nashli_v_voronezhe_na_uchastke_pensionerki_/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/skhron_s_granatami_i_trotilovymi_shashkami_nashli_v_voronezhe_na_uchastke_pensionerki_/"/>
-        <updated>2023-07-28T17:35:04.452Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/skhron_s_granatami_i_trotilovymi_shashkami_nashli_v_voronezhe_na_uchastke_pensionerki_/">В Воронеже на даче пенсионерки обнаружили тайник с боеприпасами экс-силовика</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[За 111 миллионов в Воронеже отремонтируют Постоялые дворы Андриановых (DeFacto Воронеж)]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/07/za_111_millionov_v_voronezhe_otremontiruyut_postoyalye_dvory_andrianovykh_/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/07/za_111_millionov_v_voronezhe_otremontiruyut_postoyalye_dvory_andrianovykh_/"/>
-        <updated>2023-07-28T17:35:04.452Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/07/za_111_millionov_v_voronezhe_otremontiruyut_postoyalye_dvory_andrianovykh_/">За 111 миллионов в Воронеже отремонтируют Постоялые дворы Андриановых</a>]]></content>
     </entry>
 </feed>
