@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://facto.ru</id>
     <title>DeFacto Воронеж</title>
-    <updated>2023-08-04T17:34:37.640Z</updated>
+    <updated>2023-08-05T05:35:01.374Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://facto.ru/bitrix/templates/cz_facto_2016/favicons/favicon-16x16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Движение по Остужевской развязке в Воронеже планируется запустить до конца года]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/08/dvizhenie_po_ostuzhevskoy_razvyazke_v_voronezhe_planiruetsya_zapustit_do_kontsa_goda/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/08/dvizhenie_po_ostuzhevskoy_razvyazke_v_voronezhe_planiruetsya_zapustit_do_kontsa_goda/"/>
+        <updated>2023-08-05T05:35:00.414Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/08/dvizhenie_po_ostuzhevskoy_razvyazke_v_voronezhe_planiruetsya_zapustit_do_kontsa_goda/"> Движение по Остужевской развязке в Воронеже планируется запустить до конца года</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Об опасном сливочном масле из Свердловской области предупредили воронежцев]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/08/ob_opasnom_slivochnom_masle_iz_sverdlovskoy_oblasti_predupredili_voronezhtsev/</id>
@@ -207,12 +214,5 @@
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/08/voronezhtsev_prosyat_proyavlyat_bditelnost_pri_obrashchenii_k_nim_neznakomykh_lyudey_/"/>
         <updated>2023-08-03T17:34:44.048Z</updated>
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/08/voronezhtsev_prosyat_proyavlyat_bditelnost_pri_obrashchenii_k_nim_neznakomykh_lyudey_/">После серии поджогов военкоматов к воронежцам обратились власти</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Сбер и Правительство Воронежской области подписали соглашение о повышении финансовой грамотности]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/08/sber_i_pravitelstvo_voronezhskoy_oblasti_podpisali_soglashenie_o_povyshenii_finansovoy_gramotnosti_/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/08/sber_i_pravitelstvo_voronezhskoy_oblasti_podpisali_soglashenie_o_povyshenii_finansovoy_gramotnosti_/"/>
-        <updated>2023-08-03T17:34:44.050Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/08/sber_i_pravitelstvo_voronezhskoy_oblasti_podpisali_soglashenie_o_povyshenii_finansovoy_gramotnosti_/">Сбер и Правительство Воронежской области подписали соглашение о повышении финансовой грамотности </a>]]></content>
     </entry>
 </feed>
