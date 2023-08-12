@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sergei-zhdanov.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-08-11T17:34:29.512Z</updated>
+    <updated>2023-08-12T05:34:22.092Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[В Воронеже активно развивается инфраструктура микрорайона «Процессор» (DeFacto Воронеж)]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/08/v_voronezhe_aktivno_razvivaetsya_infrastruktura_mikrorayona_protsessor/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/08/v_voronezhe_aktivno_razvivaetsya_infrastruktura_mikrorayona_protsessor/"/>
+        <updated>2023-08-12T05:34:21.319Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/08/v_voronezhe_aktivno_razvivaetsya_infrastruktura_mikrorayona_protsessor/">В Воронеже активно развивается инфраструктура микрорайона «Процессор»</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Имеющие судимость воронежцы могут заключить контракт с Минобороны (DeFacto Воронеж)]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/08/imeyushchie_sudimost_voronezhtsy_mogut_zaklyuchit_kontrakt_s_minoborony/</id>
@@ -206,12 +213,5 @@
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/08/postoyalye_dvory_andrianovykh_v_voronezhe_otremontiruet_yaroslavskaya_firma_za_111_8_mln_rubley_/"/>
         <updated>2023-08-10T17:34:38.005Z</updated>
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/08/postoyalye_dvory_andrianovykh_v_voronezhe_otremontiruet_yaroslavskaya_firma_za_111_8_mln_rubley_/">Постоялые дворы Андриановых в Воронеже отремонтирует ярославская фирма за 111,8 млн рублей </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[На обновление железнодорожной инфраструктуры, в том числе на ремонт путей в Воронежской области потратили 2,5 млрд рублей (DeFacto Воронеж)]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/08/na_obnovlenie_zheleznodorozhnoy_infrastruktury_v_tom_chisle_na_remont_putey_v_voronezhskoy_oblasti_p/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/08/na_obnovlenie_zheleznodorozhnoy_infrastruktury_v_tom_chisle_na_remont_putey_v_voronezhskoy_oblasti_p/"/>
-        <updated>2023-08-10T17:34:38.007Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/08/na_obnovlenie_zheleznodorozhnoy_infrastruktury_v_tom_chisle_na_remont_putey_v_voronezhskoy_oblasti_p/">На обновление железнодорожной инфраструктуры, в том числе на ремонт путей в Воронежской области потратили 2,5 млрд рублей</a>]]></content>
     </entry>
 </feed>
