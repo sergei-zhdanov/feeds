@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://facto.ru</id>
     <title>DeFacto Воронеж</title>
-    <updated>2023-08-12T05:34:22.096Z</updated>
+    <updated>2023-08-12T17:34:31.754Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://facto.ru/bitrix/templates/cz_facto_2016/favicons/favicon-16x16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Воронежский губернатор Гусев поздравил жителей региона с Днем физкультурника]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/08/voronezhskiy_gubernator_gusev_pozdravil_zhiteley_regiona_s_dnem_fizkulturnika/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/08/voronezhskiy_gubernator_gusev_pozdravil_zhiteley_regiona_s_dnem_fizkulturnika/"/>
+        <updated>2023-08-12T17:34:30.881Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/08/voronezhskiy_gubernator_gusev_pozdravil_zhiteley_regiona_s_dnem_fizkulturnika/">Воронежский губернатор Гусев поздравил жителей региона с Днем физкультурника</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[В Воронеже активно развивается инфраструктура микрорайона «Процессор»]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/08/v_voronezhe_aktivno_razvivaetsya_infrastruktura_mikrorayona_protsessor/</id>
@@ -207,12 +214,5 @@
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/08/v_voronezhskoy_oblasti_sobrano_tri_milliona_tonn_zerna/"/>
         <updated>2023-08-10T17:34:38.005Z</updated>
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/08/v_voronezhskoy_oblasti_sobrano_tri_milliona_tonn_zerna/">В Воронежской области собрано три миллиона тонн зерна</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Постоялые дворы Андриановых в Воронеже отремонтирует ярославская фирма за 111,8 млн рублей]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/08/postoyalye_dvory_andrianovykh_v_voronezhe_otremontiruet_yaroslavskaya_firma_za_111_8_mln_rubley_/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/08/postoyalye_dvory_andrianovykh_v_voronezhe_otremontiruet_yaroslavskaya_firma_za_111_8_mln_rubley_/"/>
-        <updated>2023-08-10T17:34:38.005Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/08/postoyalye_dvory_andrianovykh_v_voronezhe_otremontiruet_yaroslavskaya_firma_za_111_8_mln_rubley_/">Постоялые дворы Андриановых в Воронеже отремонтирует ярославская фирма за 111,8 млн рублей </a>]]></content>
     </entry>
 </feed>
