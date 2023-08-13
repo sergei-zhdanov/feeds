@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://facto.ru</id>
     <title>DeFacto Воронеж</title>
-    <updated>2023-08-12T17:34:31.754Z</updated>
+    <updated>2023-08-13T05:34:58.164Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://facto.ru/bitrix/templates/cz_facto_2016/favicons/favicon-16x16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[В Воронеже на участке улицы 60 Армии высадят 317 остролистых кленов]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/08/v_voronezhe_na_uchastke_ulitsy_60_armii_vysadyat_317_ostrolistykh_klenov/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/08/v_voronezhe_na_uchastke_ulitsy_60_armii_vysadyat_317_ostrolistykh_klenov/"/>
+        <updated>2023-08-13T05:34:56.877Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/08/v_voronezhe_na_uchastke_ulitsy_60_armii_vysadyat_317_ostrolistykh_klenov/">В Воронеже на участке улицы 60 Армии высадят 317 остролистых кленов</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Воронежский губернатор Гусев поздравил жителей региона с Днем физкультурника]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/08/voronezhskiy_gubernator_gusev_pozdravil_zhiteley_regiona_s_dnem_fizkulturnika/</id>
@@ -207,12 +214,5 @@
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/08/zavod_za_600_mln_rubley_v_orlovskoy_oblasti_prodaet_proizvoditel_krup_iz_voronezha_/"/>
         <updated>2023-08-10T17:34:38.004Z</updated>
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/08/zavod_za_600_mln_rubley_v_orlovskoy_oblasti_prodaet_proizvoditel_krup_iz_voronezha_/">За  600 миллионов рублей производитель круп из Воронежа продает завод в Орловской области</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[В Воронежской области собрано три миллиона тонн зерна]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/08/v_voronezhskoy_oblasti_sobrano_tri_milliona_tonn_zerna/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/08/v_voronezhskoy_oblasti_sobrano_tri_milliona_tonn_zerna/"/>
-        <updated>2023-08-10T17:34:38.005Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/08/v_voronezhskoy_oblasti_sobrano_tri_milliona_tonn_zerna/">В Воронежской области собрано три миллиона тонн зерна</a>]]></content>
     </entry>
 </feed>
