@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://facto.ru</id>
     <title>DeFacto Воронеж</title>
-    <updated>2023-08-13T17:34:53.635Z</updated>
+    <updated>2023-08-14T05:34:49.557Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://facto.ru/bitrix/templates/cz_facto_2016/favicons/favicon-16x16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Первенство России по парусному спорту выиграла спортсменка из Воронежа]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/08/pervenstvo_rossii_po_parusnomu_sportu_vyigrala_sportsmenka_iz_voronezha/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/08/pervenstvo_rossii_po_parusnomu_sportu_vyigrala_sportsmenka_iz_voronezha/"/>
+        <updated>2023-08-14T05:34:48.473Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/08/pervenstvo_rossii_po_parusnomu_sportu_vyigrala_sportsmenka_iz_voronezha/">Первенство России по парусному спорту выиграла спортсменка из Воронежа</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Из Ростова-на-Дону в Воронеж с 17 августа пустят новый автобус]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/08/iz_rostova_na_donu_v_voronezh_s_17_avgusta_pustyat_novyy_avtobus/</id>
@@ -207,12 +214,5 @@
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/08/o_velikoy_otechestvennoy_voyne_v_voronezhskom_sele_snimayut_korotkometrazhnyy_film_russkaya_reka/"/>
         <updated>2023-08-10T17:34:38.004Z</updated>
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/08/o_velikoy_otechestvennoy_voyne_v_voronezhskom_sele_snimayut_korotkometrazhnyy_film_russkaya_reka/">О Великой Отечественной войне в воронежском селе снимают короткометражный фильм «Русская река»</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Под Воронежем за 300 миллионов продают карьер кварцевых песков]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/08/pod_voronezhem_za_300_millionov_prodayut_karer_kvartsevykh_peskov_/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/08/pod_voronezhem_za_300_millionov_prodayut_karer_kvartsevykh_peskov_/"/>
-        <updated>2023-08-10T17:34:38.004Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/08/pod_voronezhem_za_300_millionov_prodayut_karer_kvartsevykh_peskov_/">Под Воронежем за 300 миллионов продают карьер кварцевых песков </a>]]></content>
     </entry>
 </feed>
