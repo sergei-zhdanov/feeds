@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sergei-zhdanov.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-08-18T17:34:21.556Z</updated>
+    <updated>2023-08-19T05:34:59.815Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[СМИ: Торговый центр «Мир» в Воронеже эвакуировали (DeFacto Воронеж)]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/08/smi_torgovyy_tsentr_mir_v_voronezhe_evakuirovali/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/08/smi_torgovyy_tsentr_mir_v_voronezhe_evakuirovali/"/>
+        <updated>2023-08-19T05:34:58.458Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/08/smi_torgovyy_tsentr_mir_v_voronezhe_evakuirovali/"> СМИ: Торговый центр «Мир» в Воронеже эвакуировали</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[В Воронежской области за неделю выросли цены на говядину и свинину (DeFacto Воронеж)]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/08/v_voronezhskoy_oblasti_za_nedelyu_podskochili_tseny_na_myaso_i_sosiski/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/08/v_voronezhskoy_oblasti_za_nedelyu_podskochili_tseny_na_myaso_i_sosiski/"/>
+        <updated>2023-08-19T05:34:58.461Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/08/v_voronezhskoy_oblasti_za_nedelyu_podskochili_tseny_na_myaso_i_sosiski/">В Воронежской области за неделю выросли цены на говядину и свинину</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Дополнительные ночные автобусы запустят в Воронеже в дни проведения фестиваля «Чернозем» (DeFacto Воронеж)]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/08/dopolnitelnye_nochnye_avtobusy_zapustyat_v_voronezhe_v_dni_provedeniya_festivalya_chernozem/</id>
@@ -19,18 +33,18 @@
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/08/stalo_izvestno_kogda_budut_otdykhat_voronezhtsy_v_2024_godu/">Стало известно, когда будут отдыхать воронежцы в 2024 году</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Благодарности от Владимира Путина и губернатора получили 18 воронежцев (DeFacto Воронеж)]]></title>
+        <title type="html"><![CDATA[7 воронежцев получили благодарности от президента Владимира Путина (DeFacto Воронеж)]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/08/blagodarnosti_ot_vladimira_putina_i_voronezhskogo_gubernatora_poluchili_18_voronezhtsev_/</id>
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/08/blagodarnosti_ot_vladimira_putina_i_voronezhskogo_gubernatora_poluchili_18_voronezhtsev_/"/>
         <updated>2023-08-18T17:34:20.729Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/08/blagodarnosti_ot_vladimira_putina_i_voronezhskogo_gubernatora_poluchili_18_voronezhtsev_/">Благодарности от Владимира Путина и губернатора получили 18 воронежцев </a>]]></content>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/08/blagodarnosti_ot_vladimira_putina_i_voronezhskogo_gubernatora_poluchili_18_voronezhtsev_/">7 воронежцев получили благодарности от президента Владимира Путина</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Дорогу и больницу в подшефном районе ЛНР Воронежская область планирует отремонтировать (DeFacto Воронеж)]]></title>
+        <title type="html"><![CDATA[У Воронежской области в ЛНР появился новый подшефный район (DeFacto Воронеж)]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/08/dorogu_i_bolnitsu_v_podshefnom_rayone_lnr_voronezhskaya_oblast_planiruet_otremontirovat/</id>
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/08/dorogu_i_bolnitsu_v_podshefnom_rayone_lnr_voronezhskaya_oblast_planiruet_otremontirovat/"/>
         <updated>2023-08-18T17:34:20.731Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/08/dorogu_i_bolnitsu_v_podshefnom_rayone_lnr_voronezhskaya_oblast_planiruet_otremontirovat/">Дорогу и больницу в подшефном районе ЛНР Воронежская область планирует отремонтировать</a>]]></content>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/08/dorogu_i_bolnitsu_v_podshefnom_rayone_lnr_voronezhskaya_oblast_planiruet_otremontirovat/">У Воронежской области в ЛНР появился новый подшефный район </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Из-за струи газа разбились стёкла в многоэтажке у мегашколы в Воронеже (DeFacto Воронеж)]]></title>
@@ -40,11 +54,11 @@
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/08/povrezhdeniya_iz_za_proryva_gazovoy_truby_v_voronezhe_prokommentirovali_v_merii/">Из-за струи газа разбились стёкла в многоэтажке у мегашколы в Воронеже </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[К концу 2024 года в Воронеже спроектируют первую ветку метробуса (DeFacto Воронеж)]]></title>
+        <title type="html"><![CDATA[До конца 2024 года в Воронеже спроектируют первую линию метробуса (DeFacto Воронеж)]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/08/k_kontsu_2024_goda_v_voronezhe_sproektiruyut_pervuyu_vetku_metrobusa/</id>
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/08/k_kontsu_2024_goda_v_voronezhe_sproektiruyut_pervuyu_vetku_metrobusa/"/>
         <updated>2023-08-18T17:34:20.735Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/08/k_kontsu_2024_goda_v_voronezhe_sproektiruyut_pervuyu_vetku_metrobusa/">К концу 2024 года в Воронеже спроектируют первую ветку метробуса</a>]]></content>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/08/k_kontsu_2024_goda_v_voronezhe_sproektiruyut_pervuyu_vetku_metrobusa/">До конца 2024 года в Воронеже спроектируют первую линию метробуса</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Остановку в виде пожарной машины в Россоши под Воронежем открыли 18 августа (DeFacto Воронеж)]]></title>
@@ -199,19 +213,5 @@
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/08/v_voronezhe_s_21_po_27_avgusta_proydet_mezhdunarodnyy_festival_korotkometrazhnogo_kino_kinokot/"/>
         <updated>2023-08-17T17:34:39.720Z</updated>
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/08/v_voronezhe_s_21_po_27_avgusta_proydet_mezhdunarodnyy_festival_korotkometrazhnogo_kino_kinokot/">В Воронеже с 21 по 27 августа пройдет Международный фестиваль короткометражного кино «КиноКот»</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Бринкманский сад в  Воронеже не отдадут в концессию (DeFacto Воронеж)]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/08/brinkmanskiy_sad_v_voronezhe_ne_otdadut_v_kontsessiyu_/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/08/brinkmanskiy_sad_v_voronezhe_ne_otdadut_v_kontsessiyu_/"/>
-        <updated>2023-08-17T17:34:39.724Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/08/brinkmanskiy_sad_v_voronezhe_ne_otdadut_v_kontsessiyu_/">Бринкманский сад в  Воронеже не отдадут в концессию </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[На дополнительное благоустройство в сквере имени Сухомлинова в Воронеже направят 3,5 млн рублей (DeFacto Воронеж)]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/08/na_dopolnitelnoe_blagoustroystvo_v_skvere_imeni_sukhomlinova_v_voronezhe_napravyat_3_5_mln_rubley/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/08/na_dopolnitelnoe_blagoustroystvo_v_skvere_imeni_sukhomlinova_v_voronezhe_napravyat_3_5_mln_rubley/"/>
-        <updated>2023-08-17T17:34:39.725Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/08/na_dopolnitelnoe_blagoustroystvo_v_skvere_imeni_sukhomlinova_v_voronezhe_napravyat_3_5_mln_rubley/">На дополнительное благоустройство в сквере имени Сухомлинова в Воронеже направят 3,5 млн рублей</a>]]></content>
     </entry>
 </feed>
