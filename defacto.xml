@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://facto.ru</id>
     <title>DeFacto Воронеж</title>
-    <updated>2023-08-19T05:34:59.547Z</updated>
+    <updated>2023-08-19T17:34:46.583Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://facto.ru/bitrix/templates/cz_facto_2016/favicons/favicon-16x16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Роспотребнадзор предупредил воронежцев о потенциально опасном сыре от предприятия-призрака]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/08/rospotrebnadzor_predupredil_voronezhtsev_o_potentsialno_opasnom_syre_ot_predpriyatiya_prizraka/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/08/rospotrebnadzor_predupredil_voronezhtsev_o_potentsialno_opasnom_syre_ot_predpriyatiya_prizraka/"/>
+        <updated>2023-08-19T17:34:45.583Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/08/rospotrebnadzor_predupredil_voronezhtsev_o_potentsialno_opasnom_syre_ot_predpriyatiya_prizraka/">Роспотребнадзор предупредил воронежцев о потенциально опасном сыре от предприятия-призрака</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Губернатор Гусев вручил благодарность президента России главврачу воронежской горбольницы №2 Елене Ворониной]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/08/gubernator_gusev_vruchil_blagodarnost_prezidenta_rossii_glavvrachu_voronezhskoy_gorbolnitsy_2_elene_/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/08/gubernator_gusev_vruchil_blagodarnost_prezidenta_rossii_glavvrachu_voronezhskoy_gorbolnitsy_2_elene_/"/>
+        <updated>2023-08-19T17:34:45.584Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/08/gubernator_gusev_vruchil_blagodarnost_prezidenta_rossii_glavvrachu_voronezhskoy_gorbolnitsy_2_elene_/">Губернатор Гусев вручил благодарность президента России главврачу воронежской горбольницы №2 Елене Ворониной</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[СМИ: Торговый центр «Мир» в Воронеже эвакуировали]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/08/smi_torgovyy_tsentr_mir_v_voronezhe_evakuirovali/</id>
@@ -32,13 +46,6 @@
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/08/stalo_izvestno_kogda_budut_otdykhat_voronezhtsy_v_2024_godu/"/>
         <updated>2023-08-18T17:34:20.724Z</updated>
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/08/stalo_izvestno_kogda_budut_otdykhat_voronezhtsy_v_2024_godu/">Стало известно, когда будут отдыхать воронежцы в 2024 году</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 воронежцев получили благодарности от президента Владимира Путина]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/08/blagodarnosti_ot_vladimira_putina_i_voronezhskogo_gubernatora_poluchili_18_voronezhtsev_/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/08/blagodarnosti_ot_vladimira_putina_i_voronezhskogo_gubernatora_poluchili_18_voronezhtsev_/"/>
-        <updated>2023-08-18T17:34:20.729Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/08/blagodarnosti_ot_vladimira_putina_i_voronezhskogo_gubernatora_poluchili_18_voronezhtsev_/">7 воронежцев получили благодарности от президента Владимира Путина</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[У Воронежской области в ЛНР появился новый подшефный район]]></title>
@@ -207,12 +214,5 @@
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/08/zhitelyam_kominternovskogo_rayona_voronezha_sdelayut_pereraschet_iz_za_prodleniya_srokov_otklyucheni/"/>
         <updated>2023-08-17T17:34:39.718Z</updated>
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/08/zhitelyam_kominternovskogo_rayona_voronezha_sdelayut_pereraschet_iz_za_prodleniya_srokov_otklyucheni/">Жителям Коминтерновского района Воронежа сделают перерасчет из-за продления сроков отключения горячей воды</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[В Воронеже с 21 по 27 августа пройдет Международный фестиваль короткометражного кино «КиноКот»]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/08/v_voronezhe_s_21_po_27_avgusta_proydet_mezhdunarodnyy_festival_korotkometrazhnogo_kino_kinokot/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/08/v_voronezhe_s_21_po_27_avgusta_proydet_mezhdunarodnyy_festival_korotkometrazhnogo_kino_kinokot/"/>
-        <updated>2023-08-17T17:34:39.720Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/08/v_voronezhe_s_21_po_27_avgusta_proydet_mezhdunarodnyy_festival_korotkometrazhnogo_kino_kinokot/">В Воронеже с 21 по 27 августа пройдет Международный фестиваль короткометражного кино «КиноКот»</a>]]></content>
     </entry>
 </feed>
