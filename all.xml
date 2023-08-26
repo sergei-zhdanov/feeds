@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sergei-zhdanov.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-08-26T05:34:54.604Z</updated>
+    <updated>2023-08-26T17:34:15.913Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Воронежский «Факел» вничью сыграл с текущим лидером РПЛ «Краснодаром» (DeFacto Воронеж)]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/08/voronezhskiy_fakel_vnichyu_sygral_s_tekushchim_liderom_rpl_krasnodarom/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/08/voronezhskiy_fakel_vnichyu_sygral_s_tekushchim_liderom_rpl_krasnodarom/"/>
+        <updated>2023-08-26T17:34:15.126Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/08/voronezhskiy_fakel_vnichyu_sygral_s_tekushchim_liderom_rpl_krasnodarom/">Воронежский «Факел» вничью сыграл с текущим лидером РПЛ «Краснодаром»</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[В Воронеже экран на сцене Зеленого театра рухнул перед концертом (DeFacto Воронеж)]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/08/v_voronezhe_ekran_na_stsene_zelenogo_teatra_rukhnul_pered_kontsertom/</id>
@@ -206,12 +213,5 @@
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/08/voronezhets_aleksey_levshin_byl_komandirom_ekipazha_razbivshegosya_samoleta_prigozhina_/"/>
         <updated>2023-08-24T17:34:48.518Z</updated>
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/08/voronezhets_aleksey_levshin_byl_komandirom_ekipazha_razbivshegosya_samoleta_prigozhina_/">Воронежец Алексей Левшин был командиром экипажа разбившегося самолета Пригожина </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Мясо, заражённое сибирской язвой, которое нашли в Воронеже, уничтожили (DeFacto Воронеж)]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/08/myaso_zarazhyennoe_sibirskoy_yazvoy_kotoroe_nashli_v_voronezhe_unichtozhili/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/08/myaso_zarazhyennoe_sibirskoy_yazvoy_kotoroe_nashli_v_voronezhe_unichtozhili/"/>
-        <updated>2023-08-24T17:34:48.538Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/08/myaso_zarazhyennoe_sibirskoy_yazvoy_kotoroe_nashli_v_voronezhe_unichtozhili/">Мясо, заражённое сибирской язвой, которое нашли в Воронеже, уничтожили</a>]]></content>
     </entry>
 </feed>
