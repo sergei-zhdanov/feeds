@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://facto.ru</id>
     <title>DeFacto Воронеж</title>
-    <updated>2023-08-26T17:34:15.916Z</updated>
+    <updated>2023-08-27T05:34:23.004Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://facto.ru/bitrix/templates/cz_facto_2016/favicons/favicon-16x16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Три тонны плодовоовощной продукции изъяли у воронежских торговцев с начала 2023 года]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/08/tri_tonny_plodovoovoshchnoy_produktsii_izyali_u_voronezhskikh_torgovtsev_s_nachala_2023_goda/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/08/tri_tonny_plodovoovoshchnoy_produktsii_izyali_u_voronezhskikh_torgovtsev_s_nachala_2023_goda/"/>
+        <updated>2023-08-27T05:34:21.933Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/08/tri_tonny_plodovoovoshchnoy_produktsii_izyali_u_voronezhskikh_torgovtsev_s_nachala_2023_goda/">Три тонны плодовоовощной продукции изъяли у воронежских торговцев с начала 2023 года</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Воронежский «Факел» вничью сыграл с текущим лидером РПЛ «Краснодаром»]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/08/voronezhskiy_fakel_vnichyu_sygral_s_tekushchim_liderom_rpl_krasnodarom/</id>
@@ -207,12 +214,5 @@
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/08/pri_stroitelstve_muzeya_vdv_v_voronezhe_spetsialisty_vyyavili_ekologicheskie_narusheniya_/"/>
         <updated>2023-08-24T17:34:48.509Z</updated>
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/08/pri_stroitelstve_muzeya_vdv_v_voronezhe_spetsialisty_vyyavili_ekologicheskie_narusheniya_/">В Воронеже нашли нарушения при строительстве музея ВДВ </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Воронежец Алексей Левшин был командиром экипажа разбившегося самолета Пригожина]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/08/voronezhets_aleksey_levshin_byl_komandirom_ekipazha_razbivshegosya_samoleta_prigozhina_/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/08/voronezhets_aleksey_levshin_byl_komandirom_ekipazha_razbivshegosya_samoleta_prigozhina_/"/>
-        <updated>2023-08-24T17:34:48.518Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/08/voronezhets_aleksey_levshin_byl_komandirom_ekipazha_razbivshegosya_samoleta_prigozhina_/">Воронежец Алексей Левшин был командиром экипажа разбившегося самолета Пригожина </a>]]></content>
     </entry>
 </feed>
