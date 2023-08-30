@@ -2,15 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://facto.ru</id>
     <title>DeFacto Воронеж</title>
-    <updated>2023-08-29T17:35:01.247Z</updated>
+    <updated>2023-08-30T05:34:20.489Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://facto.ru/bitrix/templates/cz_facto_2016/favicons/favicon-16x16.png</icon>
     <entry>
-        <title type="html"><![CDATA[В районе Воронежского центрального парка с30 августа по 3 сентября ограничат движение]]></title>
+        <title type="html"><![CDATA[За 21 млн рублей в Воронеже продают пивзавод]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/08/za_21_mln_rubley_v_voronezhe_prodayut_pivzavod/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/08/za_21_mln_rubley_v_voronezhe_prodayut_pivzavod/"/>
+        <updated>2023-08-30T05:34:19.620Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/08/za_21_mln_rubley_v_voronezhe_prodayut_pivzavod/">За 21 млн рублей в Воронеже продают пивзавод</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[На 5 часов 30 августа будут отключены светофоры на перекрёстке в центре Воронежа]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/08/na_5_chasov_30_avgusta_budut_otklyucheny_svetofory_na_perekryestke_v_tsentre_voronezha/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/08/na_5_chasov_30_avgusta_budut_otklyucheny_svetofory_na_perekryestke_v_tsentre_voronezha/"/>
+        <updated>2023-08-30T05:34:19.622Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/08/na_5_chasov_30_avgusta_budut_otklyucheny_svetofory_na_perekryestke_v_tsentre_voronezha/"> На 5 часов 30 августа будут отключены светофоры на перекрёстке в центре Воронежа</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Дома со счетом 0:1 воронежский «Факел» уступил «Оренбургу» в Кубке России]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/08/doma_so_schetom_0_1_voronezhskiy_fakel_ustupil_orenburgu_v_kubke_rossii/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/08/doma_so_schetom_0_1_voronezhskiy_fakel_ustupil_orenburgu_v_kubke_rossii/"/>
+        <updated>2023-08-30T05:34:19.633Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/08/doma_so_schetom_0_1_voronezhskiy_fakel_ustupil_orenburgu_v_kubke_rossii/"> Дома со счетом 0:1 воронежский «Факел» уступил «Оренбургу» в Кубке России</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[В районе Воронежского центрального парка с 30 августа по 3 сентября ограничат движение]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/08/v_rayone_voronezhskogo_tsentralnogo_parka_s30_avgusta_po_3_sentyabrya_ogranichat_dvizhenie_/</id>
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/08/v_rayone_voronezhskogo_tsentralnogo_parka_s30_avgusta_po_3_sentyabrya_ogranichat_dvizhenie_/"/>
         <updated>2023-08-29T17:35:00.257Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/08/v_rayone_voronezhskogo_tsentralnogo_parka_s30_avgusta_po_3_sentyabrya_ogranichat_dvizhenie_/">В районе Воронежского центрального парка с30 августа по 3 сентября ограничат движение </a>]]></content>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/08/v_rayone_voronezhskogo_tsentralnogo_parka_s30_avgusta_po_3_sentyabrya_ogranichat_dvizhenie_/">В районе Воронежского центрального парка с 30 августа по 3 сентября ограничат движение </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ВТБ: спрос на льготную ипотеку к концу года вырастет на четверть]]></title>
@@ -62,11 +83,11 @@
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/08/za_poluchenie_68_vzyatok_zamestitelyu_glavy_voronezhskogo_vuza_uzhestochili_prigovor_/">За получение 68 взяток заместителю главы воронежского вуза ужесточили приговор </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Из-за присяги курсантов в Воронеже перекроют улицу Маршала Неделина]]></title>
+        <title type="html"><![CDATA[2 сентября с 6:00 до 13:00 из-за присяги курсантов Военно-воздушной академии в Воронеже перекроют улицу]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/08/iz_za_prisyagi_kursantov_v_voronezhe_perekroyut_ulitsu_marshala_nedelina_/</id>
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/08/iz_za_prisyagi_kursantov_v_voronezhe_perekroyut_ulitsu_marshala_nedelina_/"/>
         <updated>2023-08-29T17:35:00.284Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/08/iz_za_prisyagi_kursantov_v_voronezhe_perekroyut_ulitsu_marshala_nedelina_/">Из-за присяги курсантов в Воронеже перекроют улицу Маршала Неделина </a>]]></content>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/08/iz_za_prisyagi_kursantov_v_voronezhe_perekroyut_ulitsu_marshala_nedelina_/">2 сентября с 6:00 до 13:00 из-за присяги курсантов Военно-воздушной академии в Воронеже перекроют улицу </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[В департаменте развития мунобразований Воронежской области назначили нового главу]]></title>
@@ -193,26 +214,5 @@
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/08/novyy_peshekhodnyy_perekhod_zarabotal_v_tsentre_voronezha/"/>
         <updated>2023-08-28T17:34:52.824Z</updated>
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/08/novyy_peshekhodnyy_perekhod_zarabotal_v_tsentre_voronezha/">В центре Воронежа открыт новый пешеходный переход  </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[На несколько часов жители Северного микрорайона Воронежа остались без электричества]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/08/na_neskolko_chasov_zhiteli_severnogo_mikrorayona_voronezha_ostalis_bez_elektrichestva_/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/08/na_neskolko_chasov_zhiteli_severnogo_mikrorayona_voronezha_ostalis_bez_elektrichestva_/"/>
-        <updated>2023-08-28T17:34:52.825Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/08/na_neskolko_chasov_zhiteli_severnogo_mikrorayona_voronezha_ostalis_bez_elektrichestva_/">На несколько часов жители Северного микрорайона Воронежа остались без электричества </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Спрос на квартиры площадью 100 кв. м в новостройках  Воронежа вырос на 50%]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/08/spros_na_kvartiry_ploshchadyu_100_kv_m_v_novostroykakh_voronezha_vyros_na_50/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/08/spros_na_kvartiry_ploshchadyu_100_kv_m_v_novostroykakh_voronezha_vyros_na_50/"/>
-        <updated>2023-08-28T17:34:52.827Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/08/spros_na_kvartiry_ploshchadyu_100_kv_m_v_novostroykakh_voronezha_vyros_na_50/">Спрос на квартиры площадью 100 кв. м в новостройках  Воронежа вырос на 50%</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Порядка 12,7 тысяч болельщиков в среднем посещают домашние игры воронежского «Факела»]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/08/poryadka_12_7_tysyach_bolelshchikov_v_srednem_poseshchayut_domashnie_igry_voronezhskogo_fakela_/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/08/poryadka_12_7_tysyach_bolelshchikov_v_srednem_poseshchayut_domashnie_igry_voronezhskogo_fakela_/"/>
-        <updated>2023-08-28T17:34:52.828Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/08/poryadka_12_7_tysyach_bolelshchikov_v_srednem_poseshchayut_domashnie_igry_voronezhskogo_fakela_/">Порядка 12,7 тысяч болельщиков в среднем посещают домашние игры воронежского «Факела» </a>]]></content>
     </entry>
 </feed>
