@@ -2,56 +2,98 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sergei-zhdanov.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-09-07T17:34:59.787Z</updated>
+    <updated>2023-09-08T05:34:20.708Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[Возле воронежской Ротонды 8 сентября на время запретят парковку (DeFacto Воронеж)]]></title>
+        <title type="html"><![CDATA[Посвященную святителю Митрофану композицию с фестиваля «Город-сад» подарили воронежской епархии (DeFacto Воронеж)]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/09/posvyashchennuyu_svyatitelyu_mitrofanu_kompozitsiyu_s_festivalya_gorod_sad_podarili_voronezhskoy_epa/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/09/posvyashchennuyu_svyatitelyu_mitrofanu_kompozitsiyu_s_festivalya_gorod_sad_podarili_voronezhskoy_epa/"/>
+        <updated>2023-09-08T05:34:19.921Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/09/posvyashchennuyu_svyatitelyu_mitrofanu_kompozitsiyu_s_festivalya_gorod_sad_podarili_voronezhskoy_epa/">Посвященную святителю Митрофану композицию с фестиваля «Город-сад» подарили воронежской епархии</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Воронежские власти официально опровергли закрытие мехзавода (DeFacto Воронеж)]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/09/voronezhskie_vlasti_ofitsialno_oprovergli_zakrytie_mekhzavoda/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/09/voronezhskie_vlasti_ofitsialno_oprovergli_zakrytie_mekhzavoda/"/>
+        <updated>2023-09-08T05:34:19.926Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/09/voronezhskie_vlasti_ofitsialno_oprovergli_zakrytie_mekhzavoda/">Воронежские власти официально опровергли закрытие мехзавода</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[СМИ: воронежский «Факел» возглавит Сергей Ташуев (DeFacto Воронеж)]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/09/smi_voronezhskiy_fakel_vozglavit_sergey_tashuev/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/09/smi_voronezhskiy_fakel_vozglavit_sergey_tashuev/"/>
+        <updated>2023-09-08T05:34:19.928Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/09/smi_voronezhskiy_fakel_vozglavit_sergey_tashuev/">СМИ: воронежский «Факел» возглавит Сергей Ташуев</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[В Воронеже установили сотую остановку нового формата в составе НТО (DeFacto Воронеж)]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/09/v_voronezhe_ustanovili_sotuyu_ostanovku_novogo_formata_v_sostave_nto/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/09/v_voronezhe_ustanovili_sotuyu_ostanovku_novogo_formata_v_sostave_nto/"/>
+        <updated>2023-09-08T05:34:19.929Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/09/v_voronezhe_ustanovili_sotuyu_ostanovku_novogo_formata_v_sostave_nto/">В Воронеже установили сотую остановку нового формата в составе НТО</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Начался монтаж уникальных люков в воронежском сквере (DeFacto Воронеж)]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/09/v_voronezhe_v_skvere_imeni_ivana_bunina_nachalsya_montazh_avtorskikh_lyukov/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/09/v_voronezhe_v_skvere_imeni_ivana_bunina_nachalsya_montazh_avtorskikh_lyukov/"/>
+        <updated>2023-09-08T05:34:19.931Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/09/v_voronezhe_v_skvere_imeni_ivana_bunina_nachalsya_montazh_avtorskikh_lyukov/">Начался монтаж уникальных люков в воронежском сквере </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[«РВК-Воронеж» работает над стабилизацией давления водоснабжения (DeFacto Воронеж)]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/09/rvk_voronezh_rabotaet_nad_stabilizatsiey_davleniya_vodosnabzheniya/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/09/rvk_voronezh_rabotaet_nad_stabilizatsiey_davleniya_vodosnabzheniya/"/>
+        <updated>2023-09-08T05:34:19.933Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/09/rvk_voronezh_rabotaet_nad_stabilizatsiey_davleniya_vodosnabzheniya/">«РВК-Воронеж» работает над стабилизацией давления водоснабжения</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[На улице Транспортной запретят парковку в Воронеже (DeFacto Воронеж)]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/09/vozle_voronezhskoy_rotondy_8_sentyabrya_na_vremya_zapretyat_parkovku/</id>
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/09/vozle_voronezhskoy_rotondy_8_sentyabrya_na_vremya_zapretyat_parkovku/"/>
         <updated>2023-09-07T17:34:58.839Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/09/vozle_voronezhskoy_rotondy_8_sentyabrya_na_vremya_zapretyat_parkovku/">Возле воронежской Ротонды 8 сентября на время запретят парковку</a>]]></content>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/09/vozle_voronezhskoy_rotondy_8_sentyabrya_na_vremya_zapretyat_parkovku/">На улице Транспортной запретят парковку в Воронеже </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Под Воронежем новые очаги сибирской язвы были выявлены (DeFacto Воронеж)]]></title>
+        <title type="html"><![CDATA[Новые очаги сибирской язвы обнаружены под Воронежем (DeFacto Воронеж)]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/09/ochagi_sibirskoy_yazvy_nashli_v_bogucharskom_rayone_pod_voronezhem/</id>
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/09/ochagi_sibirskoy_yazvy_nashli_v_bogucharskom_rayone_pod_voronezhem/"/>
         <updated>2023-09-07T17:34:58.839Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/09/ochagi_sibirskoy_yazvy_nashli_v_bogucharskom_rayone_pod_voronezhem/">Под Воронежем новые очаги сибирской язвы были выявлены</a>]]></content>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/09/ochagi_sibirskoy_yazvy_nashli_v_bogucharskom_rayone_pod_voronezhem/">Новые очаги сибирской язвы обнаружены под Воронежем</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Временная схема движения будет действовать на улице Шишкова в Воронеже до 12 сентября (DeFacto Воронеж)]]></title>
+        <title type="html"><![CDATA[На улице Шишкова в Воронеже до 12 сентября изменят схему движения (DeFacto Воронеж)]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/09/vremennaya_skhema_dvizheniya_budet_deystvovat_na_ulitse_shishkova_v_voronezhe_do_12_sentyabrya/</id>
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/09/vremennaya_skhema_dvizheniya_budet_deystvovat_na_ulitse_shishkova_v_voronezhe_do_12_sentyabrya/"/>
         <updated>2023-09-07T17:34:58.840Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/09/vremennaya_skhema_dvizheniya_budet_deystvovat_na_ulitse_shishkova_v_voronezhe_do_12_sentyabrya/">Временная схема движения будет действовать на улице Шишкова в Воронеже до 12 сентября</a>]]></content>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/09/vremennaya_skhema_dvizheniya_budet_deystvovat_na_ulitse_shishkova_v_voronezhe_do_12_sentyabrya/">На улице Шишкова в Воронеже до 12 сентября изменят схему движения</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[За продажу персональных данных в Воронеже под уголовное дело попал бывший полицейский (DeFacto Воронеж)]]></title>
+        <title type="html"><![CDATA[Воронежского экс-полицейского подозревают в продаже персональных данных (DeFacto Воронеж)]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/09/v_prodazhe_personalnykh_dannykh_obvinyaetsya_voronezhskiy_politseyskiy/</id>
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/09/v_prodazhe_personalnykh_dannykh_obvinyaetsya_voronezhskiy_politseyskiy/"/>
         <updated>2023-09-07T17:34:58.841Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/09/v_prodazhe_personalnykh_dannykh_obvinyaetsya_voronezhskiy_politseyskiy/">За продажу персональных данных в Воронеже под уголовное дело попал бывший полицейский </a>]]></content>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/09/v_prodazhe_personalnykh_dannykh_obvinyaetsya_voronezhskiy_politseyskiy/">Воронежского экс-полицейского подозревают в продаже персональных данных</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Вновь начнут ходить в Воронеже троллейбусы №11 (DeFacto Воронеж)]]></title>
+        <title type="html"><![CDATA[В Воронеже с  8 сентября троллейбусы маршрута №11 вновь выйдут на линию (DeFacto Воронеж)]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/09/trolleybusy_marshruta_11_vnov_vyydut_na_liniyu_v_voronezhe_s_pyatnitsy/</id>
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/09/trolleybusy_marshruta_11_vnov_vyydut_na_liniyu_v_voronezhe_s_pyatnitsy/"/>
         <updated>2023-09-07T17:34:58.850Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/09/trolleybusy_marshruta_11_vnov_vyydut_na_liniyu_v_voronezhe_s_pyatnitsy/">Вновь начнут ходить в Воронеже троллейбусы №11 </a>]]></content>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/09/trolleybusy_marshruta_11_vnov_vyydut_na_liniyu_v_voronezhe_s_pyatnitsy/">В Воронеже с  8 сентября троллейбусы маршрута №11 вновь выйдут на линию </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Из СИЗО вышел первый замдиректора воронежской ГО и пожарной безопасности (DeFacto Воронеж)]]></title>
+        <title type="html"><![CDATA[Экс-замдиректор воронежской «Гражданской обороны» вышел из СИЗО (DeFacto Воронеж)]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/09/zaderzhannogo_za_aferu_s_amunitsiey_dlya_svo_byvshego_zamdirektora_voronezhskoy_go_plakhotina_vypust/</id>
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/09/zaderzhannogo_za_aferu_s_amunitsiey_dlya_svo_byvshego_zamdirektora_voronezhskoy_go_plakhotina_vypust/"/>
         <updated>2023-09-07T17:34:58.856Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/09/zaderzhannogo_za_aferu_s_amunitsiey_dlya_svo_byvshego_zamdirektora_voronezhskoy_go_plakhotina_vypust/">Из СИЗО вышел первый замдиректора воронежской ГО и пожарной безопасности</a>]]></content>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/09/zaderzhannogo_za_aferu_s_amunitsiey_dlya_svo_byvshego_zamdirektora_voronezhskoy_go_plakhotina_vypust/">Экс-замдиректор воронежской «Гражданской обороны» вышел из СИЗО</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Под Воронежем демонтировали памятный знак, посвященный встрече Петра I и Мазепы (DeFacto Воронеж)]]></title>
+        <title type="html"><![CDATA[Под Воронежем демонтировали памятный знак о встрече Петра I и украинского гетмана Мазепы (DeFacto Воронеж)]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/09/pod_voronezhem_demontirovali_pamyatnyy_znak_posvyashchennyy_vstreche_petra_i_i_mazepy_/</id>
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/09/pod_voronezhem_demontirovali_pamyatnyy_znak_posvyashchennyy_vstreche_petra_i_i_mazepy_/"/>
         <updated>2023-09-07T17:34:58.856Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/09/pod_voronezhem_demontirovali_pamyatnyy_znak_posvyashchennyy_vstreche_petra_i_i_mazepy_/">Под Воронежем демонтировали памятный знак, посвященный встрече Петра I и Мазепы </a>]]></content>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/09/pod_voronezhem_demontirovali_pamyatnyy_znak_posvyashchennyy_vstreche_petra_i_i_mazepy_/">Под Воронежем демонтировали памятный знак о встрече Петра I и украинского гетмана Мазепы</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Инклюзивный проект Центрально-Черноземного банка получил положительную оценку Департамента социальной защиты Воронежской области (DeFacto Воронеж)]]></title>
@@ -75,11 +117,11 @@
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/09/71_komfortabelnyy_passazhirskiy_avtobus_za_800_mln_rubley_zakupit_voronezhskoe_pravitelstvo/">71 комфортабельный пассажирский автобус за 800 млн рублей закупит воронежское правительство</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Групповые занятия для детей в воронежских секциях и кружках временно отменили (DeFacto Воронеж)]]></title>
+        <title type="html"><![CDATA[Из-за кишечной инфекции ограничат работу учреждений допобразования в Воронеже (DeFacto Воронеж)]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/09/gruppovye_zanyatiya_dlya_detey_v_voronezhskikh_sektsiyakh_i_kruzhkakh_vremenno_otmenili/</id>
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/09/gruppovye_zanyatiya_dlya_detey_v_voronezhskikh_sektsiyakh_i_kruzhkakh_vremenno_otmenili/"/>
         <updated>2023-09-07T17:34:58.876Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/09/gruppovye_zanyatiya_dlya_detey_v_voronezhskikh_sektsiyakh_i_kruzhkakh_vremenno_otmenili/">Групповые занятия для детей в воронежских секциях и кружках временно отменили</a>]]></content>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/09/gruppovye_zanyatiya_dlya_detey_v_voronezhskikh_sektsiyakh_i_kruzhkakh_vremenno_otmenili/">Из-за кишечной инфекции ограничат работу учреждений допобразования в Воронеже</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Полный список избирательных участков в Воронеже с адресами опубликовали воронежские власти (DeFacto Воронеж)]]></title>
@@ -171,47 +213,5 @@
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/09/v_voronezhe_vosstanovyat_starinnyy_dom_kuptsa_lagutina_/"/>
         <updated>2023-09-06T17:34:45.621Z</updated>
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/09/v_voronezhe_vosstanovyat_starinnyy_dom_kuptsa_lagutina_/">В Воронеже восстановят старинный «Дом купца Лагутина»  </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Спрос на накопительные счета растет (DeFacto Воронеж)]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/09/spros_na_nakopitelnye_scheta_rastet/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/09/spros_na_nakopitelnye_scheta_rastet/"/>
-        <updated>2023-09-06T17:34:45.623Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/09/spros_na_nakopitelnye_scheta_rastet/">Спрос на накопительные счета растет</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[До 2030 года в Воронеже создадут  еще 1610 платных парковочных мест (DeFacto Воронеж)]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/09/do_2030_goda_v_voronezhe_sozdadut_eshche_1610_platnykh_parkovochnykh_mest_/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/09/do_2030_goda_v_voronezhe_sozdadut_eshche_1610_platnykh_parkovochnykh_mest_/"/>
-        <updated>2023-09-06T17:34:45.624Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/09/do_2030_goda_v_voronezhe_sozdadut_eshche_1610_platnykh_parkovochnykh_mest_/">До 2030 года в Воронеже создадут  еще 1610 платных парковочных мест </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Жители Черноземья почти на 30% стали чаще выбирать бесконтактные способы оплаты (DeFacto Воронеж)]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/09/zhiteli_chernozemya_vse_chashche_ispolzuyut_sberpay/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/09/zhiteli_chernozemya_vse_chashche_ispolzuyut_sberpay/"/>
-        <updated>2023-09-06T17:34:45.629Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/09/zhiteli_chernozemya_vse_chashche_ispolzuyut_sberpay/">Жители Черноземья почти на 30% стали чаще выбирать бесконтактные способы оплаты</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Полномочия после отставки Шабалатова перераспределили  в воронежском правительстве (DeFacto Воронеж)]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/09/ukazom_glavy_regiona_mezhdu_zampredami_pravitelstva_voronezhskoy_oblasti_pereraspredeleny_obyazannos/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/09/ukazom_glavy_regiona_mezhdu_zampredami_pravitelstva_voronezhskoy_oblasti_pereraspredeleny_obyazannos/"/>
-        <updated>2023-09-06T17:34:45.630Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/09/ukazom_glavy_regiona_mezhdu_zampredami_pravitelstva_voronezhskoy_oblasti_pereraspredeleny_obyazannos/">Полномочия после отставки Шабалатова перераспределили  в воронежском правительстве</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Сергею Лукину и Виктору Тройнину присвоили звание Почетного гражданина Воронежа (DeFacto Воронеж)]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/09/sergeyu_lukinu_i_viktoru_troyninu_prisvoili_zvanie_pochetnogo_grazhdanina_voronezha_/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/09/sergeyu_lukinu_i_viktoru_troyninu_prisvoili_zvanie_pochetnogo_grazhdanina_voronezha_/"/>
-        <updated>2023-09-06T17:34:45.632Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/09/sergeyu_lukinu_i_viktoru_troyninu_prisvoili_zvanie_pochetnogo_grazhdanina_voronezha_/">Сергею Лукину и Виктору Тройнину присвоили звание Почетного гражданина Воронежа </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[За 16 тысяч рублей сдают в аренду озеро в Рамонском районе под Воронежем (DeFacto Воронеж)]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/09/za_16_tysyach_rubley_sdayut_v_arendu_ozero_v_ramonskom_rayone_pod_voronezhem_/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/09/za_16_tysyach_rubley_sdayut_v_arendu_ozero_v_ramonskom_rayone_pod_voronezhem_/"/>
-        <updated>2023-09-06T17:34:45.636Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/09/za_16_tysyach_rubley_sdayut_v_arendu_ozero_v_ramonskom_rayone_pod_voronezhem_/">За 16 тысяч рублей сдают в аренду озеро в Рамонском районе под Воронежем </a>]]></content>
     </entry>
 </feed>
