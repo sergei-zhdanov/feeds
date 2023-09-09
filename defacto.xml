@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://facto.ru</id>
     <title>DeFacto Воронеж</title>
-    <updated>2023-09-09T05:34:30.167Z</updated>
+    <updated>2023-09-09T17:34:21.438Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://facto.ru/bitrix/templates/cz_facto_2016/favicons/favicon-16x16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Общая явка на выборах губернатора Воронежской области в первый день превысила 21%]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/09/obshchaya_yavka_na_vyborakh_gubernatora_voronezhskoy_oblasti_v_pervyy_den_prevysila_21/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/09/obshchaya_yavka_na_vyborakh_gubernatora_voronezhskoy_oblasti_v_pervyy_den_prevysila_21/"/>
+        <updated>2023-09-09T17:34:20.544Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/09/obshchaya_yavka_na_vyborakh_gubernatora_voronezhskoy_oblasti_v_pervyy_den_prevysila_21/">Общая явка на выборах губернатора Воронежской области в первый день превысила 21%</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Мэрия Воронежа представила полную программу праздничных мероприятий в День города]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/09/meriya_voronezha_predstavila_polnuyu_programmu_prazdnichnykh_meropriyatiy_v_den_goroda/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/09/meriya_voronezha_predstavila_polnuyu_programmu_prazdnichnykh_meropriyatiy_v_den_goroda/"/>
+        <updated>2023-09-09T17:34:20.550Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/09/meriya_voronezha_predstavila_polnuyu_programmu_prazdnichnykh_meropriyatiy_v_den_goroda/">Мэрия Воронежа представила полную программу праздничных мероприятий в День города</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Зампред правления Сбербанка: срок действия карт «Мир» вырастет до 10 лет]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/09/zampred_pravleniya_sberbanka_srok_deystviya_kart_mir_vyrastet_do_10_let/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/09/zampred_pravleniya_sberbanka_srok_deystviya_kart_mir_vyrastet_do_10_let/"/>
+        <updated>2023-09-09T17:34:20.551Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/09/zampred_pravleniya_sberbanka_srok_deystviya_kart_mir_vyrastet_do_10_let/">Зампред правления Сбербанка: срок действия карт «Мир» вырастет до 10 лет</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Воронежцам разъяснили порядок голосования на выборах губернатора через ДЭГ на устройствах Apple]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/09/voronezhtsam_razyasnili_poryadok_golosovaniya_na_vyborakh_gubernatora_cherez_deg_na_ustroystvakh_app/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/09/voronezhtsam_razyasnili_poryadok_golosovaniya_na_vyborakh_gubernatora_cherez_deg_na_ustroystvakh_app/"/>
+        <updated>2023-09-09T17:34:20.552Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/09/voronezhtsam_razyasnili_poryadok_golosovaniya_na_vyborakh_gubernatora_cherez_deg_na_ustroystvakh_app/">Воронежцам разъяснили порядок голосования на выборах губернатора через ДЭГ на устройствах Apple</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Мэр Вадим Кстенин принял участие в открытии памятника воинам Красной Армии у Ротонды в Воронеже]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/09/mer_vadim_kstenin_prinyal_uchastie_v_otkrytii_pamyatnika_voinam_krasnoy_armii_u_rotondy_v_voronezhe/</id>
@@ -186,33 +214,5 @@
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/09/inklyuzivnyy_proekt_tsentralno_chernozemnogo_banka_poluchil_polozhitelnuyu_otsenku_departamenta_sots/"/>
         <updated>2023-09-07T17:34:58.858Z</updated>
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/09/inklyuzivnyy_proekt_tsentralno_chernozemnogo_banka_poluchil_polozhitelnuyu_otsenku_departamenta_sots/">Инклюзивный проект Центрально-Черноземного банка получил положительную оценку Департамента социальной защиты Воронежской области</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Полномочия члена ТИК Семилукского района прекратил Избирком Воронежской области]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/09/polnomochiya_chlena_tik_semilukskogo_rayona_prekratil_izbirkom_voronezhskoy_oblasti_/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/09/polnomochiya_chlena_tik_semilukskogo_rayona_prekratil_izbirkom_voronezhskoy_oblasti_/"/>
-        <updated>2023-09-07T17:34:58.860Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/09/polnomochiya_chlena_tik_semilukskogo_rayona_prekratil_izbirkom_voronezhskoy_oblasti_/">Полномочия члена ТИК Семилукского района прекратил Избирком Воронежской области </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[71 комфортабельный пассажирский автобус за 800 млн рублей закупит воронежское правительство]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/09/71_komfortabelnyy_passazhirskiy_avtobus_za_800_mln_rubley_zakupit_voronezhskoe_pravitelstvo/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/09/71_komfortabelnyy_passazhirskiy_avtobus_za_800_mln_rubley_zakupit_voronezhskoe_pravitelstvo/"/>
-        <updated>2023-09-07T17:34:58.875Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/09/71_komfortabelnyy_passazhirskiy_avtobus_za_800_mln_rubley_zakupit_voronezhskoe_pravitelstvo/">71 комфортабельный пассажирский автобус за 800 млн рублей закупит воронежское правительство</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Из-за кишечной инфекции ограничат работу учреждений допобразования в Воронеже]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/09/gruppovye_zanyatiya_dlya_detey_v_voronezhskikh_sektsiyakh_i_kruzhkakh_vremenno_otmenili/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/09/gruppovye_zanyatiya_dlya_detey_v_voronezhskikh_sektsiyakh_i_kruzhkakh_vremenno_otmenili/"/>
-        <updated>2023-09-07T17:34:58.876Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/09/gruppovye_zanyatiya_dlya_detey_v_voronezhskikh_sektsiyakh_i_kruzhkakh_vremenno_otmenili/">Из-за кишечной инфекции ограничат работу учреждений допобразования в Воронеже</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Полный список избирательных участков в Воронеже с адресами опубликовали воронежские власти]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/09/polnyy_spisok_izbiratelnykh_uchastkov_v_voronezhe_s_adresami_opublikovali_voronezhskie_vlasti/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/09/polnyy_spisok_izbiratelnykh_uchastkov_v_voronezhe_s_adresami_opublikovali_voronezhskie_vlasti/"/>
-        <updated>2023-09-07T17:34:58.877Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/09/polnyy_spisok_izbiratelnykh_uchastkov_v_voronezhe_s_adresami_opublikovali_voronezhskie_vlasti/">Полный список избирательных участков в Воронеже с адресами опубликовали воронежские власти</a>]]></content>
     </entry>
 </feed>
