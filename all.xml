@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sergei-zhdanov.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-09-10T17:34:12.432Z</updated>
+    <updated>2023-09-11T05:34:58.284Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Действующий губернатор Воронежской области Гусев лидирует на выборах главы региона (DeFacto Воронеж)]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/09/deystvuyushchiy_gubernator_voronezhskoy_oblasti_gusev_lidiruet_na_vyborakh_glavy_regiona/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/09/deystvuyushchiy_gubernator_voronezhskoy_oblasti_gusev_lidiruet_na_vyborakh_glavy_regiona/"/>
+        <updated>2023-09-11T05:34:57.227Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/09/deystvuyushchiy_gubernator_voronezhskoy_oblasti_gusev_lidiruet_na_vyborakh_glavy_regiona/">Действующий губернатор Воронежской области Гусев лидирует на выборах главы региона</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Предварительная явка на выборах губернатора Воронежской области составила 50% (DeFacto Воронеж)]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/09/predvaritelnaya_yavka_na_vyborakh_gubernatora_voronezhskoy_oblasti_sostavila_50/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/09/predvaritelnaya_yavka_na_vyborakh_gubernatora_voronezhskoy_oblasti_sostavila_50/"/>
+        <updated>2023-09-11T05:34:57.230Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/09/predvaritelnaya_yavka_na_vyborakh_gubernatora_voronezhskoy_oblasti_sostavila_50/">Предварительная явка на выборах губернатора Воронежской области составила 50%</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Во втором квартале 2023 года на Сбер совершено 32 DDoS-атаки (DeFacto Воронеж)]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/09/vo_vtorom_kvartale_2023_goda_na_sber_soversheno_32_ddos_ataki/</id>
@@ -199,19 +213,5 @@
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/09/v_prodazhe_personalnykh_dannykh_obvinyaetsya_voronezhskiy_politseyskiy/"/>
         <updated>2023-09-07T17:34:58.841Z</updated>
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/09/v_prodazhe_personalnykh_dannykh_obvinyaetsya_voronezhskiy_politseyskiy/">Воронежского экс-полицейского подозревают в продаже персональных данных</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[В Воронеже с  8 сентября троллейбусы маршрута №11 вновь выйдут на линию (DeFacto Воронеж)]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/09/trolleybusy_marshruta_11_vnov_vyydut_na_liniyu_v_voronezhe_s_pyatnitsy/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/09/trolleybusy_marshruta_11_vnov_vyydut_na_liniyu_v_voronezhe_s_pyatnitsy/"/>
-        <updated>2023-09-07T17:34:58.850Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/09/trolleybusy_marshruta_11_vnov_vyydut_na_liniyu_v_voronezhe_s_pyatnitsy/">В Воронеже с  8 сентября троллейбусы маршрута №11 вновь выйдут на линию </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Экс-замдиректор воронежской «Гражданской обороны» вышел из СИЗО (DeFacto Воронеж)]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/09/zaderzhannogo_za_aferu_s_amunitsiey_dlya_svo_byvshego_zamdirektora_voronezhskoy_go_plakhotina_vypust/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/09/zaderzhannogo_za_aferu_s_amunitsiey_dlya_svo_byvshego_zamdirektora_voronezhskoy_go_plakhotina_vypust/"/>
-        <updated>2023-09-07T17:34:58.856Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/09/zaderzhannogo_za_aferu_s_amunitsiey_dlya_svo_byvshego_zamdirektora_voronezhskoy_go_plakhotina_vypust/">Экс-замдиректор воронежской «Гражданской обороны» вышел из СИЗО</a>]]></content>
     </entry>
 </feed>
