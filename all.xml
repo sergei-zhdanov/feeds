@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sergei-zhdanov.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-09-11T17:34:29.223Z</updated>
+    <updated>2023-09-12T05:34:59.375Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Движение по временной схеме на улице Шишкова в Воронеже продлили до 19 сентября (DeFacto Воронеж)]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/09/dvizhenie_po_vremennoy_skheme_na_ulitse_shishkova_v_voronezhe_prodlili_do_19_sentyabrya/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/09/dvizhenie_po_vremennoy_skheme_na_ulitse_shishkova_v_voronezhe_prodlili_do_19_sentyabrya/"/>
+        <updated>2023-09-12T05:34:58.015Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/09/dvizhenie_po_vremennoy_skheme_na_ulitse_shishkova_v_voronezhe_prodlili_do_19_sentyabrya/">Движение по временной схеме на улице Шишкова в Воронеже продлили до 19 сентября</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[В День города в Воронеже выступит Стас Костюшкин (DeFacto Воронеж)]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/09/v_voronezhe_na_dne_goroda_vystupit_stas_kostyushkin/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/09/v_voronezhe_na_dne_goroda_vystupit_stas_kostyushkin/"/>
+        <updated>2023-09-12T05:34:58.026Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/09/v_voronezhe_na_dne_goroda_vystupit_stas_kostyushkin/">В День города в Воронеже выступит Стас Костюшкин</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Автоматизированный медицинский помощник приглашает воронежцев на прием к врачу (DeFacto Воронеж)]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/09/avtomatizirovannyy_meditsinskiy_pomoshchnik_priglashaet_voronezhtsev_na_priem_k_vrachu/</id>
@@ -124,11 +138,11 @@
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/09/na_chempionate_rossii_po_avtokrossu_piloty_voronezhskoy_sbornoy_zavoevali_3_medali_/">На чемпионате России по автокроссу пилоты воронежской сборной завоевали 3 медали </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Отсрочить взыскание с него 6 млн рублей просил суд бывший замглавы воронежской ГИБДД (DeFacto Воронеж)]]></title>
+        <title type="html"><![CDATA[Эксзамглавы воронежского УГИБДД не удалось отсрочить взыскание 6 млн рублей (DeFacto Воронеж)]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/09/otsrochit_vzyskanie_s_nego_6_mln_rubley_prosil_sud_byvshiy_zamglavy_voronezhskoy_gibdd_/</id>
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/09/otsrochit_vzyskanie_s_nego_6_mln_rubley_prosil_sud_byvshiy_zamglavy_voronezhskoy_gibdd_/"/>
         <updated>2023-09-11T17:34:28.317Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/09/otsrochit_vzyskanie_s_nego_6_mln_rubley_prosil_sud_byvshiy_zamglavy_voronezhskoy_gibdd_/">Отсрочить взыскание с него 6 млн рублей просил суд бывший замглавы воронежской ГИБДД </a>]]></content>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/09/otsrochit_vzyskanie_s_nego_6_mln_rubley_prosil_sud_byvshiy_zamglavy_voronezhskoy_gibdd_/">Эксзамглавы воронежского УГИБДД не удалось отсрочить взыскание 6 млн рублей</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[51% с учетом ДЭГ превысила явка на выборах воронежского губернатора (DeFacto Воронеж)]]></title>
@@ -199,19 +213,5 @@
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/09/vo_vtorom_kvartale_2023_goda_na_sber_soversheno_32_ddos_ataki/"/>
         <updated>2023-09-10T17:34:11.601Z</updated>
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/09/vo_vtorom_kvartale_2023_goda_na_sber_soversheno_32_ddos_ataki/">Во втором квартале 2023 года на Сбер совершено 32 DDoS-атаки</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[В Воронежской области по итогам двух дней на выборах губернатора проголосовало 37% избирателей (DeFacto Воронеж)]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/09/v_voronezhskoy_oblasti_po_itogam_dvukh_dney_na_vyborakh_gubernatora_progolosovalo_37_izbirateley/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/09/v_voronezhskoy_oblasti_po_itogam_dvukh_dney_na_vyborakh_gubernatora_progolosovalo_37_izbirateley/"/>
-        <updated>2023-09-10T17:34:11.603Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/09/v_voronezhskoy_oblasti_po_itogam_dvukh_dney_na_vyborakh_gubernatora_progolosovalo_37_izbirateley/">В Воронежской области по итогам двух дней на выборах губернатора проголосовало 37% избирателей</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Общая явка на выборах губернатора Воронежской области в первый день превысила 21% (DeFacto Воронеж)]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/09/obshchaya_yavka_na_vyborakh_gubernatora_voronezhskoy_oblasti_v_pervyy_den_prevysila_21/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/09/obshchaya_yavka_na_vyborakh_gubernatora_voronezhskoy_oblasti_v_pervyy_den_prevysila_21/"/>
-        <updated>2023-09-09T17:34:20.544Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/09/obshchaya_yavka_na_vyborakh_gubernatora_voronezhskoy_oblasti_v_pervyy_den_prevysila_21/">Общая явка на выборах губернатора Воронежской области в первый день превысила 21%</a>]]></content>
     </entry>
 </feed>
