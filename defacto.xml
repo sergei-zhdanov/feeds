@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://facto.ru</id>
     <title>DeFacto Воронеж</title>
-    <updated>2023-09-16T05:35:09.157Z</updated>
+    <updated>2023-09-16T17:34:28.969Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://facto.ru/bitrix/templates/cz_facto_2016/favicons/favicon-16x16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[В День города Ангелина Мельникова провела для воронежцев утреннюю зарядку]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/09/v_den_goroda_angelina_melnikova_provela_dlya_voronezhtsev_utrennyuyu_zaryadku/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/09/v_den_goroda_angelina_melnikova_provela_dlya_voronezhtsev_utrennyuyu_zaryadku/"/>
+        <updated>2023-09-16T17:34:28.066Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/09/v_den_goroda_angelina_melnikova_provela_dlya_voronezhtsev_utrennyuyu_zaryadku/">В День города Ангелина Мельникова провела для воронежцев утреннюю зарядку</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[В Воронеже состоялась торжественная церемония открытия Дня города]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/09/v_voronezhe_sostoyalas_torzhestvennaya_tseremoniya_otkrytiya_dnya_goroda/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/09/v_voronezhe_sostoyalas_torzhestvennaya_tseremoniya_otkrytiya_dnya_goroda/"/>
+        <updated>2023-09-16T17:34:28.068Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/09/v_voronezhe_sostoyalas_torzhestvennaya_tseremoniya_otkrytiya_dnya_goroda/">В Воронеже состоялась торжественная церемония открытия Дня города</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Александр Гусев официально стал губернатором Воронежской области]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/09/aleksandr_gusev_ofitsialno_stal_gubernatorom_voronezhskoy_oblasti/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/09/aleksandr_gusev_ofitsialno_stal_gubernatorom_voronezhskoy_oblasti/"/>
+        <updated>2023-09-16T17:34:28.068Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/09/aleksandr_gusev_ofitsialno_stal_gubernatorom_voronezhskoy_oblasti/">Александр Гусев официально стал губернатором Воронежской области</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Игроки воронежского «Факела» встретились с болельщиками перед игрой с «Уралом»]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/09/igroki_voronezhskogo_fakela_vstretilis_s_bolelshchikami_pered_igroy_s_uralom/</id>
@@ -193,26 +214,5 @@
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/09/post_prokurora_voronezha_pokinul_anatoliy_tolstikhin/"/>
         <updated>2023-09-14T17:34:46.573Z</updated>
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/09/post_prokurora_voronezha_pokinul_anatoliy_tolstikhin/">Пост прокурора Воронежа покинул Анатолий Толстихин</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[В Воронеже торговая сеть «Магнит» продает офисно-складской комплекс за 120,2 млн рублей]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/09/v_voronezhe_torgovaya_set_magnit_prodaet_ofisno_skladskoy_kompleks_za_120_2_mln_rubley/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/09/v_voronezhe_torgovaya_set_magnit_prodaet_ofisno_skladskoy_kompleks_za_120_2_mln_rubley/"/>
-        <updated>2023-09-14T17:34:46.575Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/09/v_voronezhe_torgovaya_set_magnit_prodaet_ofisno_skladskoy_kompleks_za_120_2_mln_rubley/">В Воронеже торговая сеть «Магнит» продает офисно-складской комплекс за 120,2 млн рублей</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Более 100 млн рублей воронежцы задолжали фонду капремонта]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/09/bolee_100_mln_rubley_voronezhtsy_zadolzhali_fondu_kapremonta_/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/09/bolee_100_mln_rubley_voronezhtsy_zadolzhali_fondu_kapremonta_/"/>
-        <updated>2023-09-14T17:34:46.576Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/09/bolee_100_mln_rubley_voronezhtsy_zadolzhali_fondu_kapremonta_/">Более 100 млн рублей воронежцы задолжали фонду капремонта </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[В Воронеже на 90 процентов готов Центр спортивной борьбы на проспекте Патриотов]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/09/v_voronezhe_na_90_protsentov_gotov_tsentr_sportivnoy_borby_na_prospekte_patriotov_/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/09/v_voronezhe_na_90_protsentov_gotov_tsentr_sportivnoy_borby_na_prospekte_patriotov_/"/>
-        <updated>2023-09-14T17:34:46.578Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/09/v_voronezhe_na_90_protsentov_gotov_tsentr_sportivnoy_borby_na_prospekte_patriotov_/">В Воронеже на 90 процентов готов Центр спортивной борьбы на проспекте Патриотов </a>]]></content>
     </entry>
 </feed>
