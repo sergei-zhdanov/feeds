@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://facto.ru</id>
     <title>DeFacto Воронеж</title>
-    <updated>2023-09-24T05:34:23.173Z</updated>
+    <updated>2023-09-24T17:34:32.531Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://facto.ru/bitrix/templates/cz_facto_2016/favicons/favicon-16x16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Воронежская область вошла в число регионов, где ожидается рост зарплат]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/09/voronezhskaya_oblast_voshla_v_chislo_regionov_gde_ozhidaetsya_rost_zarplat/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/09/voronezhskaya_oblast_voshla_v_chislo_regionov_gde_ozhidaetsya_rost_zarplat/"/>
+        <updated>2023-09-24T17:34:31.583Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/09/voronezhskaya_oblast_voshla_v_chislo_regionov_gde_ozhidaetsya_rost_zarplat/">Воронежская область вошла в число регионов, где ожидается рост зарплат</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Воронежская область получит дополнительные федеральные средства на мелиорацию]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/09/voronezhskaya_oblast_poluchit_dopolnitelnye_federalnye_sredstva_na_melioratsiyu/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/09/voronezhskaya_oblast_poluchit_dopolnitelnye_federalnye_sredstva_na_melioratsiyu/"/>
+        <updated>2023-09-24T17:34:31.585Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/09/voronezhskaya_oblast_poluchit_dopolnitelnye_federalnye_sredstva_na_melioratsiyu/">Воронежская область получит дополнительные федеральные средства на мелиорацию</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Число заболевших сибирской язвой жителей Воронежской области увеличилось до 11]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/09/chislo_zabolevshikh_sibirskoy_yazvoy_zhiteley_voronezhskoy_oblasti_uvelichilos_do_11/</id>
@@ -200,19 +214,5 @@
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/09/56_5_mln_rubley_dopolnitelno_sobirayutsya_vydelit_na_blagoustroystvo_voronezhskikh_dvorov_/"/>
         <updated>2023-09-21T17:34:46.208Z</updated>
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/09/56_5_mln_rubley_dopolnitelno_sobirayutsya_vydelit_na_blagoustroystvo_voronezhskikh_dvorov_/">56,5 млн рублей дополнительно собираются выделить на благоустройство воронежских дворов </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ради зарплаты в два раза выше 53% воронежцев готовы уехать из города]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/09/radi_zarplaty_v_dva_raza_vyshe_53_voronezhtsev_gotovy_uekhat_iz_goroda_/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/09/radi_zarplaty_v_dva_raza_vyshe_53_voronezhtsev_gotovy_uekhat_iz_goroda_/"/>
-        <updated>2023-09-21T17:34:46.230Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/09/radi_zarplaty_v_dva_raza_vyshe_53_voronezhtsev_gotovy_uekhat_iz_goroda_/">Ради зарплаты в два раза выше 53% воронежцев готовы уехать из города </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Василия Шулекина вновь выбрали главой Калачеевского района]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/09/vasiliya_shulekina_vnov_vybrali_glavoy_kalacheevskogo_rayona_/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/09/vasiliya_shulekina_vnov_vybrali_glavoy_kalacheevskogo_rayona_/"/>
-        <updated>2023-09-21T17:34:46.234Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/09/vasiliya_shulekina_vnov_vybrali_glavoy_kalacheevskogo_rayona_/">Василия Шулекина вновь выбрали главой Калачеевского района </a>]]></content>
     </entry>
 </feed>
