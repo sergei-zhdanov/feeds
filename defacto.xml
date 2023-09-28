@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://facto.ru</id>
     <title>DeFacto Воронеж</title>
-    <updated>2023-09-27T17:35:13.915Z</updated>
+    <updated>2023-09-28T05:34:58.033Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://facto.ru/bitrix/templates/cz_facto_2016/favicons/favicon-16x16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Почетную грамоту от мэра Вадима Кстенина за развитие туристической отрасли Воронежа вручили директору ТИЦ]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/09/pochetnuyu_gramotu_ot_mera_vadima_kstenina_za_razvitie_turisticheskoy_otrasli_voronezha_vruchili_dir/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/09/pochetnuyu_gramotu_ot_mera_vadima_kstenina_za_razvitie_turisticheskoy_otrasli_voronezha_vruchili_dir/"/>
+        <updated>2023-09-28T05:34:57.217Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/09/pochetnuyu_gramotu_ot_mera_vadima_kstenina_za_razvitie_turisticheskoy_otrasli_voronezha_vruchili_dir/">Почетную грамоту от мэра Вадима Кстенина за развитие туристической отрасли Воронежа вручили директору ТИЦ</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Мэр Вадим Кстенин рассказал о масштабном озеленении Воронежа]]></title>
+        <id>https://facto.ru/glavnaya_lenta_novostej/2023/09/mer_vadim_kstenin_rasskazal_o_masshtabnom_ozelenenii_voronezha/</id>
+        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/09/mer_vadim_kstenin_rasskazal_o_masshtabnom_ozelenenii_voronezha/"/>
+        <updated>2023-09-28T05:34:57.219Z</updated>
+        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/09/mer_vadim_kstenin_rasskazal_o_masshtabnom_ozelenenii_voronezha/">Мэр Вадим Кстенин рассказал о масштабном озеленении Воронежа</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Травмированному в игре с «Оренбургом» форварду воронежского «Факела» Ивахнову сделали операцию]]></title>
         <id>https://facto.ru/glavnaya_lenta_novostej/2023/09/travmirovannomu_v_igre_s_orenburgom_forvardu_voronezhskogo_fakela_ivakhnovu_sdelali_operatsiyu/</id>
@@ -200,19 +214,5 @@
         <link href="https://facto.ru/glavnaya_lenta_novostej/2023/09/poseshchenie_khoperskogo_zapovednika_zapretili_voronezhtsam_iz_za_riska_pozharov_/"/>
         <updated>2023-09-26T17:34:24.221Z</updated>
         <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/09/poseshchenie_khoperskogo_zapovednika_zapretili_voronezhtsam_iz_za_riska_pozharov_/">Посещение Хоперского заповедника запретили воронежцам из-за риска пожаров </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[В домашнем матче воронежский «Факел» проиграл «Рубину»]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/09/v_domashnem_matche_voronezhskiy_fakel_proigral_rubinu_/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/09/v_domashnem_matche_voronezhskiy_fakel_proigral_rubinu_/"/>
-        <updated>2023-09-26T17:34:24.222Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/09/v_domashnem_matche_voronezhskiy_fakel_proigral_rubinu_/">В домашнем матче воронежский «Факел» проиграл «Рубину» </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Введение масочного режима в Воронеже затронет только административные здания]]></title>
-        <id>https://facto.ru/glavnaya_lenta_novostej/2023/09/vvedenie_masochnogo_rezhima_v_voronezhe_zatronet_tolko_administrativnye_zdaniya/</id>
-        <link href="https://facto.ru/glavnaya_lenta_novostej/2023/09/vvedenie_masochnogo_rezhima_v_voronezhe_zatronet_tolko_administrativnye_zdaniya/"/>
-        <updated>2023-09-25T17:34:47.203Z</updated>
-        <content type="html"><![CDATA[<a href="/glavnaya_lenta_novostej/2023/09/vvedenie_masochnogo_rezhima_v_voronezhe_zatronet_tolko_administrativnye_zdaniya/">Введение масочного режима в Воронеже затронет только административные здания</a>]]></content>
     </entry>
 </feed>
